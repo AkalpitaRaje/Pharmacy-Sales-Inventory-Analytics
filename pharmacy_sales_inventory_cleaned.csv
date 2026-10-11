@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Medicine_Name,Category,Supplier,Quantity_Sold,Unit_Price,Stock_Available,Expiry_Date
+11170,2026-01-01,Calcium Tablets,Tablet,MediCare Ltd,21,11.09,190,2028-06-16
+11120,2026-01-01,Cetirizine,Syrup,MediCare Ltd,35,75.72,191,2027-08-03
+10866,2026-01-01,Amlodipine,Tablet,ABC Pharma,45,88.32,43,2027-07-23
+10738,2026-01-01,Calcium Tablets,Tablet,ABC Pharma,38,46.89,100,2027-12-09
+10512,2026-01-01,Ibuprofen,Tablet,Wellness Drugs,41,145.55,15,2028-05-19
+10997,2026-01-01,Paracetamol,Tablet,MediCare Ltd,3,51.13,75,2027-04-24
+10148,2026-01-01,Pantoprazole,Tablet,Wellness Drugs,3,27.41,140,2027-11-16
+10560,2026-01-01,Amlodipine,Tablet,HealthPlus Distributors,37,77.57,190,2027-11-25
+10974,2026-01-01,Cough Syrup,Syrup,Sunrise Pharma,6,102.12,25,2027-05-25
+10772,2026-01-01,Amoxicillin,Capsule,ABC Pharma,37,12.38,97,2027-07-31
+10299,2026-01-02,Pantoprazole,Tablet,ABC Pharma,43,124.16,181,2027-12-20
+10566,2026-01-02,Cetirizine,Syrup,Wellness Drugs,36,7.17,196,2027-09-03
+10233,2026-01-02,Amoxicillin,Capsule,Sunrise Pharma,11,93.83,230,2028-02-07
+10079,2026-01-02,Cetirizine,Syrup,MediCare Ltd,23,100.3,165,2028-01-26
+10022,2026-01-02,Pantoprazole,Tablet,Wellness Drugs,2,33.73,40,2028-11-17
+10884,2026-01-03,Pantoprazole,Tablet,Wellness Drugs,47,121.24,44,2027-07-22
+11130,2026-01-03,ORS,Sachet,Sunrise Pharma,27,96.86,93,2026-10-12
+10853,2026-01-03,Azithromycin,Tablet,Sunrise Pharma,7,5.51,118,2028-05-11
+10201,2026-01-03,Paracetamol,Tablet,Sunrise Pharma,44,57.57,27,2027-03-15
+11017,2026-01-03,Cetirizine,Syrup,ABC Pharma,19,90.93,74,2026-11-08
+10267,2026-01-03,Diclofenac,Tablet,Wellness Drugs,27,140.98,39,2026-12-28
+10776,2026-01-03,Diclofenac,Tablet,Sunrise Pharma,28,124.44,249,2027-05-28
+10870,2026-01-04,Levocetirizine,Tablet,HealthPlus Distributors,48,7.96,83,2027-05-09
+11073,2026-01-04,Antacid,Tablet,ABC Pharma,22,28.18,155,2027-03-07
+10083,2026-01-04,Vitamin C,Tablet,MediCare Ltd,21,18.34,126,2028-03-13
+11092,2026-01-04,Calcium Tablets,Tablet,ABC Pharma,24,105.69,94,2027-08-16
+10378,2026-01-04,Pantoprazole,Tablet,Sunrise Pharma,8,120.82,49,2027-01-28
+10562,2026-01-04,Antacid,Tablet,Sunrise Pharma,24,136.77,86,2027-12-21
+11135,2026-01-05,Cetirizine,Syrup,HealthPlus Distributors,27,55.08,222,2027-03-28
+10149,2026-01-05,Metformin,Tablet,HealthPlus Distributors,11,76.02,12,2026-11-07
+10476,2026-01-05,Vitamin C,Tablet,HealthPlus Distributors,21,148.44,172,2028-10-11
+10824,2026-01-05,Levocetirizine,Tablet,ABC Pharma,18,61.23,114,2028-08-31
+10126,2026-01-05,Cough Syrup,Syrup,Wellness Drugs,43,4.83,43,2027-08-21
+11185,2026-01-05,Amlodipine,Tablet,ABC Pharma,36,32.91,105,2028-07-08
+10966,2026-01-05,Ibuprofen,Tablet,Wellness Drugs,17,39.45,89,2026-11-22
+10700,2026-01-05,Vitamin C,Tablet,Wellness Drugs,14,17.28,7,2028-05-30
+10847,2026-01-06,Levocetirizine,Tablet,ABC Pharma,21,16.84,192,2027-01-12
+10479,2026-01-06,Cetirizine,Syrup,MediCare Ltd,37,30.88,141,2027-02-28
+10387,2026-01-06,Ibuprofen,Tablet,HealthPlus Distributors,41,88.31,32,2027-07-26
+11088,2026-01-06,Pantoprazole,Tablet,ABC Pharma,19,95.59,10,2028-03-17
+11056,2026-01-06,Vitamin C,Tablet,MediCare Ltd,49,54.78,84,2027-08-23
+10932,2026-01-06,ORS,Sachet,ABC Pharma,48,55.35,216,2027-06-22
+10293,2026-01-07,Amlodipine,Tablet,Sunrise Pharma,31,49.81,37,2028-10-29
+10690,2026-01-07,Pantoprazole,Tablet,MediCare Ltd,34,70.67,169,2027-03-11
+11016,2026-01-07,Pantoprazole,Tablet,Sunrise Pharma,29,15.3,144,2028-09-18
+10442,2026-01-08,Calcium Tablets,Tablet,HealthPlus Distributors,5,11.26,166,2028-09-24
+10789,2026-01-08,Diclofenac,Tablet,Sunrise Pharma,37,137.63,134,2028-06-01
+10948,2026-01-08,ORS,Sachet,Wellness Drugs,9,65.27,219,2028-04-10
+11049,2026-01-08,Metformin,Tablet,ABC Pharma,3,17.31,189,2028-07-18
+10598,2026-01-08,Diclofenac,Tablet,ABC Pharma,37,6.46,115,2026-10-31
+10070,2026-01-08,Ibuprofen,Tablet,Sunrise Pharma,1,17.6,22,2028-02-19
+10998,2026-01-08,Amlodipine,Tablet,MediCare Ltd,26,70.87,112,2028-12-16
+10472,2026-01-08,Cough Syrup,Syrup,Wellness Drugs,10,129.61,227,2027-09-11
+10365,2026-01-08,Pantoprazole,Tablet,ABC Pharma,34,96.12,88,2027-05-12
+10306,2026-01-09,Vitamin C,Tablet,MediCare Ltd,2,50.34,172,2027-05-15
+10653,2026-01-09,Ibuprofen,Tablet,HealthPlus Distributors,26,134.54,24,2028-07-03
+10686,2026-01-09,Paracetamol,Tablet,Sunrise Pharma,11,124.33,165,2028-04-26
+11149,2026-01-09,Diclofenac,Tablet,HealthPlus Distributors,15,39.13,114,2028-07-06
+10060,2026-01-09,Calcium Tablets,Tablet,Wellness Drugs,3,11.47,239,2027-08-01
+10114,2026-01-09,Azithromycin,Tablet,Wellness Drugs,4,101.7,190,2027-07-18
+10551,2026-01-10,Metformin,Tablet,HealthPlus Distributors,35,90.34,157,2028-08-27
+11134,2026-01-10,Cetirizine,Syrup,Wellness Drugs,20,84.36,195,2026-10-20
+10820,2026-01-10,Antacid,Tablet,Wellness Drugs,45,53.18,166,2028-02-28
+10286,2026-01-11,Antacid,Tablet,HealthPlus Distributors,19,40.42,86,2026-12-18
+10831,2026-01-11,Amoxicillin,Capsule,MediCare Ltd,23,103.83,5,2027-03-22
+11178,2026-01-11,Vitamin C,Tablet,Wellness Drugs,1,88.1,78,2027-03-26
+10222,2026-01-12,Amlodipine,Tablet,MediCare Ltd,39,116.38,159,2027-07-05
+10630,2026-01-12,Amlodipine,Tablet,Wellness Drugs,29,15.67,79,2028-04-25
+10581,2026-01-12,Cough Syrup,Syrup,ABC Pharma,26,120.61,19,2028-07-28
+10976,2026-01-12,Levocetirizine,Tablet,HealthPlus Distributors,47,91.27,20,2026-12-28
+10132,2026-01-12,Cough Syrup,Syrup,Wellness Drugs,49,34.91,115,2027-05-03
+10780,2026-01-12,Cetirizine,Syrup,HealthPlus Distributors,21,132.14,20,2028-11-02
+10591,2026-01-12,Cetirizine,Syrup,Wellness Drugs,12,11.79,104,2026-10-06
+10887,2026-01-12,Cetirizine,Syrup,HealthPlus Distributors,40,122.96,197,2027-10-20
+10171,2026-01-13,Amoxicillin,Capsule,MediCare Ltd,9,95.01,75,2028-05-09
+11037,2026-01-13,Paracetamol,Tablet,ABC Pharma,25,89.83,139,2027-02-12
+10434,2026-01-13,Paracetamol,Tablet,HealthPlus Distributors,22,120.15,20,2028-04-23
+10633,2026-01-13,Azithromycin,Tablet,HealthPlus Distributors,28,24.27,119,2026-11-23
+11140,2026-01-13,Calcium Tablets,Tablet,ABC Pharma,20,115.45,105,2028-10-15
+10489,2026-01-13,Antacid,Tablet,Wellness Drugs,9,69.19,9,2028-05-01
+10059,2026-01-14,Diclofenac,Tablet,MediCare Ltd,38,140.57,165,2027-01-25
+11180,2026-01-14,Diclofenac,Tablet,ABC Pharma,45,52.04,149,2028-09-15
+11200,2026-01-14,Metformin,Tablet,Wellness Drugs,10,24.41,111,2027-03-18
+10769,2026-01-14,Cetirizine,Syrup,Wellness Drugs,22,63.15,93,2027-06-05
+11012,2026-01-14,Pantoprazole,Tablet,HealthPlus Distributors,14,87.38,182,2028-03-09
+11006,2026-01-14,Pantoprazole,Tablet,HealthPlus Distributors,19,27.85,20,2028-09-06
+10091,2026-01-14,Amlodipine,Tablet,MediCare Ltd,30,124.63,97,2028-09-16
+10094,2026-01-15,Amlodipine,Tablet,Wellness Drugs,32,137.24,198,2028-11-23
+10155,2026-01-15,Cough Syrup,Syrup,ABC Pharma,43,91.63,89,2028-04-02
+10040,2026-01-15,Pantoprazole,Tablet,ABC Pharma,2,111.21,23,2027-06-28
+10109,2026-01-15,Amlodipine,Tablet,Sunrise Pharma,39,129.1,224,2028-07-29
+11024,2026-01-15,Calcium Tablets,Tablet,ABC Pharma,5,79.77,243,2028-10-02
+10004,2026-01-15,Paracetamol,Tablet,ABC Pharma,26,112.76,169,2026-11-17
+10468,2026-01-15,Cough Syrup,Syrup,Wellness Drugs,29,109.3,92,2028-10-06
+10782,2026-01-16,Antacid,Tablet,ABC Pharma,42,36.24,126,2027-08-30
+10563,2026-01-16,Antacid,Tablet,HealthPlus Distributors,2,77.46,79,2027-10-24
+10521,2026-01-16,ORS,Sachet,ABC Pharma,9,119.8,41,2027-09-02
+10638,2026-01-17,Paracetamol,Tablet,HealthPlus Distributors,26,71.7,79,2027-01-22
+10421,2026-01-17,ORS,Sachet,Wellness Drugs,18,12.51,177,2027-12-04
+10928,2026-01-17,Cetirizine,Syrup,HealthPlus Distributors,25,124.0,34,2027-12-22
+10382,2026-01-17,Azithromycin,Tablet,MediCare Ltd,29,61.48,152,2028-02-25
+11031,2026-01-17,Amlodipine,Tablet,ABC Pharma,35,45.78,49,2027-06-15
+11148,2026-01-17,Vitamin C,Tablet,HealthPlus Distributors,6,140.34,172,2026-11-14
+10055,2026-01-18,Vitamin C,Tablet,MediCare Ltd,6,106.41,141,2027-02-03
+10404,2026-01-18,Antacid,Tablet,ABC Pharma,32,120.79,121,2028-09-20
+11021,2026-01-18,Antacid,Tablet,ABC Pharma,40,23.21,88,2028-12-29
+10716,2026-01-19,Diclofenac,Tablet,ABC Pharma,17,92.87,155,2028-01-21
+11114,2026-01-19,Diclofenac,Tablet,ABC Pharma,12,88.67,66,2026-12-10
+10498,2026-01-19,Vitamin C,Tablet,HealthPlus Distributors,37,97.42,174,2028-05-24
+10724,2026-01-19,ORS,Sachet,Wellness Drugs,6,55.66,31,2026-10-11
+10646,2026-01-19,Amlodipine,Tablet,ABC Pharma,11,10.23,58,2027-06-22
+10764,2026-01-20,Diclofenac,Tablet,MediCare Ltd,17,92.55,58,2028-02-10
+10440,2026-01-20,Amoxicillin,Capsule,ABC Pharma,41,54.59,151,2028-02-05
+11116,2026-01-20,Diclofenac,Tablet,Sunrise Pharma,3,36.59,32,2026-11-04
+10368,2026-01-21,Levocetirizine,Tablet,HealthPlus Distributors,38,106.36,95,2028-06-28
+10965,2026-01-21,Antacid,Tablet,HealthPlus Distributors,36,115.27,56,2028-04-02
+10052,2026-01-21,Vitamin C,Tablet,Wellness Drugs,28,69.24,98,2027-01-21
+11069,2026-01-21,Metformin,Tablet,Wellness Drugs,33,37.56,38,2028-09-11
+10344,2026-01-21,Antacid,Tablet,Sunrise Pharma,14,80.1,150,2028-08-19
+10029,2026-01-21,Azithromycin,Tablet,Sunrise Pharma,19,101.59,190,2028-06-03
+10008,2026-01-21,Paracetamol,Tablet,Sunrise Pharma,8,66.29,178,2028-02-12
+10614,2026-01-21,Antacid,Tablet,ABC Pharma,47,107.98,14,2027-07-21
+10971,2026-01-22,Azithromycin,Tablet,MediCare Ltd,15,101.73,183,2028-12-02
+10033,2026-01-22,Paracetamol,Tablet,Sunrise Pharma,20,121.15,241,2027-08-20
+10359,2026-01-22,Amlodipine,Tablet,Wellness Drugs,19,76.05,172,2028-11-04
+10526,2026-01-22,Calcium Tablets,Tablet,ABC Pharma,33,131.36,134,2027-02-16
+10550,2026-01-23,Azithromycin,Tablet,HealthPlus Distributors,43,65.64,134,2028-05-01
+10855,2026-01-23,Azithromycin,Tablet,HealthPlus Distributors,7,146.25,220,2028-11-17
+10634,2026-01-23,Amoxicillin,Capsule,MediCare Ltd,13,145.28,130,2026-09-29
+10505,2026-01-23,Amlodipine,Tablet,Sunrise Pharma,48,29.42,71,2027-11-02
+10253,2026-01-24,Metformin,Tablet,MediCare Ltd,44,33.81,70,2028-03-08
+10411,2026-01-24,Paracetamol,Tablet,ABC Pharma,30,127.41,245,2026-09-25
+10391,2026-01-24,Antacid,Tablet,HealthPlus Distributors,19,6.7,62,2028-07-23
+10103,2026-01-24,Amlodipine,Tablet,ABC Pharma,11,83.9,148,2027-05-11
+10564,2026-01-24,Diclofenac,Tablet,HealthPlus Distributors,22,76.19,122,2028-08-06
+10405,2026-01-25,Diclofenac,Tablet,Sunrise Pharma,14,149.59,103,2028-09-08
+10666,2026-01-25,Cough Syrup,Syrup,ABC Pharma,4,44.62,200,2028-12-02
+11039,2026-01-25,Diclofenac,Tablet,HealthPlus Distributors,31,109.86,48,2027-09-07
+11035,2026-01-25,Amoxicillin,Capsule,MediCare Ltd,43,99.95,158,2027-01-10
+10953,2026-01-25,Paracetamol,Tablet,HealthPlus Distributors,22,140.3,26,2027-02-17
+11058,2026-01-26,Antacid,Tablet,ABC Pharma,11,3.91,42,2028-05-01
+10995,2026-01-26,ORS,Sachet,ABC Pharma,1,72.82,176,2028-02-24
+10429,2026-01-26,Ibuprofen,Tablet,Sunrise Pharma,49,146.02,225,2027-08-01
+10985,2026-01-26,Cough Syrup,Syrup,Sunrise Pharma,6,94.55,69,2028-01-29
+10833,2026-01-26,Amlodipine,Tablet,ABC Pharma,11,140.9,136,2027-04-22
+11105,2026-01-26,Diclofenac,Tablet,Wellness Drugs,41,20.58,174,2028-02-04
+10837,2026-01-27,Cetirizine,Syrup,Wellness Drugs,1,47.47,31,2027-06-05
+10152,2026-01-27,Calcium Tablets,Tablet,ABC Pharma,26,95.45,179,2027-03-10
+10196,2026-01-27,Pantoprazole,Tablet,HealthPlus Distributors,49,82.18,116,2026-11-23
+10697,2026-01-27,Cough Syrup,Syrup,Sunrise Pharma,38,6.8,137,2028-03-04
+10367,2026-01-27,ORS,Sachet,ABC Pharma,16,28.54,138,2026-12-16
+10366,2026-01-27,Pantoprazole,Tablet,ABC Pharma,42,90.7,95,2028-04-09
+10176,2026-01-28,ORS,Sachet,Wellness Drugs,17,81.28,156,2028-01-15
+11027,2026-01-28,Antacid,Tablet,Sunrise Pharma,6,119.24,202,2028-04-05
+10798,2026-01-28,Metformin,Tablet,MediCare Ltd,9,124.02,221,2026-09-26
+10184,2026-01-28,Amlodipine,Tablet,Wellness Drugs,41,29.15,114,2028-02-27
+11007,2026-01-28,ORS,Sachet,ABC Pharma,43,45.8,75,2027-12-07
+10371,2026-01-28,Vitamin C,Tablet,MediCare Ltd,26,125.93,113,2027-12-28
+10183,2026-01-28,Pantoprazole,Tablet,HealthPlus Distributors,37,68.79,212,2027-04-25
+10655,2026-01-28,Antacid,Tablet,Sunrise Pharma,7,48.45,228,2028-12-23
+10128,2026-01-28,Cetirizine,Syrup,ABC Pharma,31,133.85,19,2026-09-17
+10922,2026-01-29,Ibuprofen,Tablet,Sunrise Pharma,41,36.04,67,2027-07-20
+10169,2026-01-29,ORS,Sachet,Wellness Drugs,4,72.19,75,2027-10-26
+10535,2026-01-29,Metformin,Tablet,HealthPlus Distributors,8,69.83,155,2026-10-28
+10701,2026-01-29,Paracetamol,Tablet,Sunrise Pharma,10,27.53,120,2027-04-24
+10589,2026-01-29,Amoxicillin,Capsule,MediCare Ltd,40,139.51,215,2027-02-11
+11182,2026-01-30,Cetirizine,Syrup,Wellness Drugs,7,59.98,46,2028-12-11
+10188,2026-01-30,Pantoprazole,Tablet,Sunrise Pharma,45,13.2,221,2028-06-17
+10637,2026-01-30,Cough Syrup,Syrup,Wellness Drugs,44,38.51,135,2028-10-15
+10369,2026-01-30,Azithromycin,Tablet,HealthPlus Distributors,2,69.37,141,2028-04-15
+10909,2026-01-30,Calcium Tablets,Tablet,HealthPlus Distributors,39,55.44,159,2028-06-06
+10822,2026-01-30,Amoxicillin,Capsule,MediCare Ltd,20,121.2,161,2027-09-23
+10917,2026-01-30,Levocetirizine,Tablet,Wellness Drugs,28,96.94,132,2027-12-29
+11084,2026-01-31,Metformin,Tablet,HealthPlus Distributors,15,101.53,65,2028-03-02
+10413,2026-02-01,Ibuprofen,Tablet,Wellness Drugs,13,51.62,129,2028-06-23
+10874,2026-02-01,Azithromycin,Tablet,HealthPlus Distributors,46,82.54,247,2028-08-09
+10451,2026-02-01,Calcium Tablets,Tablet,Sunrise Pharma,27,46.76,49,2028-05-06
+11066,2026-02-02,Cough Syrup,Syrup,Sunrise Pharma,28,58.24,71,2027-09-09
+10826,2026-02-02,Paracetamol,Tablet,MediCare Ltd,1,41.36,22,2026-09-03
+10134,2026-02-02,ORS,Sachet,HealthPlus Distributors,5,91.95,87,2027-09-07
+10575,2026-02-02,Calcium Tablets,Tablet,HealthPlus Distributors,12,109.24,66,2027-12-12
+10342,2026-02-02,Vitamin C,Tablet,Wellness Drugs,34,139.51,81,2027-05-08
+10124,2026-02-02,Calcium Tablets,Tablet,Wellness Drugs,28,25.88,191,2027-01-11
+10353,2026-02-02,Paracetamol,Tablet,Sunrise Pharma,14,69.31,49,2026-09-04
+10548,2026-02-02,Calcium Tablets,Tablet,ABC Pharma,36,24.86,213,2026-10-20
+10875,2026-02-03,ORS,Sachet,MediCare Ltd,28,42.74,34,2028-01-10
+10931,2026-02-03,Cetirizine,Syrup,HealthPlus Distributors,14,111.22,207,2027-12-16
+10979,2026-02-03,Levocetirizine,Tablet,Sunrise Pharma,17,65.5,65,2026-10-09
+10513,2026-02-03,Pantoprazole,Tablet,MediCare Ltd,13,86.55,103,2026-11-07
+10554,2026-02-03,ORS,Sachet,Sunrise Pharma,10,60.88,107,2027-12-17
+11047,2026-02-03,Amoxicillin,Capsule,HealthPlus Distributors,7,137.92,196,2028-07-12
+10595,2026-02-04,ORS,Sachet,MediCare Ltd,30,116.74,53,2026-10-14
+10812,2026-02-04,Metformin,Tablet,Wellness Drugs,35,50.13,70,2026-10-07
+11169,2026-02-04,Amoxicillin,Capsule,ABC Pharma,48,97.94,172,2026-12-31
+11183,2026-02-04,Diclofenac,Tablet,HealthPlus Distributors,49,26.07,244,2027-11-11
+10072,2026-02-04,Calcium Tablets,Tablet,Sunrise Pharma,15,62.63,139,2027-06-27
+10379,2026-02-04,Amoxicillin,Capsule,MediCare Ltd,23,144.22,81,2027-05-11
+10142,2026-02-04,Azithromycin,Tablet,ABC Pharma,4,84.42,115,2027-02-01
+10170,2026-02-05,Pantoprazole,Tablet,Wellness Drugs,18,84.98,19,2028-12-17
+11086,2026-02-05,Azithromycin,Tablet,Sunrise Pharma,14,48.66,184,2027-12-14
+10713,2026-02-05,Pantoprazole,Tablet,Sunrise Pharma,43,104.42,128,2028-04-20
+10438,2026-02-05,Cetirizine,Syrup,MediCare Ltd,24,21.19,133,2028-08-31
+10623,2026-02-05,Ibuprofen,Tablet,HealthPlus Distributors,45,52.82,33,2027-08-23
+10996,2026-02-05,Diclofenac,Tablet,HealthPlus Distributors,17,139.47,185,2028-04-08
+10629,2026-02-06,Levocetirizine,Tablet,MediCare Ltd,41,11.15,156,2027-03-11
+11125,2026-02-06,Cetirizine,Syrup,Sunrise Pharma,38,134.89,40,2027-06-17
+10390,2026-02-06,Vitamin C,Tablet,Wellness Drugs,21,9.69,29,2027-02-15
+10304,2026-02-06,Amoxicillin,Capsule,ABC Pharma,16,16.05,131,2027-06-15
+10138,2026-02-06,Ibuprofen,Tablet,ABC Pharma,12,36.66,211,2028-03-12
+11153,2026-02-07,Azithromycin,Tablet,ABC Pharma,33,57.92,220,2028-01-07
+11124,2026-02-07,Amoxicillin,Capsule,HealthPlus Distributors,10,92.82,131,2028-05-02
+10905,2026-02-07,Diclofenac,Tablet,MediCare Ltd,37,114.5,202,2027-04-18
+11022,2026-02-07,Cough Syrup,Syrup,Wellness Drugs,19,107.78,133,2028-04-22
+10025,2026-02-07,Metformin,Tablet,HealthPlus Distributors,33,11.25,185,2028-04-09
+10361,2026-02-07,Diclofenac,Tablet,ABC Pharma,16,105.18,174,2026-11-28
+10252,2026-02-07,Metformin,Tablet,ABC Pharma,44,37.74,86,2028-07-31
+10282,2026-02-08,Ibuprofen,Tablet,MediCare Ltd,49,105.44,218,2028-11-23
+10546,2026-02-08,Diclofenac,Tablet,ABC Pharma,40,71.01,240,2027-02-14
+11198,2026-02-08,Levocetirizine,Tablet,Wellness Drugs,38,45.86,124,2027-12-29
+11029,2026-02-08,Paracetamol,Tablet,Sunrise Pharma,13,102.59,150,2026-10-18
+10673,2026-02-08,Diclofenac,Tablet,MediCare Ltd,49,82.91,31,2028-12-01
+10427,2026-02-08,Vitamin C,Tablet,MediCare Ltd,15,26.79,148,2026-11-06
+10223,2026-02-08,Cetirizine,Syrup,Sunrise Pharma,21,83.17,164,2028-09-08
+10725,2026-02-08,Cough Syrup,Syrup,Sunrise Pharma,41,121.25,19,2027-07-11
+10879,2026-02-08,Antacid,Tablet,Wellness Drugs,15,57.46,71,2027-02-25
+11085,2026-02-09,ORS,Sachet,Sunrise Pharma,23,102.96,18,2027-11-26
+10098,2026-02-09,Levocetirizine,Tablet,MediCare Ltd,44,76.83,174,2026-11-25
+11196,2026-02-09,Antacid,Tablet,Wellness Drugs,6,136.39,152,2027-03-17
+11171,2026-02-09,Amoxicillin,Capsule,Wellness Drugs,22,122.43,207,2027-05-14
+10127,2026-02-10,Pantoprazole,Tablet,Wellness Drugs,47,26.53,126,2027-06-04
+10107,2026-02-10,Paracetamol,Tablet,HealthPlus Distributors,33,102.19,160,2028-04-17
+10800,2026-02-10,ORS,Sachet,ABC Pharma,34,125.27,73,2028-02-11
+10676,2026-02-11,Ibuprofen,Tablet,ABC Pharma,24,110.48,212,2027-12-29
+10291,2026-02-11,Amlodipine,Tablet,MediCare Ltd,47,7.77,192,2026-09-24
+11193,2026-02-11,Levocetirizine,Tablet,Sunrise Pharma,42,81.96,227,2028-10-14
+10157,2026-02-11,Cough Syrup,Syrup,Sunrise Pharma,42,51.91,49,2028-07-23
+11053,2026-02-11,Amoxicillin,Capsule,HealthPlus Distributors,16,19.5,59,2027-04-12
+10587,2026-02-12,Antacid,Tablet,Sunrise Pharma,47,102.25,18,2028-06-28
+10937,2026-02-12,Calcium Tablets,Tablet,HealthPlus Distributors,22,25.12,46,2027-01-18
+10425,2026-02-12,Azithromycin,Tablet,Wellness Drugs,12,41.75,230,2027-03-07
+10087,2026-02-13,Azithromycin,Tablet,Sunrise Pharma,35,78.22,214,2028-10-19
+10752,2026-02-13,Vitamin C,Tablet,MediCare Ltd,8,12.13,97,2028-08-27
+11108,2026-02-13,Cetirizine,Syrup,Wellness Drugs,26,72.82,208,2027-11-15
+10588,2026-02-13,Levocetirizine,Tablet,HealthPlus Distributors,17,85.74,181,2028-02-09
+10186,2026-02-13,Metformin,Tablet,HealthPlus Distributors,13,132.62,188,2028-02-03
+11034,2026-02-13,Paracetamol,Tablet,Wellness Drugs,16,34.25,27,2027-04-26
+10982,2026-02-14,Azithromycin,Tablet,MediCare Ltd,29,35.49,30,2027-02-19
+10179,2026-02-14,ORS,Sachet,HealthPlus Distributors,48,126.81,176,2028-06-12
+10110,2026-02-14,Antacid,Tablet,ABC Pharma,34,112.76,183,2028-03-10
+10711,2026-02-14,Cetirizine,Syrup,MediCare Ltd,44,9.45,99,2027-09-07
+10393,2026-02-15,Ibuprofen,Tablet,HealthPlus Distributors,25,14.52,45,2027-02-24
+10811,2026-02-15,Levocetirizine,Tablet,ABC Pharma,35,86.81,189,2028-01-20
+10978,2026-02-15,Paracetamol,Tablet,Sunrise Pharma,39,87.15,127,2026-10-26
+10385,2026-02-15,Amoxicillin,Capsule,HealthPlus Distributors,1,43.0,96,2028-01-29
+10593,2026-02-15,Amoxicillin,Capsule,MediCare Ltd,42,124.38,34,2027-10-07
+10483,2026-02-16,Antacid,Tablet,Wellness Drugs,11,73.51,20,2026-09-03
+10767,2026-02-16,Cetirizine,Syrup,HealthPlus Distributors,22,17.67,105,2028-08-14
+10894,2026-02-16,Amoxicillin,Capsule,MediCare Ltd,4,33.25,33,2028-01-21
+10757,2026-02-16,Diclofenac,Tablet,Wellness Drugs,32,99.94,163,2026-09-13
+10538,2026-02-16,Ibuprofen,Tablet,Sunrise Pharma,18,73.95,222,2027-04-02
+10817,2026-02-16,Levocetirizine,Tablet,MediCare Ltd,14,144.93,68,2027-03-18
+10986,2026-02-16,Antacid,Tablet,MediCare Ltd,6,112.57,104,2028-08-29
+11003,2026-02-16,Levocetirizine,Tablet,Sunrise Pharma,4,95.44,200,2027-10-20
+11119,2026-02-16,Metformin,Tablet,HealthPlus Distributors,25,8.15,242,2026-12-19
+10992,2026-02-17,Amoxicillin,Capsule,HealthPlus Distributors,48,8.66,191,2027-02-08
+10093,2026-02-17,Pantoprazole,Tablet,ABC Pharma,34,47.55,26,2028-06-21
+10517,2026-02-17,Amoxicillin,Capsule,ABC Pharma,36,56.37,168,2027-02-13
+10301,2026-02-17,Levocetirizine,Tablet,ABC Pharma,10,38.85,158,2028-03-28
+10135,2026-02-17,Metformin,Tablet,MediCare Ltd,8,38.31,14,2026-10-20
+10345,2026-02-17,Amlodipine,Tablet,ABC Pharma,4,33.32,91,2028-12-10
+10309,2026-02-17,Metformin,Tablet,Sunrise Pharma,35,128.99,81,2027-04-16
+10376,2026-02-17,Ibuprofen,Tablet,Sunrise Pharma,39,105.55,44,2027-03-22
+10381,2026-02-18,Vitamin C,Tablet,ABC Pharma,27,74.3,91,2027-07-25
+10035,2026-02-18,Levocetirizine,Tablet,Sunrise Pharma,33,140.04,74,2027-07-04
+10768,2026-02-18,Vitamin C,Tablet,Wellness Drugs,29,54.52,210,2028-05-02
+11157,2026-02-18,Azithromycin,Tablet,HealthPlus Distributors,41,25.96,100,2027-09-23
+10464,2026-02-18,Vitamin C,Tablet,Sunrise Pharma,37,123.71,34,2028-03-20
+10906,2026-02-19,ORS,Sachet,HealthPlus Distributors,10,24.78,132,2028-04-21
+10431,2026-02-19,Amlodipine,Tablet,HealthPlus Distributors,26,145.23,155,2028-11-28
+10076,2026-02-19,Amoxicillin,Capsule,HealthPlus Distributors,49,25.75,170,2026-11-06
+10886,2026-02-19,Calcium Tablets,Tablet,Sunrise Pharma,27,35.46,218,2027-08-22
+10050,2026-02-20,Pantoprazole,Tablet,Sunrise Pharma,9,100.64,16,2026-12-26
+10454,2026-02-20,Cetirizine,Syrup,ABC Pharma,4,22.3,126,2027-09-02
+10867,2026-02-20,ORS,Sachet,MediCare Ltd,29,3.67,193,2027-07-14
+10209,2026-02-20,Pantoprazole,Tablet,MediCare Ltd,13,57.13,194,2027-09-26
+10363,2026-02-20,Metformin,Tablet,MediCare Ltd,40,42.74,54,2028-07-28
+10045,2026-02-20,ORS,Sachet,Wellness Drugs,11,88.5,34,2028-12-07
+10963,2026-02-20,Cetirizine,Syrup,MediCare Ltd,1,45.52,129,2027-09-30
+10919,2026-02-20,Amlodipine,Tablet,ABC Pharma,38,133.14,203,2027-01-29
+10914,2026-02-21,ORS,Sachet,Sunrise Pharma,22,60.0,245,2028-08-22
+10278,2026-02-21,Amlodipine,Tablet,HealthPlus Distributors,8,117.15,197,2028-08-31
+10658,2026-02-21,Amlodipine,Tablet,MediCare Ltd,25,30.21,75,2027-04-08
+10163,2026-02-21,Cough Syrup,Syrup,ABC Pharma,37,32.24,244,2028-02-10
+10487,2026-02-21,Pantoprazole,Tablet,Wellness Drugs,25,62.21,56,2027-06-07
+10221,2026-02-21,ORS,Sachet,Wellness Drugs,37,121.07,60,2028-05-27
+10856,2026-02-22,ORS,Sachet,ABC Pharma,26,22.05,60,2027-08-23
+10021,2026-02-22,Cetirizine,Syrup,Sunrise Pharma,18,38.76,226,2027-11-23
+10473,2026-02-22,Diclofenac,Tablet,Wellness Drugs,47,48.45,19,2028-06-15
+10102,2026-02-22,Diclofenac,Tablet,MediCare Ltd,40,60.12,59,2027-08-02
+10062,2026-02-22,Azithromycin,Tablet,HealthPlus Distributors,30,45.27,121,2027-04-20
+10933,2026-02-22,Paracetamol,Tablet,Sunrise Pharma,47,101.35,130,2027-12-04
+10241,2026-02-22,Antacid,Tablet,MediCare Ltd,5,90.38,180,2027-12-21
+10669,2026-02-22,Azithromycin,Tablet,Sunrise Pharma,28,90.22,135,2028-02-14
+10235,2026-02-23,Levocetirizine,Tablet,MediCare Ltd,47,27.14,71,2027-11-11
+10774,2026-02-23,ORS,Sachet,MediCare Ltd,36,28.9,89,2027-05-09
+10081,2026-02-23,Azithromycin,Tablet,ABC Pharma,38,122.49,191,2028-05-11
+10335,2026-02-23,Levocetirizine,Tablet,ABC Pharma,1,114.0,68,2028-12-13
+10889,2026-02-23,Vitamin C,Tablet,ABC Pharma,34,16.11,242,2027-04-01
+10314,2026-02-23,Azithromycin,Tablet,Sunrise Pharma,19,21.25,20,2028-09-26
+10406,2026-02-23,Cough Syrup,Syrup,ABC Pharma,28,6.44,229,2028-12-30
+10084,2026-02-23,ORS,Sachet,Sunrise Pharma,43,44.8,15,2027-01-17
+10469,2026-02-23,Amlodipine,Tablet,HealthPlus Distributors,33,86.99,248,2027-07-03
+10485,2026-02-24,Cetirizine,Syrup,MediCare Ltd,4,55.49,103,2028-12-25
+10846,2026-02-24,Calcium Tablets,Tablet,MediCare Ltd,11,60.18,232,2026-08-31
+11081,2026-02-24,Calcium Tablets,Tablet,HealthPlus Distributors,13,50.39,139,2028-03-11
+10047,2026-02-24,Paracetamol,Tablet,ABC Pharma,10,41.79,37,2028-03-13
+10746,2026-02-25,Antacid,Tablet,MediCare Ltd,17,62.35,38,2027-11-02
+11005,2026-02-25,Calcium Tablets,Tablet,HealthPlus Distributors,49,83.13,82,2027-11-14
+10988,2026-02-25,Pantoprazole,Tablet,Sunrise Pharma,3,10.87,196,2028-12-16
+11014,2026-02-25,Amlodipine,Tablet,ABC Pharma,4,76.04,85,2027-07-22
+10821,2026-02-25,Metformin,Tablet,MediCare Ltd,29,101.32,187,2028-04-15
+10891,2026-02-26,Vitamin C,Tablet,Sunrise Pharma,24,51.94,56,2026-11-12
+10437,2026-02-26,Amlodipine,Tablet,HealthPlus Distributors,23,36.41,77,2027-08-18
+10672,2026-02-26,Azithromycin,Tablet,MediCare Ltd,1,19.25,11,2026-11-18
+10751,2026-02-27,Ibuprofen,Tablet,MediCare Ltd,34,107.78,125,2027-03-14
+10462,2026-02-27,Amoxicillin,Capsule,Sunrise Pharma,48,70.02,238,2028-02-26
+10500,2026-02-27,Metformin,Tablet,Sunrise Pharma,39,83.79,78,2026-12-13
+10032,2026-02-27,Diclofenac,Tablet,Wellness Drugs,40,126.1,94,2028-06-26
+10608,2026-02-27,Diclofenac,Tablet,Sunrise Pharma,16,132.96,21,2027-11-01
+10407,2026-02-27,Ibuprofen,Tablet,Wellness Drugs,46,134.81,156,2028-08-09
+10510,2026-02-27,Paracetamol,Tablet,Wellness Drugs,41,44.28,226,2027-08-01
+10461,2026-02-27,ORS,Sachet,Wellness Drugs,6,14.18,35,2027-02-27
+10731,2026-02-27,Cough Syrup,Syrup,HealthPlus Distributors,12,126.45,194,2028-03-27
+11062,2026-02-28,Diclofenac,Tablet,ABC Pharma,17,85.73,161,2028-07-11
+10213,2026-02-28,Amlodipine,Tablet,MediCare Ltd,36,108.97,32,2027-11-20
+10036,2026-02-28,Metformin,Tablet,ABC Pharma,12,82.55,48,2029-01-14
+10836,2026-02-28,Pantoprazole,Tablet,ABC Pharma,5,34.96,86,2027-02-05
+10297,2026-03-01,Azithromycin,Tablet,HealthPlus Distributors,29,135.34,184,2027-04-19
+11181,2026-03-01,Antacid,Tablet,ABC Pharma,4,20.77,22,2027-01-26
+10435,2026-03-01,ORS,Sachet,HealthPlus Distributors,38,50.29,186,2027-08-22
+11174,2026-03-01,Metformin,Tablet,MediCare Ltd,30,143.28,150,2027-05-16
+10474,2026-03-01,ORS,Sachet,Wellness Drugs,23,81.63,8,2028-07-08
+10058,2026-03-01,Pantoprazole,Tablet,Sunrise Pharma,29,98.1,33,2027-01-11
+10796,2026-03-01,Pantoprazole,Tablet,HealthPlus Distributors,10,65.41,85,2028-12-31
+10375,2026-03-02,Metformin,Tablet,HealthPlus Distributors,34,92.24,94,2026-11-26
+10993,2026-03-02,Amlodipine,Tablet,Sunrise Pharma,47,110.65,27,2028-03-31
+10734,2026-03-02,Amoxicillin,Capsule,HealthPlus Distributors,25,121.64,109,2026-09-18
+10961,2026-03-02,Azithromycin,Tablet,Sunrise Pharma,38,133.71,39,2027-11-17
+10970,2026-03-02,Cetirizine,Syrup,Sunrise Pharma,40,146.91,69,2028-11-16
+10756,2026-03-02,Antacid,Tablet,ABC Pharma,30,140.9,225,2028-06-24
+10504,2026-03-03,Levocetirizine,Tablet,MediCare Ltd,47,86.49,12,2027-05-12
+10640,2026-03-03,Levocetirizine,Tablet,Wellness Drugs,26,113.17,193,2026-10-27
+11190,2026-03-03,Vitamin C,Tablet,Wellness Drugs,9,87.39,18,2027-02-20
+10219,2026-03-03,Metformin,Tablet,ABC Pharma,24,73.63,96,2028-09-30
+11159,2026-03-03,Amlodipine,Tablet,Wellness Drugs,2,149.67,66,2028-07-31
+10137,2026-03-03,Levocetirizine,Tablet,Wellness Drugs,48,59.87,33,2027-12-23
+11077,2026-03-03,Antacid,Tablet,HealthPlus Distributors,47,131.3,36,2028-01-05
+11099,2026-03-03,ORS,Sachet,Wellness Drugs,10,5.8,213,2026-10-08
+10180,2026-03-03,Antacid,Tablet,MediCare Ltd,22,73.79,5,2028-11-13
+10207,2026-03-03,Azithromycin,Tablet,Sunrise Pharma,24,34.58,29,2029-01-12
+10161,2026-03-04,Ibuprofen,Tablet,MediCare Ltd,42,60.0,81,2027-09-21
+10834,2026-03-04,Diclofenac,Tablet,HealthPlus Distributors,41,28.82,8,2028-08-17
+10457,2026-03-04,Paracetamol,Tablet,ABC Pharma,15,23.32,109,2026-11-13
+10118,2026-03-04,Ibuprofen,Tablet,MediCare Ltd,47,19.4,201,2028-10-22
+10991,2026-03-04,Ibuprofen,Tablet,Wellness Drugs,12,127.72,125,2026-12-24
+10497,2026-03-04,Paracetamol,Tablet,Sunrise Pharma,17,74.46,8,2026-11-01
+11145,2026-03-04,Levocetirizine,Tablet,Wellness Drugs,34,113.93,45,2027-10-19
+11172,2026-03-05,Azithromycin,Tablet,Wellness Drugs,36,141.19,89,2028-06-16
+11175,2026-03-05,Vitamin C,Tablet,HealthPlus Distributors,25,24.41,187,2026-10-16
+11123,2026-03-05,Pantoprazole,Tablet,Wellness Drugs,24,47.55,134,2027-11-20
+10048,2026-03-05,Levocetirizine,Tablet,Sunrise Pharma,14,56.53,206,2028-02-18
+11059,2026-03-05,Paracetamol,Tablet,Sunrise Pharma,5,81.96,123,2028-06-28
+10441,2026-03-06,Metformin,Tablet,MediCare Ltd,6,101.75,229,2028-12-14
+10707,2026-03-06,Amoxicillin,Capsule,MediCare Ltd,30,40.43,195,2027-03-02
+10111,2026-03-06,ORS,Sachet,ABC Pharma,28,67.0,123,2027-03-01
+10828,2026-03-06,Paracetamol,Tablet,MediCare Ltd,26,5.81,197,2027-12-11
+11144,2026-03-06,Paracetamol,Tablet,ABC Pharma,30,60.6,170,2027-03-07
+10583,2026-03-06,Amoxicillin,Capsule,MediCare Ltd,1,113.11,240,2027-05-03
+10899,2026-03-07,Diclofenac,Tablet,MediCare Ltd,23,51.49,179,2028-01-31
+10450,2026-03-07,Azithromycin,Tablet,ABC Pharma,9,73.71,129,2028-12-22
+11089,2026-03-07,Vitamin C,Tablet,Wellness Drugs,29,20.99,107,2027-04-11
+10177,2026-03-07,Paracetamol,Tablet,Sunrise Pharma,45,125.75,117,2026-09-13
+10402,2026-03-08,Amlodipine,Tablet,ABC Pharma,8,111.14,172,2027-05-12
+10582,2026-03-08,Diclofenac,Tablet,MediCare Ltd,38,60.03,221,2029-01-01
+10408,2026-03-08,Metformin,Tablet,Sunrise Pharma,24,94.15,23,2028-03-29
+11042,2026-03-08,Diclofenac,Tablet,MediCare Ltd,23,84.37,101,2028-09-23
+11113,2026-03-09,Azithromycin,Tablet,MediCare Ltd,49,17.61,19,2028-09-03
+10246,2026-03-09,Cetirizine,Syrup,Sunrise Pharma,12,25.16,201,2027-01-12
+11040,2026-03-09,Levocetirizine,Tablet,HealthPlus Distributors,4,49.88,31,2028-11-12
+10341,2026-03-09,Azithromycin,Tablet,HealthPlus Distributors,9,139.37,162,2027-06-05
+10254,2026-03-10,Cetirizine,Syrup,HealthPlus Distributors,32,64.88,206,2026-11-24
+10663,2026-03-10,Levocetirizine,Tablet,HealthPlus Distributors,13,19.74,195,2027-05-23
+10552,2026-03-10,Cetirizine,Syrup,ABC Pharma,13,149.93,17,2028-07-19
+10930,2026-03-10,Ibuprofen,Tablet,MediCare Ltd,27,25.13,26,2028-05-11
+11158,2026-03-10,Antacid,Tablet,HealthPlus Distributors,36,99.4,125,2027-04-05
+10537,2026-03-10,Calcium Tablets,Tablet,ABC Pharma,36,15.88,210,2027-03-17
+10561,2026-03-10,Cetirizine,Syrup,HealthPlus Distributors,38,93.04,103,2027-12-07
+10525,2026-03-10,Vitamin C,Tablet,Wellness Drugs,22,34.29,203,2028-07-16
+10973,2026-03-11,Calcium Tablets,Tablet,Sunrise Pharma,39,50.0,223,2028-01-05
+10264,2026-03-11,Antacid,Tablet,ABC Pharma,11,42.25,187,2027-06-20
+10714,2026-03-11,Diclofenac,Tablet,Sunrise Pharma,44,69.77,28,2027-03-19
+10467,2026-03-11,Cough Syrup,Syrup,Sunrise Pharma,26,69.85,192,2026-12-09
+11071,2026-03-11,Cough Syrup,Syrup,Sunrise Pharma,41,48.61,173,2028-06-20
+11110,2026-03-11,Cetirizine,Syrup,Sunrise Pharma,41,82.12,212,2027-10-15
+10173,2026-03-12,Amoxicillin,Capsule,Sunrise Pharma,29,39.48,230,2028-02-28
+10113,2026-03-12,Antacid,Tablet,Wellness Drugs,7,25.73,13,2028-11-15
+10710,2026-03-12,Amlodipine,Tablet,MediCare Ltd,8,53.43,163,2027-09-05
+10006,2026-03-13,Calcium Tablets,Tablet,Wellness Drugs,28,66.24,43,2028-10-21
+10131,2026-03-13,Amlodipine,Tablet,MediCare Ltd,49,17.59,127,2026-12-31
+11197,2026-03-13,Levocetirizine,Tablet,Wellness Drugs,48,60.65,124,2028-12-09
+10878,2026-03-13,Diclofenac,Tablet,ABC Pharma,4,135.83,200,2027-07-10
+11177,2026-03-13,Cetirizine,Syrup,ABC Pharma,28,91.07,156,2028-02-06
+11147,2026-03-14,Calcium Tablets,Tablet,MediCare Ltd,3,63.02,92,2026-12-22
+10984,2026-03-14,Pantoprazole,Tablet,Sunrise Pharma,13,36.53,224,2027-05-16
+10053,2026-03-14,Ibuprofen,Tablet,Sunrise Pharma,3,95.28,159,2027-11-15
+10927,2026-03-15,Pantoprazole,Tablet,Wellness Drugs,37,101.62,66,2028-11-10
+10781,2026-03-15,Amlodipine,Tablet,ABC Pharma,24,84.44,54,2027-03-29
+10586,2026-03-15,Vitamin C,Tablet,Sunrise Pharma,16,37.07,187,2027-01-28
+10687,2026-03-15,Vitamin C,Tablet,Wellness Drugs,33,120.55,182,2026-09-18
+10190,2026-03-16,Amlodipine,Tablet,Sunrise Pharma,23,120.92,16,2028-10-07
+11091,2026-03-16,Vitamin C,Tablet,Wellness Drugs,29,104.63,75,2028-03-12
+11075,2026-03-16,Amlodipine,Tablet,Sunrise Pharma,2,67.73,7,2029-01-08
+10683,2026-03-16,Cough Syrup,Syrup,HealthPlus Distributors,5,61.13,79,2028-02-11
+10900,2026-03-16,Cough Syrup,Syrup,Sunrise Pharma,45,60.4,80,2027-05-26
+10319,2026-03-16,Paracetamol,Tablet,Sunrise Pharma,7,48.29,177,2028-04-05
+10610,2026-03-16,Ibuprofen,Tablet,ABC Pharma,36,43.06,177,2028-04-01
+10012,2026-03-16,Calcium Tablets,Tablet,ABC Pharma,23,92.77,237,2027-01-31
+10652,2026-03-17,Diclofenac,Tablet,Wellness Drugs,17,132.92,183,2027-07-02
+10529,2026-03-17,Paracetamol,Tablet,MediCare Ltd,23,2.1,27,2028-03-13
+10685,2026-03-17,Cough Syrup,Syrup,MediCare Ltd,41,3.6,121,2026-10-26
+11168,2026-03-17,Azithromycin,Tablet,Sunrise Pharma,22,67.42,98,2027-05-28
+11129,2026-03-18,Cough Syrup,Syrup,Sunrise Pharma,39,55.99,19,2027-06-07
+10981,2026-03-19,Azithromycin,Tablet,Wellness Drugs,41,115.75,172,2028-05-31
+11188,2026-03-19,Paracetamol,Tablet,HealthPlus Distributors,10,90.09,21,2028-12-07
+11162,2026-03-19,Cetirizine,Syrup,Wellness Drugs,1,61.3,72,2027-05-12
+10863,2026-03-19,Paracetamol,Tablet,Wellness Drugs,42,86.94,117,2026-12-30
+11008,2026-03-19,Diclofenac,Tablet,Sunrise Pharma,35,100.25,100,2027-09-30
+11093,2026-03-20,Cetirizine,Syrup,Sunrise Pharma,18,113.51,230,2027-01-24
+10916,2026-03-20,Paracetamol,Tablet,Sunrise Pharma,4,30.63,28,2028-02-17
+11102,2026-03-20,Antacid,Tablet,HealthPlus Distributors,6,93.33,119,2026-11-02
+10910,2026-03-20,Levocetirizine,Tablet,HealthPlus Distributors,38,62.45,170,2028-08-22
+10759,2026-03-21,Ibuprofen,Tablet,HealthPlus Distributors,47,54.49,157,2027-01-23
+10943,2026-03-21,Amlodipine,Tablet,HealthPlus Distributors,31,130.18,150,2027-04-28
+10565,2026-03-21,Amoxicillin,Capsule,MediCare Ltd,17,9.44,88,2027-04-01
+10920,2026-03-22,Antacid,Tablet,MediCare Ltd,36,134.56,87,2027-12-26
+10074,2026-03-22,Antacid,Tablet,MediCare Ltd,37,40.52,214,2028-03-27
+10994,2026-03-22,Amlodipine,Tablet,MediCare Ltd,45,52.52,139,2028-08-11
+10596,2026-03-22,Metformin,Tablet,ABC Pharma,41,36.69,221,2027-10-06
+10230,2026-03-22,Levocetirizine,Tablet,HealthPlus Distributors,19,78.67,229,2027-12-20
+10120,2026-03-22,Calcium Tablets,Tablet,ABC Pharma,19,2.29,201,2028-07-04
+10908,2026-03-23,Amoxicillin,Capsule,Wellness Drugs,7,41.69,220,2026-10-21
+10333,2026-03-23,Ibuprofen,Tablet,ABC Pharma,5,87.98,155,2028-11-15
+10814,2026-03-23,Amoxicillin,Capsule,MediCare Ltd,39,42.26,111,2027-09-27
+10100,2026-03-23,Antacid,Tablet,MediCare Ltd,41,131.7,189,2027-03-23
+10283,2026-03-23,Cetirizine,Syrup,Wellness Drugs,33,56.52,155,2027-06-24
+10659,2026-03-24,Calcium Tablets,Tablet,HealthPlus Distributors,10,29.33,141,2028-03-07
+10860,2026-03-24,Paracetamol,Tablet,MediCare Ltd,14,64.1,22,2028-04-07
+11186,2026-03-24,Ibuprofen,Tablet,Wellness Drugs,19,10.67,49,2026-11-28
+10704,2026-03-24,Vitamin C,Tablet,Wellness Drugs,31,140.87,103,2028-07-14
+11052,2026-03-24,Vitamin C,Tablet,ABC Pharma,18,117.41,134,2026-11-25
+10064,2026-03-25,Amlodipine,Tablet,Wellness Drugs,2,5.24,6,2028-11-18
+10641,2026-03-25,Calcium Tablets,Tablet,ABC Pharma,40,113.57,82,2028-07-27
+10929,2026-03-25,Cough Syrup,Syrup,HealthPlus Distributors,48,60.75,225,2026-10-25
+11143,2026-03-25,Antacid,Tablet,MediCare Ltd,2,102.0,121,2027-04-17
+10187,2026-03-25,Azithromycin,Tablet,Wellness Drugs,34,71.01,117,2028-05-25
+10325,2026-03-25,Calcium Tablets,Tablet,Sunrise Pharma,25,114.82,89,2027-02-23
+10569,2026-03-25,Amlodipine,Tablet,Sunrise Pharma,35,126.2,218,2028-09-22
+10545,2026-03-26,Metformin,Tablet,Wellness Drugs,28,71.27,24,2027-09-01
+10862,2026-03-26,Pantoprazole,Tablet,MediCare Ltd,23,7.83,209,2026-12-16
+10897,2026-03-26,Paracetamol,Tablet,Sunrise Pharma,49,74.9,82,2028-07-18
+10832,2026-03-26,Antacid,Tablet,Wellness Drugs,10,19.82,220,2027-03-12
+10453,2026-03-27,Cetirizine,Syrup,Sunrise Pharma,44,120.96,25,2027-08-30
+10643,2026-03-27,Calcium Tablets,Tablet,HealthPlus Distributors,5,135.85,94,2027-12-22
+10708,2026-03-27,Levocetirizine,Tablet,Sunrise Pharma,6,145.52,116,2027-09-02
+10175,2026-03-27,Amoxicillin,Capsule,MediCare Ltd,47,109.07,26,2028-02-07
+10835,2026-03-27,Cetirizine,Syrup,HealthPlus Distributors,41,94.17,129,2027-01-27
+11032,2026-03-27,Amoxicillin,Capsule,HealthPlus Distributors,19,2.16,101,2028-10-28
+10415,2026-03-27,Levocetirizine,Tablet,MediCare Ltd,8,146.35,241,2028-12-30
+10533,2026-03-27,Pantoprazole,Tablet,HealthPlus Distributors,9,113.04,235,2027-01-09
+10463,2026-03-27,Cough Syrup,Syrup,Sunrise Pharma,12,47.36,14,2026-11-09
+10236,2026-03-28,Cetirizine,Syrup,ABC Pharma,12,30.86,158,2028-09-22
+10115,2026-03-29,Azithromycin,Tablet,ABC Pharma,37,28.53,177,2028-01-24
+10014,2026-03-29,Amoxicillin,Capsule,Sunrise Pharma,45,37.82,34,2028-07-16
+10023,2026-03-29,Pantoprazole,Tablet,HealthPlus Distributors,4,42.08,22,2028-10-25
+10034,2026-03-30,Azithromycin,Tablet,HealthPlus Distributors,49,123.8,138,2028-08-11
+10112,2026-03-30,Antacid,Tablet,HealthPlus Distributors,37,92.36,181,2027-05-25
+10057,2026-03-30,Pantoprazole,Tablet,Wellness Drugs,2,67.5,80,2029-01-06
+11194,2026-03-30,Metformin,Tablet,HealthPlus Distributors,32,13.73,136,2028-04-30
+10518,2026-03-30,Cough Syrup,Syrup,ABC Pharma,31,14.88,124,2029-01-10
+11192,2026-03-30,Azithromycin,Tablet,ABC Pharma,46,120.85,161,2027-11-29
+10597,2026-03-31,Diclofenac,Tablet,MediCare Ltd,34,53.07,148,2027-03-24
+10793,2026-03-31,Azithromycin,Tablet,Sunrise Pharma,44,113.35,230,2028-12-04
+10156,2026-03-31,Ibuprofen,Tablet,HealthPlus Distributors,27,19.35,199,2028-02-16
+10723,2026-03-31,Amoxicillin,Capsule,HealthPlus Distributors,44,53.92,74,2028-03-06
+10977,2026-03-31,Metformin,Tablet,MediCare Ltd,23,103.01,240,2027-08-18
+10061,2026-03-31,Calcium Tablets,Tablet,ABC Pharma,16,124.06,194,2026-11-09
+10295,2026-03-31,ORS,Sachet,ABC Pharma,32,133.44,32,2026-10-26
+10602,2026-03-31,Metformin,Tablet,MediCare Ltd,32,41.29,214,2028-11-27
+11121,2026-03-31,Antacid,Tablet,Sunrise Pharma,16,104.02,246,2026-12-31
+10502,2026-03-31,Calcium Tablets,Tablet,MediCare Ltd,41,99.93,99,2029-01-07
+10272,2026-03-31,Cetirizine,Syrup,ABC Pharma,4,104.81,18,2026-10-26
+10911,2026-04-01,Azithromycin,Tablet,Sunrise Pharma,21,102.6,76,2027-07-21
+10721,2026-04-01,Levocetirizine,Tablet,Wellness Drugs,31,123.46,83,2026-12-26
+10499,2026-04-02,Cough Syrup,Syrup,Wellness Drugs,48,36.01,113,2027-04-13
+10741,2026-04-02,Ibuprofen,Tablet,Sunrise Pharma,6,140.19,226,2028-10-01
+10448,2026-04-02,Paracetamol,Tablet,HealthPlus Distributors,43,24.93,38,2027-12-25
+10065,2026-04-02,Azithromycin,Tablet,HealthPlus Distributors,17,46.55,184,2028-06-26
+10876,2026-04-02,Cetirizine,Syrup,HealthPlus Distributors,46,107.0,102,2027-12-29
+10192,2026-04-02,Paracetamol,Tablet,HealthPlus Distributors,42,32.11,213,2028-01-28
+10968,2026-04-02,Antacid,Tablet,Wellness Drugs,24,17.22,202,2028-03-03
+10791,2026-04-02,Ibuprofen,Tablet,Sunrise Pharma,29,95.21,89,2026-10-16
+10266,2026-04-03,Metformin,Tablet,ABC Pharma,14,41.08,151,2027-05-23
+10527,2026-04-03,Vitamin C,Tablet,MediCare Ltd,36,38.95,60,2028-09-26
+10599,2026-04-03,Amoxicillin,Capsule,ABC Pharma,6,144.3,236,2027-10-24
+11176,2026-04-03,Cetirizine,Syrup,ABC Pharma,45,72.66,161,2029-01-09
+10958,2026-04-03,ORS,Sachet,ABC Pharma,25,4.4,61,2027-11-12
+10003,2026-04-03,Pantoprazole,Tablet,Wellness Drugs,45,15.71,8,2027-03-23
+10392,2026-04-03,Metformin,Tablet,MediCare Ltd,19,64.65,246,2027-08-31
+10329,2026-04-03,Metformin,Tablet,Wellness Drugs,37,85.38,157,2027-04-05
+10482,2026-04-04,Ibuprofen,Tablet,ABC Pharma,44,74.9,213,2027-09-30
+11097,2026-04-04,Vitamin C,Tablet,Wellness Drugs,26,93.64,130,2028-05-28
+11155,2026-04-04,Antacid,Tablet,Wellness Drugs,48,52.22,61,2028-07-19
+11078,2026-04-04,Levocetirizine,Tablet,Wellness Drugs,39,149.34,35,2027-01-05
+11074,2026-04-04,Amlodipine,Tablet,ABC Pharma,5,148.13,75,2029-01-05
+10539,2026-04-04,Metformin,Tablet,Wellness Drugs,3,138.27,183,2028-03-13
+10989,2026-04-04,Pantoprazole,Tablet,MediCare Ltd,17,21.38,175,2026-12-25
+11079,2026-04-05,Azithromycin,Tablet,HealthPlus Distributors,4,88.24,86,2028-01-31
+10850,2026-04-05,Pantoprazole,Tablet,Wellness Drugs,26,91.16,212,2027-01-17
+10592,2026-04-05,Vitamin C,Tablet,Sunrise Pharma,27,4.84,11,2027-07-29
+10395,2026-04-05,Pantoprazole,Tablet,HealthPlus Distributors,31,132.38,79,2027-08-27
+11156,2026-04-05,Levocetirizine,Tablet,ABC Pharma,6,76.88,134,2027-09-21
+10877,2026-04-05,Azithromycin,Tablet,HealthPlus Distributors,27,42.18,62,2026-10-14
+10944,2026-04-05,Antacid,Tablet,ABC Pharma,42,44.84,126,2027-08-20
+10092,2026-04-05,Pantoprazole,Tablet,Wellness Drugs,44,118.82,220,2027-06-08
+10625,2026-04-06,Levocetirizine,Tablet,Sunrise Pharma,4,140.45,157,2027-01-05
+10162,2026-04-06,Vitamin C,Tablet,MediCare Ltd,37,134.56,199,2026-12-01
+10559,2026-04-06,Calcium Tablets,Tablet,Sunrise Pharma,13,52.38,199,2028-02-20
+10164,2026-04-06,Cetirizine,Syrup,HealthPlus Distributors,42,77.16,13,2027-01-31
+10514,2026-04-06,Pantoprazole,Tablet,Wellness Drugs,18,23.16,233,2029-01-12
+10955,2026-04-06,Ibuprofen,Tablet,Wellness Drugs,4,123.84,60,2028-02-15
+10216,2026-04-06,Paracetamol,Tablet,Sunrise Pharma,18,3.24,192,2028-12-18
+10276,2026-04-06,Calcium Tablets,Tablet,ABC Pharma,48,99.97,220,2027-11-16
+10260,2026-04-07,Antacid,Tablet,ABC Pharma,24,58.65,243,2027-09-24
+10370,2026-04-07,Vitamin C,Tablet,Sunrise Pharma,2,100.83,249,2028-04-10
+10841,2026-04-08,Cough Syrup,Syrup,ABC Pharma,45,27.3,165,2027-07-07
+10449,2026-04-08,Vitamin C,Tablet,Wellness Drugs,19,14.25,93,2027-04-13
+10256,2026-04-08,Vitamin C,Tablet,MediCare Ltd,36,77.04,118,2028-12-19
+10907,2026-04-08,Azithromycin,Tablet,HealthPlus Distributors,40,24.09,24,2028-02-10
+10484,2026-04-09,Antacid,Tablet,Wellness Drugs,17,126.06,147,2029-01-09
+10396,2026-04-09,Ibuprofen,Tablet,MediCare Ltd,17,132.67,42,2028-09-28
+10430,2026-04-09,ORS,Sachet,Wellness Drugs,29,114.38,151,2028-07-01
+10307,2026-04-09,Metformin,Tablet,Sunrise Pharma,41,112.73,84,2028-02-11
+10843,2026-04-09,Calcium Tablets,Tablet,MediCare Ltd,29,114.08,110,2027-12-06
+10292,2026-04-09,Levocetirizine,Tablet,Wellness Drugs,46,100.69,191,2028-12-20
+10327,2026-04-09,Cetirizine,Syrup,Sunrise Pharma,1,125.89,236,2027-03-12
+10388,2026-04-09,Cough Syrup,Syrup,Sunrise Pharma,30,89.74,173,2028-11-27
+10622,2026-04-09,Azithromycin,Tablet,HealthPlus Distributors,8,40.64,138,2028-02-03
+10664,2026-04-09,Diclofenac,Tablet,HealthPlus Distributors,8,110.77,204,2026-12-03
+11000,2026-04-09,Amoxicillin,Capsule,ABC Pharma,36,14.08,166,2026-11-08
+10139,2026-04-09,Ibuprofen,Tablet,HealthPlus Distributors,38,34.49,39,2026-09-18
+10635,2026-04-09,Levocetirizine,Tablet,HealthPlus Distributors,15,68.11,230,2028-08-24
+10648,2026-04-10,Antacid,Tablet,MediCare Ltd,32,33.44,107,2027-02-17
+10547,2026-04-10,Amoxicillin,Capsule,HealthPlus Distributors,1,114.57,187,2028-03-12
+10553,2026-04-10,Amoxicillin,Capsule,Wellness Drugs,49,115.88,126,2027-09-14
+11128,2026-04-10,Amlodipine,Tablet,HealthPlus Distributors,43,110.07,17,2028-05-06
+10016,2026-04-10,Ibuprofen,Tablet,HealthPlus Distributors,23,15.53,26,2027-11-06
+10549,2026-04-11,Levocetirizine,Tablet,Wellness Drugs,21,74.12,241,2028-11-18
+10471,2026-04-11,Paracetamol,Tablet,Sunrise Pharma,25,117.0,77,2028-07-13
+11146,2026-04-11,Ibuprofen,Tablet,Sunrise Pharma,22,69.22,177,2026-09-09
+10227,2026-04-11,Paracetamol,Tablet,Sunrise Pharma,17,117.73,228,2026-12-20
+10799,2026-04-11,Ibuprofen,Tablet,MediCare Ltd,27,23.67,73,2028-08-31
+10144,2026-04-11,Metformin,Tablet,Wellness Drugs,45,65.48,81,2028-05-10
+10617,2026-04-11,Vitamin C,Tablet,MediCare Ltd,11,148.54,157,2026-10-11
+11055,2026-04-11,Amoxicillin,Capsule,HealthPlus Distributors,33,107.4,101,2028-11-29
+10580,2026-04-11,Pantoprazole,Tablet,ABC Pharma,36,58.2,72,2027-10-19
+10852,2026-04-12,Azithromycin,Tablet,MediCare Ltd,45,36.6,91,2027-01-10
+10784,2026-04-12,ORS,Sachet,ABC Pharma,2,110.26,117,2028-06-20
+10902,2026-04-13,Calcium Tablets,Tablet,Sunrise Pharma,31,25.88,183,2028-12-11
+10001,2026-04-13,Cetirizine,Syrup,Wellness Drugs,48,3.23,191,2028-05-11
+10477,2026-04-13,Cough Syrup,Syrup,Wellness Drugs,43,133.65,13,2027-04-08
+10151,2026-04-13,Amlodipine,Tablet,Wellness Drugs,4,130.84,88,2027-01-20
+10009,2026-04-13,Cough Syrup,Syrup,MediCare Ltd,25,109.07,222,2029-01-04
+10202,2026-04-13,Metformin,Tablet,HealthPlus Distributors,11,120.96,175,2026-09-18
+11199,2026-04-14,Amoxicillin,Capsule,Sunrise Pharma,17,23.23,51,2028-02-14
+10077,2026-04-14,ORS,Sachet,MediCare Ltd,31,12.43,169,2028-10-03
+10141,2026-04-14,Levocetirizine,Tablet,HealthPlus Distributors,31,93.21,144,2026-11-22
+10284,2026-04-14,Cetirizine,Syrup,ABC Pharma,32,65.99,188,2027-06-09
+10409,2026-04-14,Vitamin C,Tablet,HealthPlus Distributors,15,146.06,150,2026-09-10
+10324,2026-04-14,Vitamin C,Tablet,Sunrise Pharma,36,94.31,218,2027-11-09
+10422,2026-04-14,Paracetamol,Tablet,Sunrise Pharma,34,33.2,181,2028-06-23
+10017,2026-04-14,Amlodipine,Tablet,Wellness Drugs,49,31.49,207,2027-08-03
+10950,2026-04-14,Antacid,Tablet,Sunrise Pharma,11,85.51,211,2026-11-04
+11179,2026-04-15,Pantoprazole,Tablet,ABC Pharma,49,61.42,113,2027-07-07
+10736,2026-04-15,Vitamin C,Tablet,Sunrise Pharma,19,58.92,220,2028-12-14
+10842,2026-04-15,Amoxicillin,Capsule,ABC Pharma,41,63.89,32,2026-11-06
+10636,2026-04-15,Ibuprofen,Tablet,Sunrise Pharma,23,76.22,32,2026-10-18
+10605,2026-04-15,Diclofenac,Tablet,Sunrise Pharma,7,49.0,248,2027-06-26
+10082,2026-04-16,Azithromycin,Tablet,HealthPlus Distributors,28,103.4,99,2027-06-12
+10492,2026-04-16,Antacid,Tablet,Wellness Drugs,19,31.07,150,2028-02-02
+10918,2026-04-16,Antacid,Tablet,Wellness Drugs,12,40.45,179,2028-01-28
+10990,2026-04-17,Ibuprofen,Tablet,ABC Pharma,49,91.69,21,2027-03-02
+10005,2026-04-17,Metformin,Tablet,Sunrise Pharma,39,137.35,21,2027-02-01
+11020,2026-04-17,Paracetamol,Tablet,MediCare Ltd,49,62.18,109,2027-04-01
+10718,2026-04-18,Cough Syrup,Syrup,Wellness Drugs,11,87.49,54,2027-06-01
+10475,2026-04-18,Amlodipine,Tablet,MediCare Ltd,21,126.34,195,2027-10-03
+10185,2026-04-18,Cough Syrup,Syrup,Wellness Drugs,49,128.54,204,2027-02-15
+10046,2026-04-18,Metformin,Tablet,ABC Pharma,13,81.67,174,2027-01-06
+11043,2026-04-19,Azithromycin,Tablet,Sunrise Pharma,2,52.72,211,2027-12-22
+11010,2026-04-19,Paracetamol,Tablet,MediCare Ltd,14,9.46,6,2028-03-03
+10706,2026-04-19,Amoxicillin,Capsule,Wellness Drugs,3,147.57,18,2029-01-12
+10480,2026-04-19,Cetirizine,Syrup,MediCare Ltd,33,74.43,158,2027-07-03
+10823,2026-04-19,Diclofenac,Tablet,Sunrise Pharma,27,142.12,170,2027-10-02
+10674,2026-04-19,Calcium Tablets,Tablet,Sunrise Pharma,47,135.56,5,2027-04-25
+11063,2026-04-19,Cetirizine,Syrup,HealthPlus Distributors,6,78.14,158,2027-12-07
+10362,2026-04-19,Cough Syrup,Syrup,Wellness Drugs,2,98.0,139,2028-05-07
+10865,2026-04-20,Vitamin C,Tablet,MediCare Ltd,15,6.24,175,2027-03-14
+10332,2026-04-20,Ibuprofen,Tablet,MediCare Ltd,8,88.87,138,2028-02-06
+11045,2026-04-21,Pantoprazole,Tablet,HealthPlus Distributors,37,15.97,113,2028-06-10
+11048,2026-04-21,Pantoprazole,Tablet,Sunrise Pharma,14,98.17,223,2028-05-26
+10660,2026-04-21,Levocetirizine,Tablet,ABC Pharma,45,52.63,113,2028-11-11
+11046,2026-04-21,Metformin,Tablet,HealthPlus Distributors,8,125.06,59,2028-04-12
+11018,2026-04-21,Amlodipine,Tablet,HealthPlus Distributors,6,52.46,154,2027-02-12
+10101,2026-04-21,Vitamin C,Tablet,MediCare Ltd,23,17.18,89,2028-10-29
+10066,2026-04-21,Amlodipine,Tablet,Wellness Drugs,41,76.39,235,2026-11-28
+10372,2026-04-21,Diclofenac,Tablet,Sunrise Pharma,13,27.12,61,2027-05-15
+10940,2026-04-21,Cetirizine,Syrup,HealthPlus Distributors,8,119.49,35,2028-10-23
+10642,2026-04-22,Cough Syrup,Syrup,HealthPlus Distributors,9,87.53,183,2028-03-26
+10296,2026-04-22,Azithromycin,Tablet,Sunrise Pharma,22,50.14,127,2027-02-26
+11072,2026-04-22,Amoxicillin,Capsule,ABC Pharma,19,16.3,173,2028-10-30
+10893,2026-04-22,Levocetirizine,Tablet,ABC Pharma,42,14.36,111,2028-03-31
+10326,2026-04-22,Amoxicillin,Capsule,MediCare Ltd,37,7.76,30,2027-01-16
+10873,2026-04-23,Antacid,Tablet,Sunrise Pharma,39,146.12,186,2028-07-04
+10999,2026-04-23,Ibuprofen,Tablet,HealthPlus Distributors,15,4.02,83,2026-11-04
+11051,2026-04-23,Levocetirizine,Tablet,MediCare Ltd,19,109.88,65,2026-11-20
+10744,2026-04-23,Amoxicillin,Capsule,HealthPlus Distributors,29,6.83,17,2028-02-29
+10218,2026-04-23,Levocetirizine,Tablet,Wellness Drugs,22,99.93,189,2028-02-01
+10631,2026-04-23,Levocetirizine,Tablet,Wellness Drugs,34,26.09,30,2028-09-11
+10320,2026-04-23,Calcium Tablets,Tablet,MediCare Ltd,30,98.84,50,2028-02-23
+11096,2026-04-23,Antacid,Tablet,MediCare Ltd,8,110.08,153,2027-02-28
+10226,2026-04-23,Diclofenac,Tablet,ABC Pharma,5,88.39,236,2027-03-30
+10639,2026-04-23,Ibuprofen,Tablet,Wellness Drugs,4,99.96,170,2026-11-07
+10298,2026-04-23,Ibuprofen,Tablet,ABC Pharma,22,149.43,130,2027-08-08
+10232,2026-04-23,Cetirizine,Syrup,Wellness Drugs,34,101.33,50,2027-05-10
+11117,2026-04-23,Metformin,Tablet,Sunrise Pharma,10,96.39,213,2028-04-24
+10228,2026-04-23,Diclofenac,Tablet,Wellness Drugs,37,113.26,216,2026-09-07
+10490,2026-04-24,Cetirizine,Syrup,MediCare Ltd,21,114.84,24,2027-10-24
+10412,2026-04-24,Vitamin C,Tablet,ABC Pharma,4,11.23,120,2027-10-25
+10609,2026-04-24,Levocetirizine,Tablet,HealthPlus Distributors,43,111.38,195,2026-12-25
+10357,2026-04-25,Levocetirizine,Tablet,ABC Pharma,34,141.37,119,2026-09-12
+10446,2026-04-25,Ibuprofen,Tablet,HealthPlus Distributors,11,52.71,187,2026-12-07
+10815,2026-04-25,Azithromycin,Tablet,ABC Pharma,27,2.94,104,2028-08-12
+11015,2026-04-25,ORS,Sachet,Sunrise Pharma,24,12.27,233,2026-11-29
+10604,2026-04-25,Azithromycin,Tablet,MediCare Ltd,33,102.42,84,2027-08-30
+10939,2026-04-25,Diclofenac,Tablet,Sunrise Pharma,21,146.64,197,2027-05-19
+11023,2026-04-25,Levocetirizine,Tablet,HealthPlus Distributors,1,45.42,186,2027-07-31
+10255,2026-04-26,Vitamin C,Tablet,Sunrise Pharma,6,136.36,49,2028-03-08
+10199,2026-04-26,Amoxicillin,Capsule,Sunrise Pharma,44,97.95,168,2027-01-09
+10481,2026-04-26,Amoxicillin,Capsule,Wellness Drugs,24,111.76,136,2028-02-03
+10318,2026-04-26,Amoxicillin,Capsule,MediCare Ltd,40,85.79,192,2026-11-26
+10398,2026-04-26,Cough Syrup,Syrup,MediCare Ltd,32,33.26,177,2028-10-13
+10015,2026-04-27,Levocetirizine,Tablet,MediCare Ltd,47,107.68,162,2026-11-30
+10386,2026-04-27,Paracetamol,Tablet,MediCare Ltd,17,138.35,149,2027-12-02
+11163,2026-04-27,Cough Syrup,Syrup,Wellness Drugs,19,19.04,85,2027-04-23
+10788,2026-04-27,ORS,Sachet,ABC Pharma,22,140.28,190,2026-12-17
+10773,2026-04-27,Amlodipine,Tablet,Wellness Drugs,10,60.5,88,2027-06-14
+10662,2026-04-27,ORS,Sachet,Wellness Drugs,11,124.98,161,2028-05-11
+10749,2026-04-27,Amlodipine,Tablet,Sunrise Pharma,16,145.73,240,2028-06-30
+10519,2026-04-27,Antacid,Tablet,ABC Pharma,2,84.4,145,2028-08-29
+10503,2026-04-27,Antacid,Tablet,Sunrise Pharma,35,22.9,109,2027-10-29
+10946,2026-04-28,Calcium Tablets,Tablet,Wellness Drugs,32,93.67,42,2028-10-08
+10883,2026-04-28,Paracetamol,Tablet,Sunrise Pharma,3,125.19,11,2026-11-16
+10760,2026-04-28,Diclofenac,Tablet,Wellness Drugs,30,83.5,42,2026-10-26
+10214,2026-04-28,Paracetamol,Tablet,ABC Pharma,17,99.2,150,2027-11-14
+11112,2026-04-28,Levocetirizine,Tablet,ABC Pharma,27,10.44,36,2028-03-03
+10775,2026-04-28,Diclofenac,Tablet,Wellness Drugs,37,25.21,193,2027-05-22
+10516,2026-04-28,Cough Syrup,Syrup,Wellness Drugs,13,120.06,145,2028-01-25
+11095,2026-04-28,Cough Syrup,Syrup,HealthPlus Distributors,41,75.99,232,2027-08-14
+10827,2026-04-28,Cough Syrup,Syrup,Wellness Drugs,1,148.57,75,2027-02-13
+10358,2026-04-29,Cough Syrup,Syrup,MediCare Ltd,45,26.77,51,2027-08-04
+11026,2026-04-29,Pantoprazole,Tablet,Wellness Drugs,16,135.24,62,2029-01-07
+10825,2026-04-29,ORS,Sachet,Wellness Drugs,4,117.93,101,2027-02-04
+10496,2026-04-30,Diclofenac,Tablet,ABC Pharma,42,87.74,17,2028-01-22
+10612,2026-04-30,Cough Syrup,Syrup,HealthPlus Distributors,7,144.58,11,2028-02-27
+10315,2026-04-30,Diclofenac,Tablet,Wellness Drugs,8,5.32,32,2027-10-06
+11164,2026-04-30,Azithromycin,Tablet,ABC Pharma,26,132.72,21,2026-09-25
+10195,2026-05-01,ORS,Sachet,Wellness Drugs,45,59.63,242,2026-12-14
+10198,2026-05-01,Antacid,Tablet,Wellness Drugs,46,11.85,173,2026-12-29
+11065,2026-05-01,Pantoprazole,Tablet,ABC Pharma,5,83.23,83,2028-12-14
+10987,2026-05-01,Calcium Tablets,Tablet,Wellness Drugs,20,34.37,78,2028-02-04
+10010,2026-05-02,Paracetamol,Tablet,ABC Pharma,27,3.34,180,2028-02-19
+10698,2026-05-02,Cetirizine,Syrup,Sunrise Pharma,22,99.49,52,2027-07-19
+10511,2026-05-02,Metformin,Tablet,Sunrise Pharma,7,139.21,121,2028-04-09
+10962,2026-05-02,Metformin,Tablet,MediCare Ltd,49,148.81,118,2027-11-15
+10790,2026-05-02,Cough Syrup,Syrup,ABC Pharma,27,96.04,136,2028-02-03
+10680,2026-05-02,Vitamin C,Tablet,Sunrise Pharma,46,85.86,91,2028-01-29
+10125,2026-05-03,Vitamin C,Tablet,ABC Pharma,35,14.37,78,2027-03-10
+10885,2026-05-03,Calcium Tablets,Tablet,Sunrise Pharma,24,35.2,74,2028-07-20
+10250,2026-05-03,Amlodipine,Tablet,Sunrise Pharma,26,31.93,86,2027-06-20
+10668,2026-05-03,Azithromycin,Tablet,ABC Pharma,31,46.39,127,2027-04-06
+11187,2026-05-03,Calcium Tablets,Tablet,HealthPlus Distributors,1,83.75,86,2028-07-28
+10158,2026-05-04,Vitamin C,Tablet,MediCare Ltd,6,23.14,140,2027-06-19
+10106,2026-05-04,Cough Syrup,Syrup,Sunrise Pharma,36,129.1,171,2027-01-07
+10262,2026-05-04,Metformin,Tablet,Sunrise Pharma,15,99.61,118,2026-10-20
+10389,2026-05-04,Pantoprazole,Tablet,ABC Pharma,13,54.53,198,2028-12-22
+10491,2026-05-04,Ibuprofen,Tablet,Wellness Drugs,20,20.65,83,2026-12-09
+10574,2026-05-04,Metformin,Tablet,MediCare Ltd,17,9.34,115,2027-07-07
+10459,2026-05-05,ORS,Sachet,Sunrise Pharma,19,42.5,239,2027-10-26
+10515,2026-05-06,Amlodipine,Tablet,MediCare Ltd,37,57.43,46,2028-09-14
+10730,2026-05-06,Diclofenac,Tablet,ABC Pharma,26,73.36,135,2027-05-15
+11033,2026-05-06,Antacid,Tablet,Sunrise Pharma,12,42.25,27,2028-05-17
+10239,2026-05-06,Amoxicillin,Capsule,ABC Pharma,39,136.42,212,2027-04-23
+10936,2026-05-06,Pantoprazole,Tablet,Sunrise Pharma,16,148.9,173,2028-12-23
+11126,2026-05-06,Pantoprazole,Tablet,ABC Pharma,22,121.87,118,2028-07-01
+10726,2026-05-06,Amlodipine,Tablet,ABC Pharma,16,50.57,54,2028-10-26
+10506,2026-05-07,Cetirizine,Syrup,Sunrise Pharma,18,43.24,244,2027-11-07
+11004,2026-05-07,Calcium Tablets,Tablet,HealthPlus Distributors,18,65.11,210,2028-02-13
+10418,2026-05-07,Amoxicillin,Capsule,Sunrise Pharma,31,140.82,5,2027-04-24
+10735,2026-05-07,Antacid,Tablet,ABC Pharma,18,123.9,102,2028-02-10
+10567,2026-05-08,Ibuprofen,Tablet,Wellness Drugs,14,83.57,73,2028-12-31
+10352,2026-05-08,Metformin,Tablet,Sunrise Pharma,3,9.9,95,2026-12-20
+10657,2026-05-08,Metformin,Tablet,MediCare Ltd,26,42.2,63,2027-11-19
+10347,2026-05-08,Vitamin C,Tablet,Wellness Drugs,31,147.21,229,2028-10-30
+10281,2026-05-08,Calcium Tablets,Tablet,HealthPlus Distributors,17,15.08,123,2027-08-17
+10191,2026-05-08,Paracetamol,Tablet,HealthPlus Distributors,3,135.46,93,2028-10-18
+10403,2026-05-08,Amoxicillin,Capsule,Wellness Drugs,20,44.4,7,2027-01-20
+10331,2026-05-08,Azithromycin,Tablet,ABC Pharma,40,129.94,69,2027-02-07
+10300,2026-05-09,Ibuprofen,Tablet,HealthPlus Distributors,3,127.04,41,2028-11-06
+10285,2026-05-09,Paracetamol,Tablet,ABC Pharma,8,6.61,23,2028-04-07
+10509,2026-05-09,Ibuprofen,Tablet,ABC Pharma,44,124.21,13,2028-07-12
+10237,2026-05-09,Calcium Tablets,Tablet,MediCare Ltd,21,133.78,140,2028-12-31
+10116,2026-05-09,Ibuprofen,Tablet,MediCare Ltd,1,104.7,154,2028-05-03
+10520,2026-05-09,Calcium Tablets,Tablet,ABC Pharma,16,127.08,16,2028-10-23
+10194,2026-05-09,Calcium Tablets,Tablet,Wellness Drugs,32,131.85,158,2029-01-12
+10844,2026-05-09,Antacid,Tablet,Wellness Drugs,4,134.9,109,2026-11-26
+10063,2026-05-10,Diclofenac,Tablet,Wellness Drugs,40,67.7,19,2027-07-30
+10594,2026-05-10,Levocetirizine,Tablet,HealthPlus Distributors,47,79.66,215,2027-10-18
+10224,2026-05-10,Levocetirizine,Tablet,Sunrise Pharma,8,11.84,115,2028-02-03
+10420,2026-05-10,Pantoprazole,Tablet,Sunrise Pharma,34,59.07,157,2027-12-30
+10234,2026-05-10,Paracetamol,Tablet,ABC Pharma,45,111.85,244,2028-09-20
+11009,2026-05-10,Cough Syrup,Syrup,Wellness Drugs,40,144.86,151,2028-08-10
+11142,2026-05-10,Metformin,Tablet,ABC Pharma,47,51.04,175,2027-03-06
+11139,2026-05-10,Calcium Tablets,Tablet,HealthPlus Distributors,19,10.42,29,2028-04-02
+10026,2026-05-10,Cetirizine,Syrup,MediCare Ltd,36,69.92,203,2027-02-23
+10240,2026-05-10,Pantoprazole,Tablet,Wellness Drugs,28,114.29,28,2027-07-02
+10147,2026-05-11,Calcium Tablets,Tablet,MediCare Ltd,24,105.92,71,2028-06-07
+11083,2026-05-11,Calcium Tablets,Tablet,Sunrise Pharma,7,61.6,5,2027-03-05
+10225,2026-05-11,Levocetirizine,Tablet,Sunrise Pharma,28,115.44,141,2027-12-12
+10739,2026-05-11,Amlodipine,Tablet,ABC Pharma,18,140.02,193,2027-09-07
+10049,2026-05-11,Azithromycin,Tablet,Sunrise Pharma,18,134.51,233,2027-05-23
+10311,2026-05-11,Cetirizine,Syrup,Wellness Drugs,30,37.74,91,2028-04-17
+10019,2026-05-11,Cetirizine,Syrup,ABC Pharma,20,111.33,112,2028-07-23
+10056,2026-05-12,Paracetamol,Tablet,ABC Pharma,27,65.28,153,2027-12-30
+10712,2026-05-12,Cetirizine,Syrup,HealthPlus Distributors,45,9.81,21,2028-01-09
+11191,2026-05-12,Amlodipine,Tablet,Wellness Drugs,45,53.13,181,2027-04-04
+10078,2026-05-12,Calcium Tablets,Tablet,ABC Pharma,25,29.48,190,2027-12-02
+10949,2026-05-12,Amlodipine,Tablet,MediCare Ltd,17,50.88,221,2027-02-26
+10165,2026-05-12,Calcium Tablets,Tablet,Wellness Drugs,37,64.05,64,2027-10-09
+10923,2026-05-12,Calcium Tablets,Tablet,Sunrise Pharma,5,62.87,189,2029-01-15
+10951,2026-05-12,Levocetirizine,Tablet,Sunrise Pharma,32,127.89,114,2028-11-27
+10921,2026-05-13,Diclofenac,Tablet,MediCare Ltd,47,46.0,218,2027-05-16
+10851,2026-05-13,Azithromycin,Tablet,Wellness Drugs,19,26.13,38,2028-05-09
+10975,2026-05-13,Levocetirizine,Tablet,ABC Pharma,1,89.95,185,2028-02-06
+10890,2026-05-13,Metformin,Tablet,MediCare Ltd,29,68.61,53,2028-12-31
+11109,2026-05-13,Vitamin C,Tablet,ABC Pharma,20,88.66,60,2027-03-21
+10681,2026-05-13,ORS,Sachet,HealthPlus Distributors,26,99.24,45,2028-05-23
+10080,2026-05-14,Cetirizine,Syrup,Wellness Drugs,24,132.49,112,2027-10-02
+11132,2026-05-14,Antacid,Tablet,Sunrise Pharma,47,30.11,192,2028-04-17
+10750,2026-05-14,ORS,Sachet,Wellness Drugs,2,85.2,82,2027-03-22
+11094,2026-05-14,Calcium Tablets,Tablet,HealthPlus Distributors,10,131.18,162,2028-03-28
+10182,2026-05-14,Cetirizine,Syrup,HealthPlus Distributors,5,119.15,239,2026-12-27
+10813,2026-05-14,Calcium Tablets,Tablet,Sunrise Pharma,49,7.81,13,2028-01-23
+10349,2026-05-15,Amlodipine,Tablet,MediCare Ltd,11,121.05,61,2028-11-28
+10436,2026-05-15,Metformin,Tablet,Wellness Drugs,17,46.31,247,2027-05-13
+10129,2026-05-15,Diclofenac,Tablet,HealthPlus Distributors,27,37.75,203,2028-02-05
+10051,2026-05-15,Amoxicillin,Capsule,HealthPlus Distributors,39,118.53,122,2027-12-07
+10606,2026-05-15,Levocetirizine,Tablet,Sunrise Pharma,12,127.52,87,2026-09-06
+11104,2026-05-16,Antacid,Tablet,ABC Pharma,28,31.04,243,2027-09-06
+10117,2026-05-16,Amlodipine,Tablet,Sunrise Pharma,1,35.98,164,2026-11-16
+10794,2026-05-16,Calcium Tablets,Tablet,MediCare Ltd,13,80.63,98,2026-12-04
+10348,2026-05-16,Levocetirizine,Tablet,Sunrise Pharma,38,98.13,153,2028-02-27
+10121,2026-05-16,Vitamin C,Tablet,ABC Pharma,29,108.37,46,2028-03-08
+10705,2026-05-16,Cetirizine,Syrup,HealthPlus Distributors,30,123.17,120,2026-12-17
+10153,2026-05-17,Ibuprofen,Tablet,ABC Pharma,27,80.81,136,2027-09-21
+10206,2026-05-17,Paracetamol,Tablet,MediCare Ltd,28,49.53,175,2027-07-26
+10695,2026-05-17,Metformin,Tablet,Wellness Drugs,5,90.04,231,2027-04-14
+11082,2026-05-17,ORS,Sachet,ABC Pharma,20,47.25,109,2028-03-17
+10424,2026-05-17,Ibuprofen,Tablet,Sunrise Pharma,41,71.43,239,2027-01-21
+10507,2026-05-17,Amlodipine,Tablet,MediCare Ltd,14,34.37,195,2027-03-25
+11166,2026-05-17,Ibuprofen,Tablet,HealthPlus Distributors,10,59.32,54,2027-05-18
+11137,2026-05-18,Diclofenac,Tablet,MediCare Ltd,20,5.1,207,2028-01-04
+10924,2026-05-18,Ibuprofen,Tablet,Sunrise Pharma,13,37.6,187,2027-02-14
+11041,2026-05-18,Paracetamol,Tablet,HealthPlus Distributors,44,100.43,30,2027-12-21
+10616,2026-05-18,Cough Syrup,Syrup,ABC Pharma,32,94.16,40,2028-10-16
+10556,2026-05-18,Metformin,Tablet,MediCare Ltd,47,27.26,110,2028-07-27
+11127,2026-05-19,Ibuprofen,Tablet,Wellness Drugs,26,88.3,203,2027-10-16
+10119,2026-05-19,Amlodipine,Tablet,MediCare Ltd,20,26.46,219,2027-08-04
+10258,2026-05-19,Levocetirizine,Tablet,MediCare Ltd,11,13.39,67,2027-11-19
+10302,2026-05-20,Calcium Tablets,Tablet,Sunrise Pharma,42,87.35,103,2027-11-28
+10571,2026-05-20,Metformin,Tablet,ABC Pharma,3,5.7,192,2028-05-27
+10508,2026-05-20,Calcium Tablets,Tablet,HealthPlus Distributors,35,29.06,114,2026-09-27
+10665,2026-05-20,Amoxicillin,Capsule,MediCare Ltd,40,80.66,60,2027-05-19
+11118,2026-05-20,Ibuprofen,Tablet,ABC Pharma,34,123.37,68,2027-02-10
+10649,2026-05-20,ORS,Sachet,MediCare Ltd,28,100.2,226,2028-03-27
+10692,2026-05-21,Ibuprofen,Tablet,MediCare Ltd,32,147.12,191,2027-09-21
+10810,2026-05-21,Ibuprofen,Tablet,HealthPlus Distributors,30,47.65,174,2027-10-06
+10590,2026-05-21,Metformin,Tablet,Wellness Drugs,28,59.32,106,2027-01-22
+10644,2026-05-21,Paracetamol,Tablet,Wellness Drugs,32,122.98,180,2028-11-27
+10729,2026-05-21,Antacid,Tablet,Sunrise Pharma,48,71.07,83,2027-06-09
+10679,2026-05-22,Levocetirizine,Tablet,ABC Pharma,41,123.51,176,2027-02-02
+10343,2026-05-22,Pantoprazole,Tablet,Sunrise Pharma,46,52.6,239,2027-07-06
+11122,2026-05-22,Amoxicillin,Capsule,Wellness Drugs,2,39.34,190,2028-08-04
+10898,2026-05-22,Cetirizine,Syrup,ABC Pharma,23,67.43,13,2028-06-17
+10150,2026-05-22,Cetirizine,Syrup,Sunrise Pharma,45,62.97,126,2028-02-04
+10444,2026-05-22,Pantoprazole,Tablet,Wellness Drugs,29,121.74,240,2027-06-10
+11151,2026-05-23,Azithromycin,Tablet,MediCare Ltd,10,88.51,101,2026-11-23
+10167,2026-05-23,Cough Syrup,Syrup,MediCare Ltd,23,119.33,81,2027-01-26
+10770,2026-05-23,Amlodipine,Tablet,Wellness Drugs,44,102.02,60,2027-03-27
+10447,2026-05-23,Amlodipine,Tablet,ABC Pharma,1,129.97,150,2027-03-15
+10259,2026-05-24,Amoxicillin,Capsule,Wellness Drugs,33,105.03,80,2027-09-12
+10661,2026-05-24,Amlodipine,Tablet,MediCare Ltd,19,65.63,133,2027-09-12
+10947,2026-05-24,Antacid,Tablet,Wellness Drugs,34,62.86,146,2028-09-29
+10488,2026-05-24,Amoxicillin,Capsule,Wellness Drugs,30,50.58,73,2027-04-02
+10294,2026-05-24,Levocetirizine,Tablet,Wellness Drugs,16,134.89,151,2028-09-06
+10543,2026-05-24,Amoxicillin,Capsule,ABC Pharma,44,37.25,35,2027-09-16
+10777,2026-05-24,Paracetamol,Tablet,MediCare Ltd,28,8.2,26,2028-07-30
+10531,2026-05-24,Vitamin C,Tablet,Wellness Drugs,45,119.3,44,2027-06-20
+10443,2026-05-24,Amlodipine,Tablet,MediCare Ltd,44,33.16,84,2028-07-24
+10671,2026-05-24,Amlodipine,Tablet,MediCare Ltd,43,26.33,108,2027-01-04
+10689,2026-05-25,Amlodipine,Tablet,Sunrise Pharma,27,87.37,232,2029-01-11
+10804,2026-05-25,Cetirizine,Syrup,Wellness Drugs,29,58.1,55,2028-04-05
+10709,2026-05-25,Paracetamol,Tablet,Sunrise Pharma,29,65.82,65,2027-03-16
+10251,2026-05-25,Diclofenac,Tablet,MediCare Ltd,48,48.45,115,2027-05-03
+11036,2026-05-25,Paracetamol,Tablet,HealthPlus Distributors,10,95.79,209,2028-10-24
+10351,2026-05-25,Levocetirizine,Tablet,Wellness Drugs,8,89.79,155,2026-10-26
+10495,2026-05-25,Paracetamol,Tablet,HealthPlus Distributors,37,86.02,97,2028-06-18
+10892,2026-05-25,Amoxicillin,Capsule,MediCare Ltd,24,130.86,118,2028-03-15
+10926,2026-05-25,Azithromycin,Tablet,HealthPlus Distributors,30,124.26,103,2027-07-06
+10861,2026-05-25,Vitamin C,Tablet,ABC Pharma,4,9.49,186,2027-12-06
+10684,2026-05-26,Vitamin C,Tablet,Wellness Drugs,20,50.37,46,2028-08-09
+10829,2026-05-26,Amlodipine,Tablet,Wellness Drugs,45,91.32,131,2027-10-13
+10330,2026-05-26,Antacid,Tablet,Wellness Drugs,13,94.44,237,2027-02-10
+11044,2026-05-26,Vitamin C,Tablet,Wellness Drugs,22,21.92,40,2028-12-09
+10766,2026-05-26,Diclofenac,Tablet,MediCare Ltd,24,39.79,213,2027-08-09
+11195,2026-05-26,Vitamin C,Tablet,Sunrise Pharma,32,85.75,86,2028-05-20
+10086,2026-05-26,Ibuprofen,Tablet,Wellness Drugs,36,38.99,127,2028-03-08
+10651,2026-05-27,Ibuprofen,Tablet,Sunrise Pharma,41,61.56,76,2027-12-27
+10763,2026-05-27,Amlodipine,Tablet,HealthPlus Distributors,39,122.57,95,2027-03-28
+10557,2026-05-27,Paracetamol,Tablet,Sunrise Pharma,10,6.51,123,2027-09-01
+10308,2026-05-27,Paracetamol,Tablet,Wellness Drugs,24,121.39,42,2028-07-17
+10494,2026-05-27,ORS,Sachet,ABC Pharma,12,27.97,6,2027-07-05
+10274,2026-05-27,Metformin,Tablet,Wellness Drugs,45,90.1,49,2026-10-08
+10271,2026-05-27,Metformin,Tablet,MediCare Ltd,47,30.26,242,2028-12-30
+10964,2026-05-27,Diclofenac,Tablet,Wellness Drugs,25,33.13,133,2028-08-27
+10238,2026-05-27,Amoxicillin,Capsule,MediCare Ltd,11,113.0,10,2028-06-21
+10377,2026-05-27,ORS,Sachet,Wellness Drugs,3,126.05,116,2026-09-15
+10732,2026-05-28,Cetirizine,Syrup,Sunrise Pharma,11,34.74,51,2028-03-26
+10275,2026-05-28,ORS,Sachet,ABC Pharma,35,41.17,176,2028-11-08
+10346,2026-05-28,Paracetamol,Tablet,ABC Pharma,30,149.35,211,2027-01-17
+10268,2026-05-28,Amlodipine,Tablet,HealthPlus Distributors,18,96.18,235,2028-08-11
+10312,2026-05-28,Diclofenac,Tablet,MediCare Ltd,47,7.97,58,2028-11-10
+10758,2026-05-29,Antacid,Tablet,ABC Pharma,36,13.37,196,2028-12-14
+10845,2026-05-29,Antacid,Tablet,Sunrise Pharma,5,14.45,187,2027-04-04
+10972,2026-05-29,Levocetirizine,Tablet,HealthPlus Distributors,32,127.34,133,2028-07-23
+10020,2026-05-30,Metformin,Tablet,Sunrise Pharma,18,4.03,16,2027-01-08
+11173,2026-05-30,Pantoprazole,Tablet,ABC Pharma,34,98.02,153,2027-10-25
+10460,2026-05-30,Diclofenac,Tablet,Sunrise Pharma,49,74.2,43,2028-12-13
+11068,2026-05-30,Cough Syrup,Syrup,Sunrise Pharma,5,59.53,161,2027-02-27
+10627,2026-05-31,Cetirizine,Syrup,Wellness Drugs,3,57.13,85,2027-10-09
+10166,2026-05-31,Azithromycin,Tablet,MediCare Ltd,35,4.68,82,2028-12-17
+10289,2026-05-31,Amoxicillin,Capsule,Sunrise Pharma,5,38.02,224,2028-09-14
+10670,2026-05-31,ORS,Sachet,Sunrise Pharma,11,66.21,241,2026-11-30
+11019,2026-05-31,Cough Syrup,Syrup,Sunrise Pharma,33,137.76,36,2028-06-02
+10136,2026-05-31,Paracetamol,Tablet,MediCare Ltd,34,10.54,96,2026-11-09
+11136,2026-05-31,Diclofenac,Tablet,Sunrise Pharma,41,136.88,229,2027-01-03
+10895,2026-05-31,Diclofenac,Tablet,ABC Pharma,3,113.37,153,2027-07-28
+10941,2026-05-31,Paracetamol,Tablet,ABC Pharma,49,99.59,162,2027-10-24
+10416,2026-05-31,Vitamin C,Tablet,Wellness Drugs,18,122.91,39,2028-01-08
+10626,2026-06-01,Paracetamol,Tablet,Wellness Drugs,40,29.49,187,2028-07-21
+10786,2026-06-01,Cough Syrup,Syrup,Sunrise Pharma,48,34.63,21,2028-08-24
+11152,2026-06-01,Ibuprofen,Tablet,ABC Pharma,9,145.46,149,2026-10-18
+10619,2026-06-01,Cough Syrup,Syrup,Wellness Drugs,33,52.32,156,2027-04-18
+10211,2026-06-01,Calcium Tablets,Tablet,Wellness Drugs,34,56.7,47,2027-07-03
+10433,2026-06-01,Azithromycin,Tablet,Sunrise Pharma,32,43.2,29,2027-06-26
+10317,2026-06-01,Amoxicillin,Capsule,HealthPlus Distributors,49,117.99,167,2028-10-04
+11087,2026-06-01,Azithromycin,Tablet,MediCare Ltd,23,21.72,228,2028-09-06
+10570,2026-06-01,Vitamin C,Tablet,ABC Pharma,25,25.78,63,2028-01-15
+10313,2026-06-01,Cetirizine,Syrup,HealthPlus Distributors,35,62.86,154,2027-11-08
+11080,2026-06-01,Levocetirizine,Tablet,ABC Pharma,33,122.25,47,2027-10-30
+10018,2026-06-01,Amlodipine,Tablet,Wellness Drugs,47,131.87,70,2027-12-23
+10432,2026-06-02,ORS,Sachet,MediCare Ltd,18,67.08,215,2027-10-13
+10818,2026-06-02,Diclofenac,Tablet,HealthPlus Distributors,17,60.48,218,2027-05-12
+10745,2026-06-02,Amlodipine,Tablet,ABC Pharma,34,72.39,5,2027-10-28
+10455,2026-06-02,Azithromycin,Tablet,Sunrise Pharma,36,87.94,74,2028-03-22
+10328,2026-06-02,Metformin,Tablet,Wellness Drugs,15,93.69,89,2027-03-04
+10530,2026-06-03,Metformin,Tablet,Sunrise Pharma,45,130.86,107,2027-11-19
+10880,2026-06-03,Metformin,Tablet,Sunrise Pharma,35,83.38,75,2027-10-22
+10600,2026-06-03,Cetirizine,Syrup,HealthPlus Distributors,7,100.84,183,2029-01-14
+11011,2026-06-03,Antacid,Tablet,MediCare Ltd,33,133.78,14,2028-06-17
+11189,2026-06-03,Cetirizine,Syrup,HealthPlus Distributors,36,131.04,77,2027-08-23
+10104,2026-06-03,Levocetirizine,Tablet,MediCare Ltd,48,76.46,99,2027-06-30
+11111,2026-06-03,Metformin,Tablet,HealthPlus Distributors,49,14.73,45,2026-09-20
+10983,2026-06-04,Cough Syrup,Syrup,HealthPlus Distributors,9,104.47,84,2028-02-28
+10802,2026-06-04,Vitamin C,Tablet,Sunrise Pharma,32,127.01,196,2026-11-20
+10419,2026-06-04,Antacid,Tablet,ABC Pharma,14,14.6,232,2027-04-06
+10205,2026-06-04,Cough Syrup,Syrup,HealthPlus Distributors,1,84.74,201,2026-11-19
+10957,2026-06-04,Calcium Tablets,Tablet,HealthPlus Distributors,47,117.37,151,2026-12-15
+10787,2026-06-05,Diclofenac,Tablet,Sunrise Pharma,27,133.15,84,2027-11-06
+10108,2026-06-06,Calcium Tablets,Tablet,ABC Pharma,24,126.01,228,2027-06-02
+10809,2026-06-06,ORS,Sachet,MediCare Ltd,20,78.09,201,2028-12-16
+10611,2026-06-06,Antacid,Tablet,Wellness Drugs,13,43.68,209,2028-01-19
+10493,2026-06-07,ORS,Sachet,Sunrise Pharma,19,142.81,115,2028-03-25
+10024,2026-06-07,Cetirizine,Syrup,MediCare Ltd,30,38.64,94,2027-05-30
+10384,2026-06-07,Pantoprazole,Tablet,Wellness Drugs,39,86.75,121,2027-10-01
+10360,2026-06-07,Amoxicillin,Capsule,MediCare Ltd,38,104.25,183,2027-05-16
+10715,2026-06-08,Amlodipine,Tablet,HealthPlus Distributors,33,35.53,120,2028-12-26
+10290,2026-06-08,Cetirizine,Syrup,MediCare Ltd,13,84.49,96,2028-11-01
+10771,2026-06-08,Amlodipine,Tablet,Sunrise Pharma,9,99.41,98,2028-06-01
+10172,2026-06-09,Metformin,Tablet,ABC Pharma,49,103.92,106,2027-12-15
+10305,2026-06-09,Metformin,Tablet,Sunrise Pharma,12,149.84,231,2027-03-31
+10400,2026-06-09,Pantoprazole,Tablet,ABC Pharma,10,133.14,146,2027-10-20
+10215,2026-06-09,Metformin,Tablet,HealthPlus Distributors,35,106.9,63,2028-06-12
+10243,2026-06-09,Amoxicillin,Capsule,MediCare Ltd,20,133.59,98,2026-09-19
+10754,2026-06-09,Pantoprazole,Tablet,Wellness Drugs,42,19.22,86,2027-03-14
+10959,2026-06-09,Levocetirizine,Tablet,Sunrise Pharma,21,123.12,176,2028-12-12
+10245,2026-06-09,Pantoprazole,Tablet,Wellness Drugs,46,95.59,17,2029-01-01
+10568,2026-06-09,ORS,Sachet,MediCare Ltd,10,66.85,215,2026-12-22
+10423,2026-06-10,Cetirizine,Syrup,Sunrise Pharma,11,35.95,130,2028-05-26
+10576,2026-06-10,Amlodipine,Tablet,ABC Pharma,24,18.52,148,2028-12-01
+10584,2026-06-10,Paracetamol,Tablet,MediCare Ltd,20,20.57,187,2026-11-22
+11131,2026-06-10,Cetirizine,Syrup,Sunrise Pharma,29,70.99,219,2027-12-29
+10840,2026-06-10,Vitamin C,Tablet,Wellness Drugs,34,25.71,36,2028-07-08
+10279,2026-06-10,Pantoprazole,Tablet,Wellness Drugs,45,114.61,55,2028-12-02
+10401,2026-06-10,ORS,Sachet,MediCare Ltd,36,31.1,70,2027-08-20
+10340,2026-06-10,Cetirizine,Syrup,Sunrise Pharma,23,90.33,100,2027-06-01
+10747,2026-06-10,Calcium Tablets,Tablet,Wellness Drugs,43,25.86,194,2027-09-22
+10316,2026-06-10,Antacid,Tablet,MediCare Ltd,26,55.34,244,2028-05-13
+10030,2026-06-10,Calcium Tablets,Tablet,ABC Pharma,47,14.01,94,2026-10-18
+10806,2026-06-10,Metformin,Tablet,HealthPlus Distributors,49,39.17,169,2027-12-22
+10133,2026-06-11,Pantoprazole,Tablet,Sunrise Pharma,38,78.85,135,2028-09-02
+11167,2026-06-11,Amoxicillin,Capsule,Sunrise Pharma,15,99.63,116,2028-10-04
+10881,2026-06-11,Diclofenac,Tablet,MediCare Ltd,37,9.48,150,2028-03-08
+10088,2026-06-11,ORS,Sachet,MediCare Ltd,45,81.26,200,2028-04-11
+10603,2026-06-11,Levocetirizine,Tablet,ABC Pharma,25,92.5,224,2026-09-18
+10573,2026-06-12,Antacid,Tablet,MediCare Ltd,38,37.15,130,2028-04-09
+10682,2026-06-12,Amoxicillin,Capsule,HealthPlus Distributors,49,134.96,127,2028-10-27
+10336,2026-06-12,Cough Syrup,Syrup,Sunrise Pharma,36,67.46,91,2026-10-11
+10122,2026-06-12,Paracetamol,Tablet,ABC Pharma,10,110.4,57,2028-01-21
+11154,2026-06-12,Antacid,Tablet,Wellness Drugs,32,11.18,233,2028-12-15
+10123,2026-06-12,Antacid,Tablet,ABC Pharma,18,78.21,228,2027-04-25
+10613,2026-06-13,Amlodipine,Tablet,MediCare Ltd,36,3.52,159,2028-08-05
+10075,2026-06-13,Diclofenac,Tablet,HealthPlus Distributors,21,25.6,240,2027-11-09
+10615,2026-06-13,Calcium Tablets,Tablet,Sunrise Pharma,9,106.52,38,2026-10-24
+10322,2026-06-13,Azithromycin,Tablet,HealthPlus Distributors,3,4.13,240,2027-07-05
+10762,2026-06-13,Amoxicillin,Capsule,Wellness Drugs,43,125.38,140,2028-10-18
+10792,2026-06-13,Vitamin C,Tablet,Wellness Drugs,3,61.68,171,2027-09-13
+10270,2026-06-13,Cough Syrup,Syrup,HealthPlus Distributors,47,41.89,30,2026-11-08
+10857,2026-06-14,Paracetamol,Tablet,ABC Pharma,40,36.26,117,2027-09-14
+10208,2026-06-14,Pantoprazole,Tablet,MediCare Ltd,35,53.88,22,2028-10-12
+11184,2026-06-14,Amoxicillin,Capsule,HealthPlus Distributors,9,110.69,216,2027-02-01
+10702,2026-06-14,Diclofenac,Tablet,ABC Pharma,46,86.06,179,2026-10-24
+10903,2026-06-15,Metformin,Tablet,ABC Pharma,41,86.66,188,2026-09-03
+10703,2026-06-15,ORS,Sachet,Sunrise Pharma,13,45.86,194,2027-11-09
+10915,2026-06-15,Cetirizine,Syrup,ABC Pharma,47,105.18,117,2027-06-03
+10748,2026-06-15,Pantoprazole,Tablet,ABC Pharma,43,99.15,83,2028-08-08
+10323,2026-06-15,ORS,Sachet,MediCare Ltd,1,115.12,187,2027-08-08
+10720,2026-06-16,Azithromycin,Tablet,MediCare Ltd,11,123.89,246,2028-01-16
+10737,2026-06-16,Cough Syrup,Syrup,Wellness Drugs,23,69.95,236,2027-10-27
+10054,2026-06-16,ORS,Sachet,MediCare Ltd,20,38.76,171,2027-03-18
+10678,2026-06-16,Diclofenac,Tablet,Wellness Drugs,31,139.87,203,2026-09-24
+11050,2026-06-17,Vitamin C,Tablet,ABC Pharma,16,61.5,73,2027-06-26
+10280,2026-06-17,Cough Syrup,Syrup,MediCare Ltd,17,29.78,175,2028-09-24
+10693,2026-06-17,Pantoprazole,Tablet,Wellness Drugs,21,33.77,131,2027-10-30
+10585,2026-06-17,Diclofenac,Tablet,Wellness Drugs,28,116.37,39,2027-03-25
+10486,2026-06-17,Levocetirizine,Tablet,MediCare Ltd,47,129.25,125,2028-11-11
+11141,2026-06-17,Paracetamol,Tablet,ABC Pharma,35,105.91,180,2027-05-15
+10339,2026-06-18,Antacid,Tablet,Wellness Drugs,40,35.87,155,2029-01-08
+11054,2026-06-18,Calcium Tablets,Tablet,HealthPlus Distributors,8,2.0,126,2026-09-15
+10428,2026-06-19,Diclofenac,Tablet,Wellness Drugs,31,23.8,230,2028-05-07
+10178,2026-06-19,ORS,Sachet,Sunrise Pharma,32,123.57,233,2028-10-16
+10694,2026-06-19,Calcium Tablets,Tablet,Wellness Drugs,46,11.95,213,2027-06-03
+10969,2026-06-19,Vitamin C,Tablet,ABC Pharma,2,20.64,169,2026-09-12
+10037,2026-06-19,ORS,Sachet,ABC Pharma,15,31.64,204,2028-05-21
+10466,2026-06-19,Ibuprofen,Tablet,Wellness Drugs,23,63.95,22,2027-03-18
+10168,2026-06-20,Vitamin C,Tablet,Sunrise Pharma,6,12.22,249,2027-05-24
+10579,2026-06-20,Diclofenac,Tablet,ABC Pharma,25,27.68,109,2026-10-13
+10242,2026-06-21,Paracetamol,Tablet,ABC Pharma,17,98.81,235,2028-07-09
+10140,2026-06-21,Vitamin C,Tablet,Wellness Drugs,1,144.06,10,2028-10-12
+10069,2026-06-21,Amlodipine,Tablet,HealthPlus Distributors,43,139.21,186,2027-02-07
+10383,2026-06-21,Cough Syrup,Syrup,MediCare Ltd,39,24.75,105,2028-10-21
+10210,2026-06-21,Antacid,Tablet,ABC Pharma,47,12.17,145,2028-05-28
+11138,2026-06-21,Pantoprazole,Tablet,MediCare Ltd,44,48.73,78,2028-01-21
+11107,2026-06-22,Diclofenac,Tablet,ABC Pharma,18,17.99,196,2029-01-16
+10439,2026-06-22,Pantoprazole,Tablet,MediCare Ltd,8,39.96,46,2028-02-02
+10728,2026-06-22,ORS,Sachet,MediCare Ltd,35,14.53,12,2026-09-16
+10753,2026-06-22,Amoxicillin,Capsule,HealthPlus Distributors,13,63.81,102,2027-06-11
+10868,2026-06-22,Amoxicillin,Capsule,MediCare Ltd,8,118.53,174,2028-11-16
+10755,2026-06-22,Ibuprofen,Tablet,HealthPlus Distributors,8,92.69,203,2027-07-03
+10691,2026-06-23,Ibuprofen,Tablet,HealthPlus Distributors,15,19.57,237,2027-04-24
+10410,2026-06-23,Diclofenac,Tablet,HealthPlus Distributors,22,70.82,196,2028-05-11
+10071,2026-06-24,Diclofenac,Tablet,MediCare Ltd,45,115.14,7,2026-12-29
+10043,2026-06-24,Diclofenac,Tablet,Wellness Drugs,10,56.92,99,2027-03-07
+10414,2026-06-24,Antacid,Tablet,Wellness Drugs,23,11.92,92,2027-04-08
+10145,2026-06-24,Cough Syrup,Syrup,ABC Pharma,5,82.05,97,2027-08-22
+10426,2026-06-25,Cetirizine,Syrup,Sunrise Pharma,49,16.94,93,2027-05-12
+10544,2026-06-25,ORS,Sachet,Wellness Drugs,21,136.45,182,2027-04-26
+10354,2026-06-25,Amoxicillin,Capsule,MediCare Ltd,13,101.87,176,2027-10-14
+10830,2026-06-26,Calcium Tablets,Tablet,HealthPlus Distributors,20,99.61,101,2027-10-16
+10980,2026-06-26,Antacid,Tablet,ABC Pharma,34,42.84,58,2027-08-01
+10647,2026-06-26,Azithromycin,Tablet,Wellness Drugs,15,3.02,188,2028-07-08
+10838,2026-06-26,Levocetirizine,Tablet,Sunrise Pharma,17,82.88,175,2028-11-23
+10621,2026-06-26,Metformin,Tablet,Sunrise Pharma,25,67.53,219,2027-09-28
+11161,2026-06-27,Paracetamol,Tablet,ABC Pharma,4,54.5,141,2027-04-17
+11133,2026-06-27,Vitamin C,Tablet,Sunrise Pharma,38,105.86,26,2028-08-02
+10288,2026-06-27,Amlodipine,Tablet,HealthPlus Distributors,3,132.12,187,2028-02-25
+10696,2026-06-27,Paracetamol,Tablet,MediCare Ltd,6,111.35,180,2028-09-13
+10572,2026-06-27,Metformin,Tablet,ABC Pharma,47,68.46,215,2028-11-24
+10797,2026-06-27,Antacid,Tablet,Sunrise Pharma,36,110.26,235,2027-01-23
+10960,2026-06-27,Amoxicillin,Capsule,ABC Pharma,37,7.94,230,2027-04-14
+10912,2026-06-28,Pantoprazole,Tablet,MediCare Ltd,20,10.39,69,2028-08-30
+11106,2026-06-28,Cough Syrup,Syrup,Wellness Drugs,5,144.6,55,2026-12-05
+11098,2026-06-28,Levocetirizine,Tablet,Wellness Drugs,29,29.62,192,2027-02-25
+10901,2026-06-28,Metformin,Tablet,HealthPlus Distributors,5,80.43,46,2027-09-10
+10578,2026-06-28,Azithromycin,Tablet,Sunrise Pharma,43,43.6,220,2029-01-09
+10160,2026-06-28,Cough Syrup,Syrup,HealthPlus Distributors,30,32.53,20,2027-05-28
+10532,2026-06-28,Ibuprofen,Tablet,Sunrise Pharma,34,94.84,68,2027-01-27
+10465,2026-06-29,Amoxicillin,Capsule,MediCare Ltd,17,10.43,248,2026-12-13
+10217,2026-06-29,Diclofenac,Tablet,MediCare Ltd,40,34.21,67,2026-09-01
+10555,2026-06-29,Vitamin C,Tablet,Wellness Drugs,44,124.48,224,2026-11-18
+10002,2026-06-29,Diclofenac,Tablet,Wellness Drugs,33,66.17,35,2027-05-22
+11001,2026-06-29,Levocetirizine,Tablet,ABC Pharma,32,40.27,50,2028-11-16
+11057,2026-06-29,Metformin,Tablet,HealthPlus Distributors,12,39.66,91,2027-02-09
+10667,2026-06-29,Metformin,Tablet,Wellness Drugs,47,74.94,39,2026-11-09
+10394,2026-06-30,Vitamin C,Tablet,MediCare Ltd,22,91.81,138,2028-06-15
+11067,2026-06-30,Pantoprazole,Tablet,HealthPlus Distributors,14,91.86,91,2026-11-30
+10675,2026-06-30,Pantoprazole,Tablet,ABC Pharma,38,52.91,223,2027-09-06
+10854,2026-06-30,Amoxicillin,Capsule,MediCare Ltd,47,125.57,110,2027-02-24
+10882,2026-07-01,ORS,Sachet,Sunrise Pharma,1,65.07,110,2028-10-21
+10719,2026-07-01,Cough Syrup,Syrup,Sunrise Pharma,13,55.16,210,2027-03-29
+10364,2026-07-01,Cough Syrup,Syrup,HealthPlus Distributors,17,25.12,180,2027-05-07
+10942,2026-07-02,Cough Syrup,Syrup,Sunrise Pharma,16,87.52,116,2028-09-12
+10632,2026-07-02,Amoxicillin,Capsule,Sunrise Pharma,34,90.09,131,2026-11-16
+10501,2026-07-02,Paracetamol,Tablet,Wellness Drugs,28,57.08,193,2028-10-10
+10247,2026-07-02,Calcium Tablets,Tablet,MediCare Ltd,6,72.14,29,2027-01-06
+10925,2026-07-03,ORS,Sachet,MediCare Ltd,23,101.51,64,2028-07-18
+10229,2026-07-03,Diclofenac,Tablet,MediCare Ltd,36,120.84,224,2028-11-11
+11061,2026-07-03,ORS,Sachet,Wellness Drugs,12,143.73,82,2027-08-15
+10952,2026-07-03,Cough Syrup,Syrup,MediCare Ltd,10,31.83,188,2027-08-13
+10249,2026-07-03,Paracetamol,Tablet,Sunrise Pharma,19,42.1,122,2027-10-26
+10181,2026-07-04,ORS,Sachet,Sunrise Pharma,4,51.38,14,2027-08-29
+11030,2026-07-04,Vitamin C,Tablet,ABC Pharma,48,142.0,138,2026-10-21
+10778,2026-07-04,Pantoprazole,Tablet,Sunrise Pharma,42,64.04,39,2027-10-23
+10765,2026-07-04,Levocetirizine,Tablet,HealthPlus Distributors,20,57.27,134,2028-11-05
+10534,2026-07-04,Vitamin C,Tablet,MediCare Ltd,24,24.5,89,2027-11-06
+10287,2026-07-04,Calcium Tablets,Tablet,Sunrise Pharma,38,6.98,80,2027-02-26
+11100,2026-07-04,Amoxicillin,Capsule,Sunrise Pharma,17,44.11,101,2028-10-10
+10456,2026-07-05,ORS,Sachet,Sunrise Pharma,18,76.82,100,2028-04-11
+10677,2026-07-05,Cetirizine,Syrup,MediCare Ltd,47,99.48,234,2028-07-24
+10795,2026-07-05,ORS,Sachet,Sunrise Pharma,45,102.26,138,2026-12-11
+10220,2026-07-05,Cetirizine,Syrup,MediCare Ltd,19,2.79,183,2028-06-11
+10558,2026-07-05,Levocetirizine,Tablet,HealthPlus Distributors,46,32.26,74,2027-12-04
+10688,2026-07-05,Cetirizine,Syrup,Sunrise Pharma,38,17.46,67,2027-09-18
+10269,2026-07-06,Paracetamol,Tablet,Sunrise Pharma,28,50.03,57,2027-05-05
+11060,2026-07-06,Amlodipine,Tablet,Sunrise Pharma,27,127.97,212,2028-01-26
+10356,2026-07-06,Paracetamol,Tablet,Sunrise Pharma,32,57.22,92,2027-02-28
+10174,2026-07-06,ORS,Sachet,Wellness Drugs,13,3.48,173,2028-05-22
+10263,2026-07-06,Metformin,Tablet,MediCare Ltd,27,119.84,115,2027-04-29
+11013,2026-07-06,Cough Syrup,Syrup,Sunrise Pharma,34,85.46,129,2027-09-29
+10231,2026-07-06,Amlodipine,Tablet,Wellness Drugs,27,22.77,72,2027-12-03
+10645,2026-07-06,Cough Syrup,Syrup,Sunrise Pharma,20,114.04,25,2027-11-18
+10397,2026-07-07,ORS,Sachet,Sunrise Pharma,23,99.54,138,2028-05-30
+10028,2026-07-07,Vitamin C,Tablet,MediCare Ltd,37,91.8,131,2028-12-08
+10067,2026-07-07,Calcium Tablets,Tablet,ABC Pharma,12,10.31,121,2027-07-30
+10105,2026-07-07,Amoxicillin,Capsule,ABC Pharma,32,30.69,146,2027-09-14
+10470,2026-07-07,Paracetamol,Tablet,HealthPlus Distributors,27,100.75,129,2028-04-07
+11160,2026-07-07,Amoxicillin,Capsule,Sunrise Pharma,29,68.86,220,2027-08-11
+10038,2026-07-07,Azithromycin,Tablet,Sunrise Pharma,41,93.28,156,2028-10-13
+10717,2026-07-08,Calcium Tablets,Tablet,HealthPlus Distributors,48,39.42,86,2027-07-18
+10577,2026-07-08,Paracetamol,Tablet,Sunrise Pharma,29,92.03,132,2028-08-07
+10007,2026-07-08,Calcium Tablets,Tablet,ABC Pharma,5,40.29,52,2027-05-04
+10522,2026-07-08,Vitamin C,Tablet,ABC Pharma,9,27.92,78,2027-05-08
+10650,2026-07-08,Vitamin C,Tablet,ABC Pharma,22,62.86,63,2027-01-24
+10338,2026-07-08,Ibuprofen,Tablet,HealthPlus Distributors,2,59.61,111,2028-09-09
+10193,2026-07-09,Diclofenac,Tablet,Sunrise Pharma,34,11.91,192,2027-10-01
+10189,2026-07-09,Ibuprofen,Tablet,ABC Pharma,22,59.4,54,2028-09-03
+11076,2026-07-09,Amoxicillin,Capsule,ABC Pharma,30,80.72,62,2027-07-10
+10197,2026-07-09,Vitamin C,Tablet,MediCare Ltd,21,145.27,82,2027-04-01
+10742,2026-07-09,ORS,Sachet,HealthPlus Distributors,4,103.21,120,2026-11-19
+10458,2026-07-09,Levocetirizine,Tablet,Wellness Drugs,13,94.35,52,2026-10-11
+10871,2026-07-09,Calcium Tablets,Tablet,Wellness Drugs,19,89.08,150,2028-01-15
+10042,2026-07-09,Paracetamol,Tablet,Wellness Drugs,41,12.13,150,2027-10-12
+10090,2026-07-09,Vitamin C,Tablet,Sunrise Pharma,38,54.36,102,2028-05-01
+10041,2026-07-09,Cough Syrup,Syrup,HealthPlus Distributors,29,79.17,105,2029-01-14
+10628,2026-07-09,Diclofenac,Tablet,MediCare Ltd,29,139.44,178,2027-09-26
+10044,2026-07-09,Ibuprofen,Tablet,Sunrise Pharma,2,138.27,105,2028-11-29
+10097,2026-07-09,Vitamin C,Tablet,ABC Pharma,28,54.45,138,2027-11-30
+10540,2026-07-09,Cough Syrup,Syrup,HealthPlus Distributors,28,7.93,201,2027-12-15
+10913,2026-07-10,ORS,Sachet,Sunrise Pharma,3,7.13,186,2028-08-16
+10524,2026-07-10,Diclofenac,Tablet,Sunrise Pharma,11,34.63,56,2029-01-02
+10452,2026-07-10,Azithromycin,Tablet,HealthPlus Distributors,34,85.38,138,2028-05-09
+10085,2026-07-10,ORS,Sachet,Sunrise Pharma,18,47.85,72,2028-08-29
+10743,2026-07-10,ORS,Sachet,Sunrise Pharma,44,80.67,245,2028-03-03
+10803,2026-07-10,Cough Syrup,Syrup,ABC Pharma,25,65.83,20,2027-11-01
+10399,2026-07-10,Calcium Tablets,Tablet,MediCare Ltd,10,129.72,79,2026-10-09
+10380,2026-07-11,Ibuprofen,Tablet,Sunrise Pharma,14,81.32,181,2027-03-06
+10801,2026-07-11,Diclofenac,Tablet,Wellness Drugs,1,81.96,152,2028-07-09
+10904,2026-07-11,Diclofenac,Tablet,HealthPlus Distributors,6,121.2,183,2027-01-15
+10027,2026-07-11,Amlodipine,Tablet,Wellness Drugs,18,110.44,5,2028-07-26
+11025,2026-07-11,Pantoprazole,Tablet,Wellness Drugs,27,105.28,249,2027-09-03
+10620,2026-07-11,Calcium Tablets,Tablet,Wellness Drugs,23,13.68,150,2027-11-26
+10523,2026-07-11,Cough Syrup,Syrup,MediCare Ltd,38,101.57,77,2029-01-05
+10373,2026-07-11,Diclofenac,Tablet,MediCare Ltd,47,4.83,35,2028-05-30
+10143,2026-07-12,Pantoprazole,Tablet,ABC Pharma,49,63.53,42,2028-03-17
+10888,2026-07-12,ORS,Sachet,Wellness Drugs,36,139.7,72,2028-01-27
+10872,2026-07-12,Diclofenac,Tablet,Sunrise Pharma,48,60.86,155,2026-12-27
+10334,2026-07-13,Pantoprazole,Tablet,Sunrise Pharma,9,148.62,119,2028-04-22
+10417,2026-07-13,Levocetirizine,Tablet,MediCare Ltd,12,128.18,194,2027-04-24
+10934,2026-07-13,Vitamin C,Tablet,ABC Pharma,36,42.06,161,2027-07-20
+11101,2026-07-13,Pantoprazole,Tablet,Wellness Drugs,2,67.57,78,2026-09-02
+10699,2026-07-13,Azithromycin,Tablet,ABC Pharma,18,80.78,228,2027-01-30
+10819,2026-07-13,Diclofenac,Tablet,Sunrise Pharma,18,109.8,26,2027-02-25
+10954,2026-07-14,Diclofenac,Tablet,HealthPlus Distributors,17,103.98,199,2027-12-17
+10727,2026-07-14,Cetirizine,Syrup,ABC Pharma,4,32.94,40,2027-07-25
+10956,2026-07-14,Amlodipine,Tablet,ABC Pharma,48,84.32,123,2027-09-01
+10273,2026-07-14,Amlodipine,Tablet,Wellness Drugs,7,34.37,122,2027-09-16
+10528,2026-07-14,Metformin,Tablet,MediCare Ltd,45,40.96,64,2026-11-28
+10350,2026-07-14,ORS,Sachet,ABC Pharma,35,107.83,107,2028-02-11
+10478,2026-07-15,Metformin,Tablet,Wellness Drugs,13,56.98,113,2028-04-16
+10607,2026-07-15,Paracetamol,Tablet,Wellness Drugs,16,142.18,46,2028-09-29
+10303,2026-07-16,Metformin,Tablet,Wellness Drugs,21,11.95,102,2027-04-19
+10374,2026-07-16,Amoxicillin,Capsule,HealthPlus Distributors,31,117.31,25,2027-06-08
+10849,2026-07-16,Diclofenac,Tablet,ABC Pharma,12,99.93,66,2027-08-16
+10541,2026-07-16,Cetirizine,Syrup,Wellness Drugs,6,45.14,227,2028-09-12
+10816,2026-07-16,Amoxicillin,Capsule,HealthPlus Distributors,26,146.8,90,2028-01-06
+10257,2026-07-17,Cetirizine,Syrup,ABC Pharma,38,29.81,179,2027-09-09
+10244,2026-07-17,Levocetirizine,Tablet,HealthPlus Distributors,41,87.66,177,2027-04-03
+11064,2026-07-17,ORS,Sachet,Sunrise Pharma,33,14.59,39,2028-12-04
+11070,2026-07-17,Calcium Tablets,Tablet,Wellness Drugs,48,16.05,101,2027-06-27
+10203,2026-07-17,Paracetamol,Tablet,Wellness Drugs,39,66.15,138,2028-06-02
+10068,2026-07-18,Diclofenac,Tablet,ABC Pharma,35,74.68,176,2027-03-17
+10654,2026-07-18,ORS,Sachet,ABC Pharma,44,136.56,116,2028-06-13
+10277,2026-07-18,Diclofenac,Tablet,MediCare Ltd,9,122.61,237,2026-09-17
+10733,2026-07-19,Cough Syrup,Syrup,HealthPlus Distributors,37,58.39,209,2028-05-03
+10095,2026-07-19,Metformin,Tablet,Wellness Drugs,3,143.02,176,2028-03-30
+10321,2026-07-19,Ibuprofen,Tablet,ABC Pharma,7,36.34,76,2028-07-14
+10783,2026-07-19,Paracetamol,Tablet,Sunrise Pharma,40,76.36,132,2026-11-14
+10204,2026-07-19,Azithromycin,Tablet,Sunrise Pharma,4,149.58,243,2026-09-11
+10261,2026-07-20,Paracetamol,Tablet,HealthPlus Distributors,23,123.63,209,2028-06-17
+10805,2026-07-20,Calcium Tablets,Tablet,Sunrise Pharma,7,137.43,109,2028-11-29
+10130,2026-07-20,Levocetirizine,Tablet,Sunrise Pharma,11,54.43,161,2027-02-26
+10618,2026-07-20,Levocetirizine,Tablet,Wellness Drugs,8,48.16,10,2027-06-23
+10864,2026-07-20,Pantoprazole,Tablet,Wellness Drugs,20,60.15,233,2026-09-16
+10601,2026-07-21,ORS,Sachet,Sunrise Pharma,32,140.11,76,2027-12-11
+11028,2026-07-21,Azithromycin,Tablet,Sunrise Pharma,40,102.1,215,2028-07-07
+10859,2026-07-21,Pantoprazole,Tablet,MediCare Ltd,21,139.12,188,2027-11-23
+10722,2026-07-21,Ibuprofen,Tablet,Sunrise Pharma,28,72.65,83,2028-08-02
+10089,2026-07-21,Levocetirizine,Tablet,MediCare Ltd,9,54.82,117,2028-08-27
+10858,2026-07-21,Antacid,Tablet,ABC Pharma,5,130.52,17,2028-06-18
+10945,2026-07-22,Amoxicillin,Capsule,Wellness Drugs,10,71.22,21,2028-12-26
+10013,2026-07-22,Metformin,Tablet,ABC Pharma,30,96.38,136,2027-01-31
+10938,2026-07-22,Amoxicillin,Capsule,Wellness Drugs,21,148.29,102,2028-06-27
+10248,2026-07-22,Azithromycin,Tablet,HealthPlus Distributors,17,108.03,152,2027-10-14
+11103,2026-07-22,Metformin,Tablet,Sunrise Pharma,5,127.79,195,2026-09-28
+10779,2026-07-22,Amlodipine,Tablet,MediCare Ltd,43,26.89,233,2028-08-25
+10761,2026-07-22,Paracetamol,Tablet,HealthPlus Distributors,1,61.67,18,2028-08-22
+11150,2026-07-22,Amlodipine,Tablet,Sunrise Pharma,27,19.83,124,2028-01-14
+11165,2026-07-22,Vitamin C,Tablet,ABC Pharma,25,63.39,121,2028-04-05
+10031,2026-07-23,Calcium Tablets,Tablet,ABC Pharma,28,142.82,91,2028-03-19
+10542,2026-07-23,Amlodipine,Tablet,Sunrise Pharma,44,32.72,93,2027-05-04
+10355,2026-07-23,Cetirizine,Syrup,Wellness Drugs,45,102.27,214,2027-10-18
+10785,2026-07-23,ORS,Sachet,Sunrise Pharma,8,143.8,175,2027-07-17
+10445,2026-07-23,Pantoprazole,Tablet,ABC Pharma,28,23.74,108,2027-07-08
+10839,2026-07-24,Metformin,Tablet,ABC Pharma,22,63.74,63,2027-10-08
+10159,2026-07-24,Azithromycin,Tablet,HealthPlus Distributors,15,104.43,91,2026-09-08
+10808,2026-07-24,Vitamin C,Tablet,MediCare Ltd,20,73.64,205,2027-02-08
+10740,2026-07-24,Cough Syrup,Syrup,Sunrise Pharma,26,19.56,164,2028-09-26
+10869,2026-07-24,Amoxicillin,Capsule,MediCare Ltd,41,47.35,213,2027-12-22
+10200,2026-07-24,Ibuprofen,Tablet,Wellness Drugs,21,12.97,125,2028-12-27
+10935,2026-07-24,Antacid,Tablet,Wellness Drugs,39,14.02,247,2028-11-21
+10536,2026-07-25,Levocetirizine,Tablet,ABC Pharma,7,53.98,161,2028-12-13
+10656,2026-07-25,Pantoprazole,Tablet,HealthPlus Distributors,42,104.28,218,2028-04-30
+10096,2026-07-25,Calcium Tablets,Tablet,MediCare Ltd,3,50.36,131,2028-09-14
+10146,2026-07-25,Paracetamol,Tablet,Sunrise Pharma,30,105.07,151,2028-11-23
+10073,2026-07-25,Azithromycin,Tablet,Wellness Drugs,26,98.97,175,2028-08-23
+11002,2026-07-26,Amoxicillin,Capsule,Wellness Drugs,32,6.12,241,2027-11-20
+10212,2026-07-26,Diclofenac,Tablet,Sunrise Pharma,11,70.71,82,2027-05-24
+10154,2026-07-26,Calcium Tablets,Tablet,ABC Pharma,46,19.08,183,2027-09-12
+10896,2026-07-26,Azithromycin,Tablet,HealthPlus Distributors,34,9.59,222,2026-12-01
+10310,2026-07-27,Ibuprofen,Tablet,HealthPlus Distributors,30,149.65,130,2027-04-13
+10337,2026-07-27,Amoxicillin,Capsule,Sunrise Pharma,35,106.69,175,2027-03-28
+10265,2026-07-27,Amoxicillin,Capsule,Wellness Drugs,17,104.47,207,2028-03-15
+10039,2026-07-27,Diclofenac,Tablet,Sunrise Pharma,39,111.95,90,2026-10-15
+10099,2026-07-27,ORS,Sachet,HealthPlus Distributors,15,141.29,29,2026-11-17
+10848,2026-07-28,Ibuprofen,Tablet,ABC Pharma,35,4.46,74,2028-07-27
+10967,2026-07-29,Amlodipine,Tablet,Sunrise Pharma,41,130.1,225,2028-05-06
+10624,2026-07-29,Paracetamol,Tablet,ABC Pharma,22,125.52,130,2027-11-17
+10011,2026-07-30,Paracetamol,Tablet,HealthPlus Distributors,46,89.24,43,2028-08-28
+10807,2026-07-31,Vitamin C,Tablet,Sunrise Pharma,3,126.94,236,2028-10-04
+11090,2026-07-31,Pantoprazole,Tablet,ABC Pharma,20,87.62,14,2027-01-31
+11115,2026-07-31,Amlodipine,Tablet,Wellness Drugs,7,82.56,159,2026-10-15
+11038,2026-07-31,Cough Syrup,Syrup,HealthPlus Distributors,20,4.4,83,2027-09-08
