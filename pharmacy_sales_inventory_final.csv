@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Medicine_Name,Category,Supplier,Quantity_Sold,Unit_Price,Stock_Available,Expiry_Date,Revenue,Stock_Status,Days_To_Expiry,Expiry_Status,Month,Month_Number
+11170,2026-01-01,Calcium Tablets,Tablet,MediCare Ltd,21,11.09,190,2028-06-16,232.89,Sufficient Stock,897,Valid,January,1
+11120,2026-01-01,Cetirizine,Syrup,MediCare Ltd,35,75.72,191,2027-08-03,2650.2,Sufficient Stock,579,Valid,January,1
+10866,2026-01-01,Amlodipine,Tablet,ABC Pharma,45,88.32,43,2027-07-23,3974.3999999999996,Medium Stock,568,Valid,January,1
+10738,2026-01-01,Calcium Tablets,Tablet,ABC Pharma,38,46.89,100,2027-12-09,1781.82,Sufficient Stock,707,Valid,January,1
+10512,2026-01-01,Ibuprofen,Tablet,Wellness Drugs,41,145.55,15,2028-05-19,5967.55,Low Stock,869,Valid,January,1
+10997,2026-01-01,Paracetamol,Tablet,MediCare Ltd,3,51.13,75,2027-04-24,153.39000000000001,Medium Stock,478,Valid,January,1
+10148,2026-01-01,Pantoprazole,Tablet,Wellness Drugs,3,27.41,140,2027-11-16,82.23,Sufficient Stock,684,Valid,January,1
+10560,2026-01-01,Amlodipine,Tablet,HealthPlus Distributors,37,77.57,190,2027-11-25,2870.0899999999997,Sufficient Stock,693,Valid,January,1
+10974,2026-01-01,Cough Syrup,Syrup,Sunrise Pharma,6,102.12,25,2027-05-25,612.72,Medium Stock,509,Valid,January,1
+10772,2026-01-01,Amoxicillin,Capsule,ABC Pharma,37,12.38,97,2027-07-31,458.06,Sufficient Stock,576,Valid,January,1
+10299,2026-01-02,Pantoprazole,Tablet,ABC Pharma,43,124.16,181,2027-12-20,5338.88,Sufficient Stock,717,Valid,January,1
+10566,2026-01-02,Cetirizine,Syrup,Wellness Drugs,36,7.17,196,2027-09-03,258.12,Sufficient Stock,609,Valid,January,1
+10233,2026-01-02,Amoxicillin,Capsule,Sunrise Pharma,11,93.83,230,2028-02-07,1032.1299999999999,Sufficient Stock,766,Valid,January,1
+10079,2026-01-02,Cetirizine,Syrup,MediCare Ltd,23,100.3,165,2028-01-26,2306.9,Sufficient Stock,754,Valid,January,1
+10022,2026-01-02,Pantoprazole,Tablet,Wellness Drugs,2,33.73,40,2028-11-17,67.46,Medium Stock,1050,Valid,January,1
+10884,2026-01-03,Pantoprazole,Tablet,Wellness Drugs,47,121.24,44,2027-07-22,5698.28,Medium Stock,565,Valid,January,1
+11130,2026-01-03,ORS,Sachet,Sunrise Pharma,27,96.86,93,2026-10-12,2615.22,Sufficient Stock,282,Valid,January,1
+10853,2026-01-03,Azithromycin,Tablet,Sunrise Pharma,7,5.51,118,2028-05-11,38.57,Sufficient Stock,859,Valid,January,1
+10201,2026-01-03,Paracetamol,Tablet,Sunrise Pharma,44,57.57,27,2027-03-15,2533.08,Medium Stock,436,Valid,January,1
+11017,2026-01-03,Cetirizine,Syrup,ABC Pharma,19,90.93,74,2026-11-08,1727.67,Medium Stock,309,Valid,January,1
+10267,2026-01-03,Diclofenac,Tablet,Wellness Drugs,27,140.98,39,2026-12-28,3806.4599999999996,Medium Stock,359,Valid,January,1
+10776,2026-01-03,Diclofenac,Tablet,Sunrise Pharma,28,124.44,249,2027-05-28,3484.3199999999997,Sufficient Stock,510,Valid,January,1
+10870,2026-01-04,Levocetirizine,Tablet,HealthPlus Distributors,48,7.96,83,2027-05-09,382.08,Sufficient Stock,490,Valid,January,1
+11073,2026-01-04,Antacid,Tablet,ABC Pharma,22,28.18,155,2027-03-07,619.96,Sufficient Stock,427,Valid,January,1
+10083,2026-01-04,Vitamin C,Tablet,MediCare Ltd,21,18.34,126,2028-03-13,385.14,Sufficient Stock,799,Valid,January,1
+11092,2026-01-04,Calcium Tablets,Tablet,ABC Pharma,24,105.69,94,2027-08-16,2536.56,Sufficient Stock,589,Valid,January,1
+10378,2026-01-04,Pantoprazole,Tablet,Sunrise Pharma,8,120.82,49,2027-01-28,966.56,Medium Stock,389,Valid,January,1
+10562,2026-01-04,Antacid,Tablet,Sunrise Pharma,24,136.77,86,2027-12-21,3282.4800000000005,Sufficient Stock,716,Valid,January,1
+11135,2026-01-05,Cetirizine,Syrup,HealthPlus Distributors,27,55.08,222,2027-03-28,1487.1599999999999,Sufficient Stock,447,Valid,January,1
+10149,2026-01-05,Metformin,Tablet,HealthPlus Distributors,11,76.02,12,2026-11-07,836.2199999999999,Low Stock,306,Valid,January,1
+10476,2026-01-05,Vitamin C,Tablet,HealthPlus Distributors,21,148.44,172,2028-10-11,3117.24,Sufficient Stock,1010,Valid,January,1
+10824,2026-01-05,Levocetirizine,Tablet,ABC Pharma,18,61.23,114,2028-08-31,1102.1399999999999,Sufficient Stock,969,Valid,January,1
+10126,2026-01-05,Cough Syrup,Syrup,Wellness Drugs,43,4.83,43,2027-08-21,207.69,Medium Stock,593,Valid,January,1
+11185,2026-01-05,Amlodipine,Tablet,ABC Pharma,36,32.91,105,2028-07-08,1184.7599999999998,Sufficient Stock,915,Valid,January,1
+10966,2026-01-05,Ibuprofen,Tablet,Wellness Drugs,17,39.45,89,2026-11-22,670.6500000000001,Sufficient Stock,321,Valid,January,1
+10700,2026-01-05,Vitamin C,Tablet,Wellness Drugs,14,17.28,7,2028-05-30,241.92000000000002,Low Stock,876,Valid,January,1
+10847,2026-01-06,Levocetirizine,Tablet,ABC Pharma,21,16.84,192,2027-01-12,353.64,Sufficient Stock,371,Valid,January,1
+10479,2026-01-06,Cetirizine,Syrup,MediCare Ltd,37,30.88,141,2027-02-28,1142.56,Sufficient Stock,418,Valid,January,1
+10387,2026-01-06,Ibuprofen,Tablet,HealthPlus Distributors,41,88.31,32,2027-07-26,3620.71,Medium Stock,566,Valid,January,1
+11088,2026-01-06,Pantoprazole,Tablet,ABC Pharma,19,95.59,10,2028-03-17,1816.21,Low Stock,801,Valid,January,1
+11056,2026-01-06,Vitamin C,Tablet,MediCare Ltd,49,54.78,84,2027-08-23,2684.2200000000003,Sufficient Stock,594,Valid,January,1
+10932,2026-01-06,ORS,Sachet,ABC Pharma,48,55.35,216,2027-06-22,2656.8,Sufficient Stock,532,Valid,January,1
+10293,2026-01-07,Amlodipine,Tablet,Sunrise Pharma,31,49.81,37,2028-10-29,1544.1100000000001,Medium Stock,1026,Valid,January,1
+10690,2026-01-07,Pantoprazole,Tablet,MediCare Ltd,34,70.67,169,2027-03-11,2402.78,Sufficient Stock,428,Valid,January,1
+11016,2026-01-07,Pantoprazole,Tablet,Sunrise Pharma,29,15.3,144,2028-09-18,443.70000000000005,Sufficient Stock,985,Valid,January,1
+10442,2026-01-08,Calcium Tablets,Tablet,HealthPlus Distributors,5,11.26,166,2028-09-24,56.3,Sufficient Stock,990,Valid,January,1
+10789,2026-01-08,Diclofenac,Tablet,Sunrise Pharma,37,137.63,134,2028-06-01,5092.3099999999995,Sufficient Stock,875,Valid,January,1
+10948,2026-01-08,ORS,Sachet,Wellness Drugs,9,65.27,219,2028-04-10,587.43,Sufficient Stock,823,Valid,January,1
+11049,2026-01-08,Metformin,Tablet,ABC Pharma,3,17.31,189,2028-07-18,51.92999999999999,Sufficient Stock,922,Valid,January,1
+10598,2026-01-08,Diclofenac,Tablet,ABC Pharma,37,6.46,115,2026-10-31,239.02,Sufficient Stock,296,Valid,January,1
+10070,2026-01-08,Ibuprofen,Tablet,Sunrise Pharma,1,17.6,22,2028-02-19,17.6,Medium Stock,772,Valid,January,1
+10998,2026-01-08,Amlodipine,Tablet,MediCare Ltd,26,70.87,112,2028-12-16,1842.6200000000001,Sufficient Stock,1073,Valid,January,1
+10472,2026-01-08,Cough Syrup,Syrup,Wellness Drugs,10,129.61,227,2027-09-11,1296.1000000000001,Sufficient Stock,611,Valid,January,1
+10365,2026-01-08,Pantoprazole,Tablet,ABC Pharma,34,96.12,88,2027-05-12,3268.08,Sufficient Stock,489,Valid,January,1
+10306,2026-01-09,Vitamin C,Tablet,MediCare Ltd,2,50.34,172,2027-05-15,100.68,Sufficient Stock,491,Valid,January,1
+10653,2026-01-09,Ibuprofen,Tablet,HealthPlus Distributors,26,134.54,24,2028-07-03,3498.04,Medium Stock,906,Valid,January,1
+10686,2026-01-09,Paracetamol,Tablet,Sunrise Pharma,11,124.33,165,2028-04-26,1367.6299999999999,Sufficient Stock,838,Valid,January,1
+11149,2026-01-09,Diclofenac,Tablet,HealthPlus Distributors,15,39.13,114,2028-07-06,586.95,Sufficient Stock,909,Valid,January,1
+10060,2026-01-09,Calcium Tablets,Tablet,Wellness Drugs,3,11.47,239,2027-08-01,34.410000000000004,Sufficient Stock,569,Valid,January,1
+10114,2026-01-09,Azithromycin,Tablet,Wellness Drugs,4,101.7,190,2027-07-18,406.8,Sufficient Stock,555,Valid,January,1
+10551,2026-01-10,Metformin,Tablet,HealthPlus Distributors,35,90.34,157,2028-08-27,3161.9,Sufficient Stock,960,Valid,January,1
+11134,2026-01-10,Cetirizine,Syrup,Wellness Drugs,20,84.36,195,2026-10-20,1687.2,Sufficient Stock,283,Valid,January,1
+10820,2026-01-10,Antacid,Tablet,Wellness Drugs,45,53.18,166,2028-02-28,2393.1,Sufficient Stock,779,Valid,January,1
+10286,2026-01-11,Antacid,Tablet,HealthPlus Distributors,19,40.42,86,2026-12-18,767.98,Sufficient Stock,341,Valid,January,1
+10831,2026-01-11,Amoxicillin,Capsule,MediCare Ltd,23,103.83,5,2027-03-22,2388.09,Low Stock,435,Valid,January,1
+11178,2026-01-11,Vitamin C,Tablet,Wellness Drugs,1,88.1,78,2027-03-26,88.1,Medium Stock,439,Valid,January,1
+10222,2026-01-12,Amlodipine,Tablet,MediCare Ltd,39,116.38,159,2027-07-05,4538.82,Sufficient Stock,539,Valid,January,1
+10630,2026-01-12,Amlodipine,Tablet,Wellness Drugs,29,15.67,79,2028-04-25,454.43,Medium Stock,834,Valid,January,1
+10581,2026-01-12,Cough Syrup,Syrup,ABC Pharma,26,120.61,19,2028-07-28,3135.86,Low Stock,928,Valid,January,1
+10976,2026-01-12,Levocetirizine,Tablet,HealthPlus Distributors,47,91.27,20,2026-12-28,4289.69,Low Stock,350,Valid,January,1
+10132,2026-01-12,Cough Syrup,Syrup,Wellness Drugs,49,34.91,115,2027-05-03,1710.59,Sufficient Stock,476,Valid,January,1
+10780,2026-01-12,Cetirizine,Syrup,HealthPlus Distributors,21,132.14,20,2028-11-02,2774.9399999999996,Low Stock,1025,Valid,January,1
+10591,2026-01-12,Cetirizine,Syrup,Wellness Drugs,12,11.79,104,2026-10-06,141.48,Sufficient Stock,267,Valid,January,1
+10887,2026-01-12,Cetirizine,Syrup,HealthPlus Distributors,40,122.96,197,2027-10-20,4918.4,Sufficient Stock,646,Valid,January,1
+10171,2026-01-13,Amoxicillin,Capsule,MediCare Ltd,9,95.01,75,2028-05-09,855.09,Medium Stock,847,Valid,January,1
+11037,2026-01-13,Paracetamol,Tablet,ABC Pharma,25,89.83,139,2027-02-12,2245.75,Sufficient Stock,395,Valid,January,1
+10434,2026-01-13,Paracetamol,Tablet,HealthPlus Distributors,22,120.15,20,2028-04-23,2643.3,Low Stock,831,Valid,January,1
+10633,2026-01-13,Azithromycin,Tablet,HealthPlus Distributors,28,24.27,119,2026-11-23,679.56,Sufficient Stock,314,Valid,January,1
+11140,2026-01-13,Calcium Tablets,Tablet,ABC Pharma,20,115.45,105,2028-10-15,2309.0,Sufficient Stock,1006,Valid,January,1
+10489,2026-01-13,Antacid,Tablet,Wellness Drugs,9,69.19,9,2028-05-01,622.71,Low Stock,839,Valid,January,1
+10059,2026-01-14,Diclofenac,Tablet,MediCare Ltd,38,140.57,165,2027-01-25,5341.66,Sufficient Stock,376,Valid,January,1
+11180,2026-01-14,Diclofenac,Tablet,ABC Pharma,45,52.04,149,2028-09-15,2341.8,Sufficient Stock,975,Valid,January,1
+11200,2026-01-14,Metformin,Tablet,Wellness Drugs,10,24.41,111,2027-03-18,244.1,Sufficient Stock,428,Valid,January,1
+10769,2026-01-14,Cetirizine,Syrup,Wellness Drugs,22,63.15,93,2027-06-05,1389.3,Sufficient Stock,507,Valid,January,1
+11012,2026-01-14,Pantoprazole,Tablet,HealthPlus Distributors,14,87.38,182,2028-03-09,1223.32,Sufficient Stock,785,Valid,January,1
+11006,2026-01-14,Pantoprazole,Tablet,HealthPlus Distributors,19,27.85,20,2028-09-06,529.15,Low Stock,966,Valid,January,1
+10091,2026-01-14,Amlodipine,Tablet,MediCare Ltd,30,124.63,97,2028-09-16,3738.8999999999996,Sufficient Stock,976,Valid,January,1
+10094,2026-01-15,Amlodipine,Tablet,Wellness Drugs,32,137.24,198,2028-11-23,4391.68,Sufficient Stock,1043,Valid,January,1
+10155,2026-01-15,Cough Syrup,Syrup,ABC Pharma,43,91.63,89,2028-04-02,3940.0899999999997,Sufficient Stock,808,Valid,January,1
+10040,2026-01-15,Pantoprazole,Tablet,ABC Pharma,2,111.21,23,2027-06-28,222.42,Medium Stock,529,Valid,January,1
+10109,2026-01-15,Amlodipine,Tablet,Sunrise Pharma,39,129.1,224,2028-07-29,5034.9,Sufficient Stock,926,Valid,January,1
+11024,2026-01-15,Calcium Tablets,Tablet,ABC Pharma,5,79.77,243,2028-10-02,398.84999999999997,Sufficient Stock,991,Valid,January,1
+10004,2026-01-15,Paracetamol,Tablet,ABC Pharma,26,112.76,169,2026-11-17,2931.76,Sufficient Stock,306,Valid,January,1
+10468,2026-01-15,Cough Syrup,Syrup,Wellness Drugs,29,109.3,92,2028-10-06,3169.7,Sufficient Stock,995,Valid,January,1
+10782,2026-01-16,Antacid,Tablet,ABC Pharma,42,36.24,126,2027-08-30,1522.0800000000002,Sufficient Stock,591,Valid,January,1
+10563,2026-01-16,Antacid,Tablet,HealthPlus Distributors,2,77.46,79,2027-10-24,154.92,Medium Stock,646,Valid,January,1
+10521,2026-01-16,ORS,Sachet,ABC Pharma,9,119.8,41,2027-09-02,1078.2,Medium Stock,594,Valid,January,1
+10638,2026-01-17,Paracetamol,Tablet,HealthPlus Distributors,26,71.7,79,2027-01-22,1864.2,Medium Stock,370,Valid,January,1
+10421,2026-01-17,ORS,Sachet,Wellness Drugs,18,12.51,177,2027-12-04,225.18,Sufficient Stock,686,Valid,January,1
+10928,2026-01-17,Cetirizine,Syrup,HealthPlus Distributors,25,124.0,34,2027-12-22,3100.0,Medium Stock,704,Valid,January,1
+10382,2026-01-17,Azithromycin,Tablet,MediCare Ltd,29,61.48,152,2028-02-25,1782.9199999999998,Sufficient Stock,769,Valid,January,1
+11031,2026-01-17,Amlodipine,Tablet,ABC Pharma,35,45.78,49,2027-06-15,1602.3,Medium Stock,514,Valid,January,1
+11148,2026-01-17,Vitamin C,Tablet,HealthPlus Distributors,6,140.34,172,2026-11-14,842.04,Sufficient Stock,301,Valid,January,1
+10055,2026-01-18,Vitamin C,Tablet,MediCare Ltd,6,106.41,141,2027-02-03,638.46,Sufficient Stock,381,Valid,January,1
+10404,2026-01-18,Antacid,Tablet,ABC Pharma,32,120.79,121,2028-09-20,3865.28,Sufficient Stock,976,Valid,January,1
+11021,2026-01-18,Antacid,Tablet,ABC Pharma,40,23.21,88,2028-12-29,928.4000000000001,Sufficient Stock,1076,Valid,January,1
+10716,2026-01-19,Diclofenac,Tablet,ABC Pharma,17,92.87,155,2028-01-21,1578.79,Sufficient Stock,732,Valid,January,1
+11114,2026-01-19,Diclofenac,Tablet,ABC Pharma,12,88.67,66,2026-12-10,1064.04,Medium Stock,325,Valid,January,1
+10498,2026-01-19,Vitamin C,Tablet,HealthPlus Distributors,37,97.42,174,2028-05-24,3604.54,Sufficient Stock,856,Valid,January,1
+10724,2026-01-19,ORS,Sachet,Wellness Drugs,6,55.66,31,2026-10-11,333.96,Medium Stock,265,Valid,January,1
+10646,2026-01-19,Amlodipine,Tablet,ABC Pharma,11,10.23,58,2027-06-22,112.53,Medium Stock,519,Valid,January,1
+10764,2026-01-20,Diclofenac,Tablet,MediCare Ltd,17,92.55,58,2028-02-10,1573.35,Medium Stock,751,Valid,January,1
+10440,2026-01-20,Amoxicillin,Capsule,ABC Pharma,41,54.59,151,2028-02-05,2238.19,Sufficient Stock,746,Valid,January,1
+11116,2026-01-20,Diclofenac,Tablet,Sunrise Pharma,3,36.59,32,2026-11-04,109.77000000000001,Medium Stock,288,Valid,January,1
+10368,2026-01-21,Levocetirizine,Tablet,HealthPlus Distributors,38,106.36,95,2028-06-28,4041.68,Sufficient Stock,889,Valid,January,1
+10965,2026-01-21,Antacid,Tablet,HealthPlus Distributors,36,115.27,56,2028-04-02,4149.72,Medium Stock,802,Valid,January,1
+10052,2026-01-21,Vitamin C,Tablet,Wellness Drugs,28,69.24,98,2027-01-21,1938.7199999999998,Sufficient Stock,365,Valid,January,1
+11069,2026-01-21,Metformin,Tablet,Wellness Drugs,33,37.56,38,2028-09-11,1239.48,Medium Stock,964,Valid,January,1
+10344,2026-01-21,Antacid,Tablet,Sunrise Pharma,14,80.1,150,2028-08-19,1121.3999999999999,Sufficient Stock,941,Valid,January,1
+10029,2026-01-21,Azithromycin,Tablet,Sunrise Pharma,19,101.59,190,2028-06-03,1930.21,Sufficient Stock,864,Valid,January,1
+10008,2026-01-21,Paracetamol,Tablet,Sunrise Pharma,8,66.29,178,2028-02-12,530.32,Sufficient Stock,752,Valid,January,1
+10614,2026-01-21,Antacid,Tablet,ABC Pharma,47,107.98,14,2027-07-21,5075.06,Low Stock,546,Valid,January,1
+10971,2026-01-22,Azithromycin,Tablet,MediCare Ltd,15,101.73,183,2028-12-02,1525.95,Sufficient Stock,1045,Valid,January,1
+10033,2026-01-22,Paracetamol,Tablet,Sunrise Pharma,20,121.15,241,2027-08-20,2423.0,Sufficient Stock,575,Valid,January,1
+10359,2026-01-22,Amlodipine,Tablet,Wellness Drugs,19,76.05,172,2028-11-04,1444.95,Sufficient Stock,1017,Valid,January,1
+10526,2026-01-22,Calcium Tablets,Tablet,ABC Pharma,33,131.36,134,2027-02-16,4334.88,Sufficient Stock,390,Valid,January,1
+10550,2026-01-23,Azithromycin,Tablet,HealthPlus Distributors,43,65.64,134,2028-05-01,2822.52,Sufficient Stock,829,Valid,January,1
+10855,2026-01-23,Azithromycin,Tablet,HealthPlus Distributors,7,146.25,220,2028-11-17,1023.75,Sufficient Stock,1029,Valid,January,1
+10634,2026-01-23,Amoxicillin,Capsule,MediCare Ltd,13,145.28,130,2026-09-29,1888.64,Sufficient Stock,249,Valid,January,1
+10505,2026-01-23,Amlodipine,Tablet,Sunrise Pharma,48,29.42,71,2027-11-02,1412.16,Medium Stock,648,Valid,January,1
+10253,2026-01-24,Metformin,Tablet,MediCare Ltd,44,33.81,70,2028-03-08,1487.64,Medium Stock,774,Valid,January,1
+10411,2026-01-24,Paracetamol,Tablet,ABC Pharma,30,127.41,245,2026-09-25,3822.2999999999997,Sufficient Stock,244,Valid,January,1
+10391,2026-01-24,Antacid,Tablet,HealthPlus Distributors,19,6.7,62,2028-07-23,127.3,Medium Stock,911,Valid,January,1
+10103,2026-01-24,Amlodipine,Tablet,ABC Pharma,11,83.9,148,2027-05-11,922.9000000000001,Sufficient Stock,472,Valid,January,1
+10564,2026-01-24,Diclofenac,Tablet,HealthPlus Distributors,22,76.19,122,2028-08-06,1676.1799999999998,Sufficient Stock,925,Valid,January,1
+10405,2026-01-25,Diclofenac,Tablet,Sunrise Pharma,14,149.59,103,2028-09-08,2094.26,Sufficient Stock,957,Valid,January,1
+10666,2026-01-25,Cough Syrup,Syrup,ABC Pharma,4,44.62,200,2028-12-02,178.48,Sufficient Stock,1042,Valid,January,1
+11039,2026-01-25,Diclofenac,Tablet,HealthPlus Distributors,31,109.86,48,2027-09-07,3405.66,Medium Stock,590,Valid,January,1
+11035,2026-01-25,Amoxicillin,Capsule,MediCare Ltd,43,99.95,158,2027-01-10,4297.85,Sufficient Stock,350,Valid,January,1
+10953,2026-01-25,Paracetamol,Tablet,HealthPlus Distributors,22,140.3,26,2027-02-17,3086.6000000000004,Medium Stock,388,Valid,January,1
+11058,2026-01-26,Antacid,Tablet,ABC Pharma,11,3.91,42,2028-05-01,43.010000000000005,Medium Stock,826,Valid,January,1
+10995,2026-01-26,ORS,Sachet,ABC Pharma,1,72.82,176,2028-02-24,72.82,Sufficient Stock,759,Valid,January,1
+10429,2026-01-26,Ibuprofen,Tablet,Sunrise Pharma,49,146.02,225,2027-08-01,7154.9800000000005,Sufficient Stock,552,Valid,January,1
+10985,2026-01-26,Cough Syrup,Syrup,Sunrise Pharma,6,94.55,69,2028-01-29,567.3,Medium Stock,733,Valid,January,1
+10833,2026-01-26,Amlodipine,Tablet,ABC Pharma,11,140.9,136,2027-04-22,1549.9,Sufficient Stock,451,Valid,January,1
+11105,2026-01-26,Diclofenac,Tablet,Wellness Drugs,41,20.58,174,2028-02-04,843.78,Sufficient Stock,739,Valid,January,1
+10837,2026-01-27,Cetirizine,Syrup,Wellness Drugs,1,47.47,31,2027-06-05,47.47,Medium Stock,494,Valid,January,1
+10152,2026-01-27,Calcium Tablets,Tablet,ABC Pharma,26,95.45,179,2027-03-10,2481.7000000000003,Sufficient Stock,407,Valid,January,1
+10196,2026-01-27,Pantoprazole,Tablet,HealthPlus Distributors,49,82.18,116,2026-11-23,4026.82,Sufficient Stock,300,Valid,January,1
+10697,2026-01-27,Cough Syrup,Syrup,Sunrise Pharma,38,6.8,137,2028-03-04,258.4,Sufficient Stock,767,Valid,January,1
+10367,2026-01-27,ORS,Sachet,ABC Pharma,16,28.54,138,2026-12-16,456.64,Sufficient Stock,323,Valid,January,1
+10366,2026-01-27,Pantoprazole,Tablet,ABC Pharma,42,90.7,95,2028-04-09,3809.4,Sufficient Stock,803,Valid,January,1
+10176,2026-01-28,ORS,Sachet,Wellness Drugs,17,81.28,156,2028-01-15,1381.76,Sufficient Stock,717,Valid,January,1
+11027,2026-01-28,Antacid,Tablet,Sunrise Pharma,6,119.24,202,2028-04-05,715.4399999999999,Sufficient Stock,798,Valid,January,1
+10798,2026-01-28,Metformin,Tablet,MediCare Ltd,9,124.02,221,2026-09-26,1116.18,Sufficient Stock,241,Valid,January,1
+10184,2026-01-28,Amlodipine,Tablet,Wellness Drugs,41,29.15,114,2028-02-27,1195.1499999999999,Sufficient Stock,760,Valid,January,1
+11007,2026-01-28,ORS,Sachet,ABC Pharma,43,45.8,75,2027-12-07,1969.3999999999999,Medium Stock,678,Valid,January,1
+10371,2026-01-28,Vitamin C,Tablet,MediCare Ltd,26,125.93,113,2027-12-28,3274.1800000000003,Sufficient Stock,699,Valid,January,1
+10183,2026-01-28,Pantoprazole,Tablet,HealthPlus Distributors,37,68.79,212,2027-04-25,2545.23,Sufficient Stock,452,Valid,January,1
+10655,2026-01-28,Antacid,Tablet,Sunrise Pharma,7,48.45,228,2028-12-23,339.15000000000003,Sufficient Stock,1060,Valid,January,1
+10128,2026-01-28,Cetirizine,Syrup,ABC Pharma,31,133.85,19,2026-09-17,4149.349999999999,Low Stock,232,Valid,January,1
+10922,2026-01-29,Ibuprofen,Tablet,Sunrise Pharma,41,36.04,67,2027-07-20,1477.6399999999999,Medium Stock,537,Valid,January,1
+10169,2026-01-29,ORS,Sachet,Wellness Drugs,4,72.19,75,2027-10-26,288.76,Medium Stock,635,Valid,January,1
+10535,2026-01-29,Metformin,Tablet,HealthPlus Distributors,8,69.83,155,2026-10-28,558.64,Sufficient Stock,272,Valid,January,1
+10701,2026-01-29,Paracetamol,Tablet,Sunrise Pharma,10,27.53,120,2027-04-24,275.3,Sufficient Stock,450,Valid,January,1
+10589,2026-01-29,Amoxicillin,Capsule,MediCare Ltd,40,139.51,215,2027-02-11,5580.4,Sufficient Stock,378,Valid,January,1
+11182,2026-01-30,Cetirizine,Syrup,Wellness Drugs,7,59.98,46,2028-12-11,419.85999999999996,Medium Stock,1046,Valid,January,1
+10188,2026-01-30,Pantoprazole,Tablet,Sunrise Pharma,45,13.2,221,2028-06-17,594.0,Sufficient Stock,869,Valid,January,1
+10637,2026-01-30,Cough Syrup,Syrup,Wellness Drugs,44,38.51,135,2028-10-15,1694.4399999999998,Sufficient Stock,989,Valid,January,1
+10369,2026-01-30,Azithromycin,Tablet,HealthPlus Distributors,2,69.37,141,2028-04-15,138.74,Sufficient Stock,806,Valid,January,1
+10909,2026-01-30,Calcium Tablets,Tablet,HealthPlus Distributors,39,55.44,159,2028-06-06,2162.16,Sufficient Stock,858,Valid,January,1
+10822,2026-01-30,Amoxicillin,Capsule,MediCare Ltd,20,121.2,161,2027-09-23,2424.0,Sufficient Stock,601,Valid,January,1
+10917,2026-01-30,Levocetirizine,Tablet,Wellness Drugs,28,96.94,132,2027-12-29,2714.3199999999997,Sufficient Stock,698,Valid,January,1
+11084,2026-01-31,Metformin,Tablet,HealthPlus Distributors,15,101.53,65,2028-03-02,1522.95,Medium Stock,761,Valid,January,1
+10413,2026-02-01,Ibuprofen,Tablet,Wellness Drugs,13,51.62,129,2028-06-23,671.06,Sufficient Stock,873,Valid,February,2
+10874,2026-02-01,Azithromycin,Tablet,HealthPlus Distributors,46,82.54,247,2028-08-09,3796.84,Sufficient Stock,920,Valid,February,2
+10451,2026-02-01,Calcium Tablets,Tablet,Sunrise Pharma,27,46.76,49,2028-05-06,1262.52,Medium Stock,825,Valid,February,2
+11066,2026-02-02,Cough Syrup,Syrup,Sunrise Pharma,28,58.24,71,2027-09-09,1630.72,Medium Stock,584,Valid,February,2
+10826,2026-02-02,Paracetamol,Tablet,MediCare Ltd,1,41.36,22,2026-09-03,41.36,Medium Stock,213,Valid,February,2
+10134,2026-02-02,ORS,Sachet,HealthPlus Distributors,5,91.95,87,2027-09-07,459.75,Sufficient Stock,582,Valid,February,2
+10575,2026-02-02,Calcium Tablets,Tablet,HealthPlus Distributors,12,109.24,66,2027-12-12,1310.8799999999999,Medium Stock,678,Valid,February,2
+10342,2026-02-02,Vitamin C,Tablet,Wellness Drugs,34,139.51,81,2027-05-08,4743.34,Sufficient Stock,460,Valid,February,2
+10124,2026-02-02,Calcium Tablets,Tablet,Wellness Drugs,28,25.88,191,2027-01-11,724.64,Sufficient Stock,343,Valid,February,2
+10353,2026-02-02,Paracetamol,Tablet,Sunrise Pharma,14,69.31,49,2026-09-04,970.34,Medium Stock,214,Valid,February,2
+10548,2026-02-02,Calcium Tablets,Tablet,ABC Pharma,36,24.86,213,2026-10-20,894.96,Sufficient Stock,260,Valid,February,2
+10875,2026-02-03,ORS,Sachet,MediCare Ltd,28,42.74,34,2028-01-10,1196.72,Medium Stock,706,Valid,February,2
+10931,2026-02-03,Cetirizine,Syrup,HealthPlus Distributors,14,111.22,207,2027-12-16,1557.08,Sufficient Stock,681,Valid,February,2
+10979,2026-02-03,Levocetirizine,Tablet,Sunrise Pharma,17,65.5,65,2026-10-09,1113.5,Medium Stock,248,Valid,February,2
+10513,2026-02-03,Pantoprazole,Tablet,MediCare Ltd,13,86.55,103,2026-11-07,1125.1499999999999,Sufficient Stock,277,Valid,February,2
+10554,2026-02-03,ORS,Sachet,Sunrise Pharma,10,60.88,107,2027-12-17,608.8000000000001,Sufficient Stock,682,Valid,February,2
+11047,2026-02-03,Amoxicillin,Capsule,HealthPlus Distributors,7,137.92,196,2028-07-12,965.4399999999999,Sufficient Stock,890,Valid,February,2
+10595,2026-02-04,ORS,Sachet,MediCare Ltd,30,116.74,53,2026-10-14,3502.2,Medium Stock,252,Valid,February,2
+10812,2026-02-04,Metformin,Tablet,Wellness Drugs,35,50.13,70,2026-10-07,1754.5500000000002,Medium Stock,245,Valid,February,2
+11169,2026-02-04,Amoxicillin,Capsule,ABC Pharma,48,97.94,172,2026-12-31,4701.12,Sufficient Stock,330,Valid,February,2
+11183,2026-02-04,Diclofenac,Tablet,HealthPlus Distributors,49,26.07,244,2027-11-11,1277.43,Sufficient Stock,645,Valid,February,2
+10072,2026-02-04,Calcium Tablets,Tablet,Sunrise Pharma,15,62.63,139,2027-06-27,939.45,Sufficient Stock,508,Valid,February,2
+10379,2026-02-04,Amoxicillin,Capsule,MediCare Ltd,23,144.22,81,2027-05-11,3317.06,Sufficient Stock,461,Valid,February,2
+10142,2026-02-04,Azithromycin,Tablet,ABC Pharma,4,84.42,115,2027-02-01,337.68,Sufficient Stock,362,Valid,February,2
+10170,2026-02-05,Pantoprazole,Tablet,Wellness Drugs,18,84.98,19,2028-12-17,1529.64,Low Stock,1046,Valid,February,2
+11086,2026-02-05,Azithromycin,Tablet,Sunrise Pharma,14,48.66,184,2027-12-14,681.24,Sufficient Stock,677,Valid,February,2
+10713,2026-02-05,Pantoprazole,Tablet,Sunrise Pharma,43,104.42,128,2028-04-20,4490.06,Sufficient Stock,805,Valid,February,2
+10438,2026-02-05,Cetirizine,Syrup,MediCare Ltd,24,21.19,133,2028-08-31,508.56000000000006,Sufficient Stock,938,Valid,February,2
+10623,2026-02-05,Ibuprofen,Tablet,HealthPlus Distributors,45,52.82,33,2027-08-23,2376.9,Medium Stock,564,Valid,February,2
+10996,2026-02-05,Diclofenac,Tablet,HealthPlus Distributors,17,139.47,185,2028-04-08,2370.99,Sufficient Stock,793,Valid,February,2
+10629,2026-02-06,Levocetirizine,Tablet,MediCare Ltd,41,11.15,156,2027-03-11,457.15000000000003,Sufficient Stock,398,Valid,February,2
+11125,2026-02-06,Cetirizine,Syrup,Sunrise Pharma,38,134.89,40,2027-06-17,5125.82,Medium Stock,496,Valid,February,2
+10390,2026-02-06,Vitamin C,Tablet,Wellness Drugs,21,9.69,29,2027-02-15,203.48999999999998,Medium Stock,374,Valid,February,2
+10304,2026-02-06,Amoxicillin,Capsule,ABC Pharma,16,16.05,131,2027-06-15,256.8,Sufficient Stock,494,Valid,February,2
+10138,2026-02-06,Ibuprofen,Tablet,ABC Pharma,12,36.66,211,2028-03-12,439.91999999999996,Sufficient Stock,765,Valid,February,2
+11153,2026-02-07,Azithromycin,Tablet,ABC Pharma,33,57.92,220,2028-01-07,1911.3600000000001,Sufficient Stock,699,Valid,February,2
+11124,2026-02-07,Amoxicillin,Capsule,HealthPlus Distributors,10,92.82,131,2028-05-02,928.1999999999999,Sufficient Stock,815,Valid,February,2
+10905,2026-02-07,Diclofenac,Tablet,MediCare Ltd,37,114.5,202,2027-04-18,4236.5,Sufficient Stock,435,Valid,February,2
+11022,2026-02-07,Cough Syrup,Syrup,Wellness Drugs,19,107.78,133,2028-04-22,2047.82,Sufficient Stock,805,Valid,February,2
+10025,2026-02-07,Metformin,Tablet,HealthPlus Distributors,33,11.25,185,2028-04-09,371.25,Sufficient Stock,792,Valid,February,2
+10361,2026-02-07,Diclofenac,Tablet,ABC Pharma,16,105.18,174,2026-11-28,1682.88,Sufficient Stock,294,Valid,February,2
+10252,2026-02-07,Metformin,Tablet,ABC Pharma,44,37.74,86,2028-07-31,1660.5600000000002,Sufficient Stock,905,Valid,February,2
+10282,2026-02-08,Ibuprofen,Tablet,MediCare Ltd,49,105.44,218,2028-11-23,5166.5599999999995,Sufficient Stock,1019,Valid,February,2
+10546,2026-02-08,Diclofenac,Tablet,ABC Pharma,40,71.01,240,2027-02-14,2840.4,Sufficient Stock,371,Valid,February,2
+11198,2026-02-08,Levocetirizine,Tablet,Wellness Drugs,38,45.86,124,2027-12-29,1742.68,Sufficient Stock,689,Valid,February,2
+11029,2026-02-08,Paracetamol,Tablet,Sunrise Pharma,13,102.59,150,2026-10-18,1333.67,Sufficient Stock,252,Valid,February,2
+10673,2026-02-08,Diclofenac,Tablet,MediCare Ltd,49,82.91,31,2028-12-01,4062.5899999999997,Medium Stock,1027,Valid,February,2
+10427,2026-02-08,Vitamin C,Tablet,MediCare Ltd,15,26.79,148,2026-11-06,401.84999999999997,Sufficient Stock,271,Valid,February,2
+10223,2026-02-08,Cetirizine,Syrup,Sunrise Pharma,21,83.17,164,2028-09-08,1746.57,Sufficient Stock,943,Valid,February,2
+10725,2026-02-08,Cough Syrup,Syrup,Sunrise Pharma,41,121.25,19,2027-07-11,4971.25,Low Stock,518,Valid,February,2
+10879,2026-02-08,Antacid,Tablet,Wellness Drugs,15,57.46,71,2027-02-25,861.9,Medium Stock,382,Valid,February,2
+11085,2026-02-09,ORS,Sachet,Sunrise Pharma,23,102.96,18,2027-11-26,2368.08,Low Stock,655,Valid,February,2
+10098,2026-02-09,Levocetirizine,Tablet,MediCare Ltd,44,76.83,174,2026-11-25,3380.52,Sufficient Stock,289,Valid,February,2
+11196,2026-02-09,Antacid,Tablet,Wellness Drugs,6,136.39,152,2027-03-17,818.3399999999999,Sufficient Stock,401,Valid,February,2
+11171,2026-02-09,Amoxicillin,Capsule,Wellness Drugs,22,122.43,207,2027-05-14,2693.46,Sufficient Stock,459,Valid,February,2
+10127,2026-02-10,Pantoprazole,Tablet,Wellness Drugs,47,26.53,126,2027-06-04,1246.91,Sufficient Stock,479,Valid,February,2
+10107,2026-02-10,Paracetamol,Tablet,HealthPlus Distributors,33,102.19,160,2028-04-17,3372.27,Sufficient Stock,797,Valid,February,2
+10800,2026-02-10,ORS,Sachet,ABC Pharma,34,125.27,73,2028-02-11,4259.18,Medium Stock,731,Valid,February,2
+10676,2026-02-11,Ibuprofen,Tablet,ABC Pharma,24,110.48,212,2027-12-29,2651.52,Sufficient Stock,686,Valid,February,2
+10291,2026-02-11,Amlodipine,Tablet,MediCare Ltd,47,7.77,192,2026-09-24,365.19,Sufficient Stock,225,Valid,February,2
+11193,2026-02-11,Levocetirizine,Tablet,Sunrise Pharma,42,81.96,227,2028-10-14,3442.3199999999997,Sufficient Stock,976,Valid,February,2
+10157,2026-02-11,Cough Syrup,Syrup,Sunrise Pharma,42,51.91,49,2028-07-23,2180.22,Medium Stock,893,Valid,February,2
+11053,2026-02-11,Amoxicillin,Capsule,HealthPlus Distributors,16,19.5,59,2027-04-12,312.0,Medium Stock,425,Valid,February,2
+10587,2026-02-12,Antacid,Tablet,Sunrise Pharma,47,102.25,18,2028-06-28,4805.75,Low Stock,867,Valid,February,2
+10937,2026-02-12,Calcium Tablets,Tablet,HealthPlus Distributors,22,25.12,46,2027-01-18,552.64,Medium Stock,340,Valid,February,2
+10425,2026-02-12,Azithromycin,Tablet,Wellness Drugs,12,41.75,230,2027-03-07,501.0,Sufficient Stock,388,Valid,February,2
+10087,2026-02-13,Azithromycin,Tablet,Sunrise Pharma,35,78.22,214,2028-10-19,2737.7,Sufficient Stock,979,Valid,February,2
+10752,2026-02-13,Vitamin C,Tablet,MediCare Ltd,8,12.13,97,2028-08-27,97.04,Sufficient Stock,926,Valid,February,2
+11108,2026-02-13,Cetirizine,Syrup,Wellness Drugs,26,72.82,208,2027-11-15,1893.3199999999997,Sufficient Stock,640,Valid,February,2
+10588,2026-02-13,Levocetirizine,Tablet,HealthPlus Distributors,17,85.74,181,2028-02-09,1457.58,Sufficient Stock,726,Valid,February,2
+10186,2026-02-13,Metformin,Tablet,HealthPlus Distributors,13,132.62,188,2028-02-03,1724.06,Sufficient Stock,720,Valid,February,2
+11034,2026-02-13,Paracetamol,Tablet,Wellness Drugs,16,34.25,27,2027-04-26,548.0,Medium Stock,437,Valid,February,2
+10982,2026-02-14,Azithromycin,Tablet,MediCare Ltd,29,35.49,30,2027-02-19,1029.21,Medium Stock,370,Valid,February,2
+10179,2026-02-14,ORS,Sachet,HealthPlus Distributors,48,126.81,176,2028-06-12,6086.88,Sufficient Stock,849,Valid,February,2
+10110,2026-02-14,Antacid,Tablet,ABC Pharma,34,112.76,183,2028-03-10,3833.84,Sufficient Stock,755,Valid,February,2
+10711,2026-02-14,Cetirizine,Syrup,MediCare Ltd,44,9.45,99,2027-09-07,415.79999999999995,Sufficient Stock,570,Valid,February,2
+10393,2026-02-15,Ibuprofen,Tablet,HealthPlus Distributors,25,14.52,45,2027-02-24,363.0,Medium Stock,374,Valid,February,2
+10811,2026-02-15,Levocetirizine,Tablet,ABC Pharma,35,86.81,189,2028-01-20,3038.35,Sufficient Stock,704,Valid,February,2
+10978,2026-02-15,Paracetamol,Tablet,Sunrise Pharma,39,87.15,127,2026-10-26,3398.8500000000004,Sufficient Stock,253,Valid,February,2
+10385,2026-02-15,Amoxicillin,Capsule,HealthPlus Distributors,1,43.0,96,2028-01-29,43.0,Sufficient Stock,713,Valid,February,2
+10593,2026-02-15,Amoxicillin,Capsule,MediCare Ltd,42,124.38,34,2027-10-07,5223.96,Medium Stock,599,Valid,February,2
+10483,2026-02-16,Antacid,Tablet,Wellness Drugs,11,73.51,20,2026-09-03,808.61,Low Stock,199,Valid,February,2
+10767,2026-02-16,Cetirizine,Syrup,HealthPlus Distributors,22,17.67,105,2028-08-14,388.74,Sufficient Stock,910,Valid,February,2
+10894,2026-02-16,Amoxicillin,Capsule,MediCare Ltd,4,33.25,33,2028-01-21,133.0,Medium Stock,704,Valid,February,2
+10757,2026-02-16,Diclofenac,Tablet,Wellness Drugs,32,99.94,163,2026-09-13,3198.08,Sufficient Stock,209,Valid,February,2
+10538,2026-02-16,Ibuprofen,Tablet,Sunrise Pharma,18,73.95,222,2027-04-02,1331.1000000000001,Sufficient Stock,410,Valid,February,2
+10817,2026-02-16,Levocetirizine,Tablet,MediCare Ltd,14,144.93,68,2027-03-18,2029.02,Medium Stock,395,Valid,February,2
+10986,2026-02-16,Antacid,Tablet,MediCare Ltd,6,112.57,104,2028-08-29,675.42,Sufficient Stock,925,Valid,February,2
+11003,2026-02-16,Levocetirizine,Tablet,Sunrise Pharma,4,95.44,200,2027-10-20,381.76,Sufficient Stock,611,Valid,February,2
+11119,2026-02-16,Metformin,Tablet,HealthPlus Distributors,25,8.15,242,2026-12-19,203.75,Sufficient Stock,306,Valid,February,2
+10992,2026-02-17,Amoxicillin,Capsule,HealthPlus Distributors,48,8.66,191,2027-02-08,415.68,Sufficient Stock,356,Valid,February,2
+10093,2026-02-17,Pantoprazole,Tablet,ABC Pharma,34,47.55,26,2028-06-21,1616.6999999999998,Medium Stock,855,Valid,February,2
+10517,2026-02-17,Amoxicillin,Capsule,ABC Pharma,36,56.37,168,2027-02-13,2029.32,Sufficient Stock,361,Valid,February,2
+10301,2026-02-17,Levocetirizine,Tablet,ABC Pharma,10,38.85,158,2028-03-28,388.5,Sufficient Stock,770,Valid,February,2
+10135,2026-02-17,Metformin,Tablet,MediCare Ltd,8,38.31,14,2026-10-20,306.48,Low Stock,245,Valid,February,2
+10345,2026-02-17,Amlodipine,Tablet,ABC Pharma,4,33.32,91,2028-12-10,133.28,Sufficient Stock,1027,Valid,February,2
+10309,2026-02-17,Metformin,Tablet,Sunrise Pharma,35,128.99,81,2027-04-16,4514.650000000001,Sufficient Stock,423,Valid,February,2
+10376,2026-02-17,Ibuprofen,Tablet,Sunrise Pharma,39,105.55,44,2027-03-22,4116.45,Medium Stock,398,Valid,February,2
+10381,2026-02-18,Vitamin C,Tablet,ABC Pharma,27,74.3,91,2027-07-25,2006.1,Sufficient Stock,522,Valid,February,2
+10035,2026-02-18,Levocetirizine,Tablet,Sunrise Pharma,33,140.04,74,2027-07-04,4621.32,Medium Stock,501,Valid,February,2
+10768,2026-02-18,Vitamin C,Tablet,Wellness Drugs,29,54.52,210,2028-05-02,1581.0800000000002,Sufficient Stock,804,Valid,February,2
+11157,2026-02-18,Azithromycin,Tablet,HealthPlus Distributors,41,25.96,100,2027-09-23,1064.3600000000001,Sufficient Stock,582,Valid,February,2
+10464,2026-02-18,Vitamin C,Tablet,Sunrise Pharma,37,123.71,34,2028-03-20,4577.2699999999995,Medium Stock,761,Valid,February,2
+10906,2026-02-19,ORS,Sachet,HealthPlus Distributors,10,24.78,132,2028-04-21,247.8,Sufficient Stock,792,Valid,February,2
+10431,2026-02-19,Amlodipine,Tablet,HealthPlus Distributors,26,145.23,155,2028-11-28,3775.9799999999996,Sufficient Stock,1013,Valid,February,2
+10076,2026-02-19,Amoxicillin,Capsule,HealthPlus Distributors,49,25.75,170,2026-11-06,1261.75,Sufficient Stock,260,Valid,February,2
+10886,2026-02-19,Calcium Tablets,Tablet,Sunrise Pharma,27,35.46,218,2027-08-22,957.4200000000001,Sufficient Stock,549,Valid,February,2
+10050,2026-02-20,Pantoprazole,Tablet,Sunrise Pharma,9,100.64,16,2026-12-26,905.76,Low Stock,309,Valid,February,2
+10454,2026-02-20,Cetirizine,Syrup,ABC Pharma,4,22.3,126,2027-09-02,89.2,Sufficient Stock,559,Valid,February,2
+10867,2026-02-20,ORS,Sachet,MediCare Ltd,29,3.67,193,2027-07-14,106.42999999999999,Sufficient Stock,509,Valid,February,2
+10209,2026-02-20,Pantoprazole,Tablet,MediCare Ltd,13,57.13,194,2027-09-26,742.69,Sufficient Stock,583,Valid,February,2
+10363,2026-02-20,Metformin,Tablet,MediCare Ltd,40,42.74,54,2028-07-28,1709.6000000000001,Medium Stock,889,Valid,February,2
+10045,2026-02-20,ORS,Sachet,Wellness Drugs,11,88.5,34,2028-12-07,973.5,Medium Stock,1021,Valid,February,2
+10963,2026-02-20,Cetirizine,Syrup,MediCare Ltd,1,45.52,129,2027-09-30,45.52,Sufficient Stock,587,Valid,February,2
+10919,2026-02-20,Amlodipine,Tablet,ABC Pharma,38,133.14,203,2027-01-29,5059.32,Sufficient Stock,343,Valid,February,2
+10914,2026-02-21,ORS,Sachet,Sunrise Pharma,22,60.0,245,2028-08-22,1320.0,Sufficient Stock,913,Valid,February,2
+10278,2026-02-21,Amlodipine,Tablet,HealthPlus Distributors,8,117.15,197,2028-08-31,937.2,Sufficient Stock,922,Valid,February,2
+10658,2026-02-21,Amlodipine,Tablet,MediCare Ltd,25,30.21,75,2027-04-08,755.25,Medium Stock,411,Valid,February,2
+10163,2026-02-21,Cough Syrup,Syrup,ABC Pharma,37,32.24,244,2028-02-10,1192.88,Sufficient Stock,719,Valid,February,2
+10487,2026-02-21,Pantoprazole,Tablet,Wellness Drugs,25,62.21,56,2027-06-07,1555.25,Medium Stock,471,Valid,February,2
+10221,2026-02-21,ORS,Sachet,Wellness Drugs,37,121.07,60,2028-05-27,4479.59,Medium Stock,826,Valid,February,2
+10856,2026-02-22,ORS,Sachet,ABC Pharma,26,22.05,60,2027-08-23,573.3000000000001,Medium Stock,547,Valid,February,2
+10021,2026-02-22,Cetirizine,Syrup,Sunrise Pharma,18,38.76,226,2027-11-23,697.68,Sufficient Stock,639,Valid,February,2
+10473,2026-02-22,Diclofenac,Tablet,Wellness Drugs,47,48.45,19,2028-06-15,2277.15,Low Stock,844,Valid,February,2
+10102,2026-02-22,Diclofenac,Tablet,MediCare Ltd,40,60.12,59,2027-08-02,2404.7999999999997,Medium Stock,526,Valid,February,2
+10062,2026-02-22,Azithromycin,Tablet,HealthPlus Distributors,30,45.27,121,2027-04-20,1358.1000000000001,Sufficient Stock,422,Valid,February,2
+10933,2026-02-22,Paracetamol,Tablet,Sunrise Pharma,47,101.35,130,2027-12-04,4763.45,Sufficient Stock,650,Valid,February,2
+10241,2026-02-22,Antacid,Tablet,MediCare Ltd,5,90.38,180,2027-12-21,451.9,Sufficient Stock,667,Valid,February,2
+10669,2026-02-22,Azithromycin,Tablet,Sunrise Pharma,28,90.22,135,2028-02-14,2526.16,Sufficient Stock,722,Valid,February,2
+10235,2026-02-23,Levocetirizine,Tablet,MediCare Ltd,47,27.14,71,2027-11-11,1275.58,Medium Stock,626,Valid,February,2
+10774,2026-02-23,ORS,Sachet,MediCare Ltd,36,28.9,89,2027-05-09,1040.3999999999999,Sufficient Stock,440,Valid,February,2
+10081,2026-02-23,Azithromycin,Tablet,ABC Pharma,38,122.49,191,2028-05-11,4654.62,Sufficient Stock,808,Valid,February,2
+10335,2026-02-23,Levocetirizine,Tablet,ABC Pharma,1,114.0,68,2028-12-13,114.0,Medium Stock,1024,Valid,February,2
+10889,2026-02-23,Vitamin C,Tablet,ABC Pharma,34,16.11,242,2027-04-01,547.74,Sufficient Stock,402,Valid,February,2
+10314,2026-02-23,Azithromycin,Tablet,Sunrise Pharma,19,21.25,20,2028-09-26,403.75,Low Stock,946,Valid,February,2
+10406,2026-02-23,Cough Syrup,Syrup,ABC Pharma,28,6.44,229,2028-12-30,180.32000000000002,Sufficient Stock,1041,Valid,February,2
+10084,2026-02-23,ORS,Sachet,Sunrise Pharma,43,44.8,15,2027-01-17,1926.3999999999999,Low Stock,328,Valid,February,2
+10469,2026-02-23,Amlodipine,Tablet,HealthPlus Distributors,33,86.99,248,2027-07-03,2870.6699999999996,Sufficient Stock,495,Valid,February,2
+10485,2026-02-24,Cetirizine,Syrup,MediCare Ltd,4,55.49,103,2028-12-25,221.96,Sufficient Stock,1035,Valid,February,2
+10846,2026-02-24,Calcium Tablets,Tablet,MediCare Ltd,11,60.18,232,2026-08-31,661.98,Sufficient Stock,188,Valid,February,2
+11081,2026-02-24,Calcium Tablets,Tablet,HealthPlus Distributors,13,50.39,139,2028-03-11,655.07,Sufficient Stock,746,Valid,February,2
+10047,2026-02-24,Paracetamol,Tablet,ABC Pharma,10,41.79,37,2028-03-13,417.9,Medium Stock,748,Valid,February,2
+10746,2026-02-25,Antacid,Tablet,MediCare Ltd,17,62.35,38,2027-11-02,1059.95,Medium Stock,615,Valid,February,2
+11005,2026-02-25,Calcium Tablets,Tablet,HealthPlus Distributors,49,83.13,82,2027-11-14,4073.37,Sufficient Stock,627,Valid,February,2
+10988,2026-02-25,Pantoprazole,Tablet,Sunrise Pharma,3,10.87,196,2028-12-16,32.61,Sufficient Stock,1025,Valid,February,2
+11014,2026-02-25,Amlodipine,Tablet,ABC Pharma,4,76.04,85,2027-07-22,304.16,Sufficient Stock,512,Valid,February,2
+10821,2026-02-25,Metformin,Tablet,MediCare Ltd,29,101.32,187,2028-04-15,2938.2799999999997,Sufficient Stock,780,Valid,February,2
+10891,2026-02-26,Vitamin C,Tablet,Sunrise Pharma,24,51.94,56,2026-11-12,1246.56,Medium Stock,259,Valid,February,2
+10437,2026-02-26,Amlodipine,Tablet,HealthPlus Distributors,23,36.41,77,2027-08-18,837.43,Medium Stock,538,Valid,February,2
+10672,2026-02-26,Azithromycin,Tablet,MediCare Ltd,1,19.25,11,2026-11-18,19.25,Low Stock,265,Valid,February,2
+10751,2026-02-27,Ibuprofen,Tablet,MediCare Ltd,34,107.78,125,2027-03-14,3664.52,Sufficient Stock,380,Valid,February,2
+10462,2026-02-27,Amoxicillin,Capsule,Sunrise Pharma,48,70.02,238,2028-02-26,3360.96,Sufficient Stock,729,Valid,February,2
+10500,2026-02-27,Metformin,Tablet,Sunrise Pharma,39,83.79,78,2026-12-13,3267.8100000000004,Medium Stock,289,Valid,February,2
+10032,2026-02-27,Diclofenac,Tablet,Wellness Drugs,40,126.1,94,2028-06-26,5044.0,Sufficient Stock,850,Valid,February,2
+10608,2026-02-27,Diclofenac,Tablet,Sunrise Pharma,16,132.96,21,2027-11-01,2127.36,Medium Stock,612,Valid,February,2
+10407,2026-02-27,Ibuprofen,Tablet,Wellness Drugs,46,134.81,156,2028-08-09,6201.26,Sufficient Stock,894,Valid,February,2
+10510,2026-02-27,Paracetamol,Tablet,Wellness Drugs,41,44.28,226,2027-08-01,1815.48,Sufficient Stock,520,Valid,February,2
+10461,2026-02-27,ORS,Sachet,Wellness Drugs,6,14.18,35,2027-02-27,85.08,Medium Stock,365,Valid,February,2
+10731,2026-02-27,Cough Syrup,Syrup,HealthPlus Distributors,12,126.45,194,2028-03-27,1517.4,Sufficient Stock,759,Valid,February,2
+11062,2026-02-28,Diclofenac,Tablet,ABC Pharma,17,85.73,161,2028-07-11,1457.41,Sufficient Stock,864,Valid,February,2
+10213,2026-02-28,Amlodipine,Tablet,MediCare Ltd,36,108.97,32,2027-11-20,3922.92,Medium Stock,630,Valid,February,2
+10036,2026-02-28,Metformin,Tablet,ABC Pharma,12,82.55,48,2029-01-14,990.5999999999999,Medium Stock,1051,Valid,February,2
+10836,2026-02-28,Pantoprazole,Tablet,ABC Pharma,5,34.96,86,2027-02-05,174.8,Sufficient Stock,342,Valid,February,2
+10297,2026-03-01,Azithromycin,Tablet,HealthPlus Distributors,29,135.34,184,2027-04-19,3924.86,Sufficient Stock,414,Valid,March,3
+11181,2026-03-01,Antacid,Tablet,ABC Pharma,4,20.77,22,2027-01-26,83.08,Medium Stock,331,Valid,March,3
+10435,2026-03-01,ORS,Sachet,HealthPlus Distributors,38,50.29,186,2027-08-22,1911.02,Sufficient Stock,539,Valid,March,3
+11174,2026-03-01,Metformin,Tablet,MediCare Ltd,30,143.28,150,2027-05-16,4298.4,Sufficient Stock,441,Valid,March,3
+10474,2026-03-01,ORS,Sachet,Wellness Drugs,23,81.63,8,2028-07-08,1877.4899999999998,Low Stock,860,Valid,March,3
+10058,2026-03-01,Pantoprazole,Tablet,Sunrise Pharma,29,98.1,33,2027-01-11,2844.8999999999996,Medium Stock,316,Valid,March,3
+10796,2026-03-01,Pantoprazole,Tablet,HealthPlus Distributors,10,65.41,85,2028-12-31,654.0999999999999,Sufficient Stock,1036,Valid,March,3
+10375,2026-03-02,Metformin,Tablet,HealthPlus Distributors,34,92.24,94,2026-11-26,3136.16,Sufficient Stock,269,Valid,March,3
+10993,2026-03-02,Amlodipine,Tablet,Sunrise Pharma,47,110.65,27,2028-03-31,5200.55,Medium Stock,760,Valid,March,3
+10734,2026-03-02,Amoxicillin,Capsule,HealthPlus Distributors,25,121.64,109,2026-09-18,3041.0,Sufficient Stock,200,Valid,March,3
+10961,2026-03-02,Azithromycin,Tablet,Sunrise Pharma,38,133.71,39,2027-11-17,5080.9800000000005,Medium Stock,625,Valid,March,3
+10970,2026-03-02,Cetirizine,Syrup,Sunrise Pharma,40,146.91,69,2028-11-16,5876.4,Medium Stock,990,Valid,March,3
+10756,2026-03-02,Antacid,Tablet,ABC Pharma,30,140.9,225,2028-06-24,4227.0,Sufficient Stock,845,Valid,March,3
+10504,2026-03-03,Levocetirizine,Tablet,MediCare Ltd,47,86.49,12,2027-05-12,4065.0299999999997,Low Stock,435,Valid,March,3
+10640,2026-03-03,Levocetirizine,Tablet,Wellness Drugs,26,113.17,193,2026-10-27,2942.42,Sufficient Stock,238,Valid,March,3
+11190,2026-03-03,Vitamin C,Tablet,Wellness Drugs,9,87.39,18,2027-02-20,786.51,Low Stock,354,Valid,March,3
+10219,2026-03-03,Metformin,Tablet,ABC Pharma,24,73.63,96,2028-09-30,1767.12,Sufficient Stock,942,Valid,March,3
+11159,2026-03-03,Amlodipine,Tablet,Wellness Drugs,2,149.67,66,2028-07-31,299.34,Medium Stock,881,Valid,March,3
+10137,2026-03-03,Levocetirizine,Tablet,Wellness Drugs,48,59.87,33,2027-12-23,2873.7599999999998,Medium Stock,660,Valid,March,3
+11077,2026-03-03,Antacid,Tablet,HealthPlus Distributors,47,131.3,36,2028-01-05,6171.1,Medium Stock,673,Valid,March,3
+11099,2026-03-03,ORS,Sachet,Wellness Drugs,10,5.8,213,2026-10-08,58.0,Sufficient Stock,219,Valid,March,3
+10180,2026-03-03,Antacid,Tablet,MediCare Ltd,22,73.79,5,2028-11-13,1623.38,Low Stock,986,Valid,March,3
+10207,2026-03-03,Azithromycin,Tablet,Sunrise Pharma,24,34.58,29,2029-01-12,829.92,Medium Stock,1046,Valid,March,3
+10161,2026-03-04,Ibuprofen,Tablet,MediCare Ltd,42,60.0,81,2027-09-21,2520.0,Sufficient Stock,566,Valid,March,3
+10834,2026-03-04,Diclofenac,Tablet,HealthPlus Distributors,41,28.82,8,2028-08-17,1181.6200000000001,Low Stock,897,Valid,March,3
+10457,2026-03-04,Paracetamol,Tablet,ABC Pharma,15,23.32,109,2026-11-13,349.8,Sufficient Stock,254,Valid,March,3
+10118,2026-03-04,Ibuprofen,Tablet,MediCare Ltd,47,19.4,201,2028-10-22,911.8,Sufficient Stock,963,Valid,March,3
+10991,2026-03-04,Ibuprofen,Tablet,Wellness Drugs,12,127.72,125,2026-12-24,1532.6399999999999,Sufficient Stock,295,Valid,March,3
+10497,2026-03-04,Paracetamol,Tablet,Sunrise Pharma,17,74.46,8,2026-11-01,1265.82,Low Stock,242,Valid,March,3
+11145,2026-03-04,Levocetirizine,Tablet,Wellness Drugs,34,113.93,45,2027-10-19,3873.6200000000003,Medium Stock,594,Valid,March,3
+11172,2026-03-05,Azithromycin,Tablet,Wellness Drugs,36,141.19,89,2028-06-16,5082.84,Sufficient Stock,834,Valid,March,3
+11175,2026-03-05,Vitamin C,Tablet,HealthPlus Distributors,25,24.41,187,2026-10-16,610.25,Sufficient Stock,225,Valid,March,3
+11123,2026-03-05,Pantoprazole,Tablet,Wellness Drugs,24,47.55,134,2027-11-20,1141.1999999999998,Sufficient Stock,625,Valid,March,3
+10048,2026-03-05,Levocetirizine,Tablet,Sunrise Pharma,14,56.53,206,2028-02-18,791.4200000000001,Sufficient Stock,715,Valid,March,3
+11059,2026-03-05,Paracetamol,Tablet,Sunrise Pharma,5,81.96,123,2028-06-28,409.79999999999995,Sufficient Stock,846,Valid,March,3
+10441,2026-03-06,Metformin,Tablet,MediCare Ltd,6,101.75,229,2028-12-14,610.5,Sufficient Stock,1014,Valid,March,3
+10707,2026-03-06,Amoxicillin,Capsule,MediCare Ltd,30,40.43,195,2027-03-02,1212.9,Sufficient Stock,361,Valid,March,3
+10111,2026-03-06,ORS,Sachet,ABC Pharma,28,67.0,123,2027-03-01,1876.0,Sufficient Stock,360,Valid,March,3
+10828,2026-03-06,Paracetamol,Tablet,MediCare Ltd,26,5.81,197,2027-12-11,151.06,Sufficient Stock,645,Valid,March,3
+11144,2026-03-06,Paracetamol,Tablet,ABC Pharma,30,60.6,170,2027-03-07,1818.0,Sufficient Stock,366,Valid,March,3
+10583,2026-03-06,Amoxicillin,Capsule,MediCare Ltd,1,113.11,240,2027-05-03,113.11,Sufficient Stock,423,Valid,March,3
+10899,2026-03-07,Diclofenac,Tablet,MediCare Ltd,23,51.49,179,2028-01-31,1184.27,Sufficient Stock,695,Valid,March,3
+10450,2026-03-07,Azithromycin,Tablet,ABC Pharma,9,73.71,129,2028-12-22,663.39,Sufficient Stock,1021,Valid,March,3
+11089,2026-03-07,Vitamin C,Tablet,Wellness Drugs,29,20.99,107,2027-04-11,608.7099999999999,Sufficient Stock,400,Valid,March,3
+10177,2026-03-07,Paracetamol,Tablet,Sunrise Pharma,45,125.75,117,2026-09-13,5658.75,Sufficient Stock,190,Valid,March,3
+10402,2026-03-08,Amlodipine,Tablet,ABC Pharma,8,111.14,172,2027-05-12,889.12,Sufficient Stock,430,Valid,March,3
+10582,2026-03-08,Diclofenac,Tablet,MediCare Ltd,38,60.03,221,2029-01-01,2281.14,Sufficient Stock,1030,Valid,March,3
+10408,2026-03-08,Metformin,Tablet,Sunrise Pharma,24,94.15,23,2028-03-29,2259.6000000000004,Medium Stock,752,Valid,March,3
+11042,2026-03-08,Diclofenac,Tablet,MediCare Ltd,23,84.37,101,2028-09-23,1940.5100000000002,Sufficient Stock,930,Valid,March,3
+11113,2026-03-09,Azithromycin,Tablet,MediCare Ltd,49,17.61,19,2028-09-03,862.89,Low Stock,909,Valid,March,3
+10246,2026-03-09,Cetirizine,Syrup,Sunrise Pharma,12,25.16,201,2027-01-12,301.92,Sufficient Stock,309,Valid,March,3
+11040,2026-03-09,Levocetirizine,Tablet,HealthPlus Distributors,4,49.88,31,2028-11-12,199.52,Medium Stock,979,Valid,March,3
+10341,2026-03-09,Azithromycin,Tablet,HealthPlus Distributors,9,139.37,162,2027-06-05,1254.33,Sufficient Stock,453,Valid,March,3
+10254,2026-03-10,Cetirizine,Syrup,HealthPlus Distributors,32,64.88,206,2026-11-24,2076.16,Sufficient Stock,259,Valid,March,3
+10663,2026-03-10,Levocetirizine,Tablet,HealthPlus Distributors,13,19.74,195,2027-05-23,256.62,Sufficient Stock,439,Valid,March,3
+10552,2026-03-10,Cetirizine,Syrup,ABC Pharma,13,149.93,17,2028-07-19,1949.0900000000001,Low Stock,862,Valid,March,3
+10930,2026-03-10,Ibuprofen,Tablet,MediCare Ltd,27,25.13,26,2028-05-11,678.51,Medium Stock,793,Valid,March,3
+11158,2026-03-10,Antacid,Tablet,HealthPlus Distributors,36,99.4,125,2027-04-05,3578.4,Sufficient Stock,391,Valid,March,3
+10537,2026-03-10,Calcium Tablets,Tablet,ABC Pharma,36,15.88,210,2027-03-17,571.6800000000001,Sufficient Stock,372,Valid,March,3
+10561,2026-03-10,Cetirizine,Syrup,HealthPlus Distributors,38,93.04,103,2027-12-07,3535.5200000000004,Sufficient Stock,637,Valid,March,3
+10525,2026-03-10,Vitamin C,Tablet,Wellness Drugs,22,34.29,203,2028-07-16,754.38,Sufficient Stock,859,Valid,March,3
+10973,2026-03-11,Calcium Tablets,Tablet,Sunrise Pharma,39,50.0,223,2028-01-05,1950.0,Sufficient Stock,665,Valid,March,3
+10264,2026-03-11,Antacid,Tablet,ABC Pharma,11,42.25,187,2027-06-20,464.75,Sufficient Stock,466,Valid,March,3
+10714,2026-03-11,Diclofenac,Tablet,Sunrise Pharma,44,69.77,28,2027-03-19,3069.8799999999997,Medium Stock,373,Valid,March,3
+10467,2026-03-11,Cough Syrup,Syrup,Sunrise Pharma,26,69.85,192,2026-12-09,1816.1,Sufficient Stock,273,Valid,March,3
+11071,2026-03-11,Cough Syrup,Syrup,Sunrise Pharma,41,48.61,173,2028-06-20,1993.01,Sufficient Stock,832,Valid,March,3
+11110,2026-03-11,Cetirizine,Syrup,Sunrise Pharma,41,82.12,212,2027-10-15,3366.92,Sufficient Stock,583,Valid,March,3
+10173,2026-03-12,Amoxicillin,Capsule,Sunrise Pharma,29,39.48,230,2028-02-28,1144.9199999999998,Sufficient Stock,718,Valid,March,3
+10113,2026-03-12,Antacid,Tablet,Wellness Drugs,7,25.73,13,2028-11-15,180.11,Low Stock,979,Valid,March,3
+10710,2026-03-12,Amlodipine,Tablet,MediCare Ltd,8,53.43,163,2027-09-05,427.44,Sufficient Stock,542,Valid,March,3
+10006,2026-03-13,Calcium Tablets,Tablet,Wellness Drugs,28,66.24,43,2028-10-21,1854.7199999999998,Medium Stock,953,Valid,March,3
+10131,2026-03-13,Amlodipine,Tablet,MediCare Ltd,49,17.59,127,2026-12-31,861.91,Sufficient Stock,293,Valid,March,3
+11197,2026-03-13,Levocetirizine,Tablet,Wellness Drugs,48,60.65,124,2028-12-09,2911.2,Sufficient Stock,1002,Valid,March,3
+10878,2026-03-13,Diclofenac,Tablet,ABC Pharma,4,135.83,200,2027-07-10,543.32,Sufficient Stock,484,Valid,March,3
+11177,2026-03-13,Cetirizine,Syrup,ABC Pharma,28,91.07,156,2028-02-06,2549.96,Sufficient Stock,695,Valid,March,3
+11147,2026-03-14,Calcium Tablets,Tablet,MediCare Ltd,3,63.02,92,2026-12-22,189.06,Sufficient Stock,283,Valid,March,3
+10984,2026-03-14,Pantoprazole,Tablet,Sunrise Pharma,13,36.53,224,2027-05-16,474.89,Sufficient Stock,428,Valid,March,3
+10053,2026-03-14,Ibuprofen,Tablet,Sunrise Pharma,3,95.28,159,2027-11-15,285.84000000000003,Sufficient Stock,611,Valid,March,3
+10927,2026-03-15,Pantoprazole,Tablet,Wellness Drugs,37,101.62,66,2028-11-10,3759.94,Medium Stock,971,Valid,March,3
+10781,2026-03-15,Amlodipine,Tablet,ABC Pharma,24,84.44,54,2027-03-29,2026.56,Medium Stock,379,Valid,March,3
+10586,2026-03-15,Vitamin C,Tablet,Sunrise Pharma,16,37.07,187,2027-01-28,593.12,Sufficient Stock,319,Valid,March,3
+10687,2026-03-15,Vitamin C,Tablet,Wellness Drugs,33,120.55,182,2026-09-18,3978.15,Sufficient Stock,187,Valid,March,3
+10190,2026-03-16,Amlodipine,Tablet,Sunrise Pharma,23,120.92,16,2028-10-07,2781.16,Low Stock,936,Valid,March,3
+11091,2026-03-16,Vitamin C,Tablet,Wellness Drugs,29,104.63,75,2028-03-12,3034.27,Medium Stock,727,Valid,March,3
+11075,2026-03-16,Amlodipine,Tablet,Sunrise Pharma,2,67.73,7,2029-01-08,135.46,Low Stock,1029,Valid,March,3
+10683,2026-03-16,Cough Syrup,Syrup,HealthPlus Distributors,5,61.13,79,2028-02-11,305.65000000000003,Medium Stock,697,Valid,March,3
+10900,2026-03-16,Cough Syrup,Syrup,Sunrise Pharma,45,60.4,80,2027-05-26,2718.0,Medium Stock,436,Valid,March,3
+10319,2026-03-16,Paracetamol,Tablet,Sunrise Pharma,7,48.29,177,2028-04-05,338.03,Sufficient Stock,751,Valid,March,3
+10610,2026-03-16,Ibuprofen,Tablet,ABC Pharma,36,43.06,177,2028-04-01,1550.16,Sufficient Stock,747,Valid,March,3
+10012,2026-03-16,Calcium Tablets,Tablet,ABC Pharma,23,92.77,237,2027-01-31,2133.71,Sufficient Stock,321,Valid,March,3
+10652,2026-03-17,Diclofenac,Tablet,Wellness Drugs,17,132.92,183,2027-07-02,2259.64,Sufficient Stock,472,Valid,March,3
+10529,2026-03-17,Paracetamol,Tablet,MediCare Ltd,23,2.1,27,2028-03-13,48.300000000000004,Medium Stock,727,Valid,March,3
+10685,2026-03-17,Cough Syrup,Syrup,MediCare Ltd,41,3.6,121,2026-10-26,147.6,Sufficient Stock,223,Valid,March,3
+11168,2026-03-17,Azithromycin,Tablet,Sunrise Pharma,22,67.42,98,2027-05-28,1483.24,Sufficient Stock,437,Valid,March,3
+11129,2026-03-18,Cough Syrup,Syrup,Sunrise Pharma,39,55.99,19,2027-06-07,2183.61,Low Stock,446,Valid,March,3
+10981,2026-03-19,Azithromycin,Tablet,Wellness Drugs,41,115.75,172,2028-05-31,4745.75,Sufficient Stock,804,Valid,March,3
+11188,2026-03-19,Paracetamol,Tablet,HealthPlus Distributors,10,90.09,21,2028-12-07,900.9000000000001,Medium Stock,994,Valid,March,3
+11162,2026-03-19,Cetirizine,Syrup,Wellness Drugs,1,61.3,72,2027-05-12,61.3,Medium Stock,419,Valid,March,3
+10863,2026-03-19,Paracetamol,Tablet,Wellness Drugs,42,86.94,117,2026-12-30,3651.48,Sufficient Stock,286,Valid,March,3
+11008,2026-03-19,Diclofenac,Tablet,Sunrise Pharma,35,100.25,100,2027-09-30,3508.75,Sufficient Stock,560,Valid,March,3
+11093,2026-03-20,Cetirizine,Syrup,Sunrise Pharma,18,113.51,230,2027-01-24,2043.18,Sufficient Stock,310,Valid,March,3
+10916,2026-03-20,Paracetamol,Tablet,Sunrise Pharma,4,30.63,28,2028-02-17,122.52,Medium Stock,699,Valid,March,3
+11102,2026-03-20,Antacid,Tablet,HealthPlus Distributors,6,93.33,119,2026-11-02,559.98,Sufficient Stock,227,Valid,March,3
+10910,2026-03-20,Levocetirizine,Tablet,HealthPlus Distributors,38,62.45,170,2028-08-22,2373.1,Sufficient Stock,886,Valid,March,3
+10759,2026-03-21,Ibuprofen,Tablet,HealthPlus Distributors,47,54.49,157,2027-01-23,2561.03,Sufficient Stock,308,Valid,March,3
+10943,2026-03-21,Amlodipine,Tablet,HealthPlus Distributors,31,130.18,150,2027-04-28,4035.5800000000004,Sufficient Stock,403,Valid,March,3
+10565,2026-03-21,Amoxicillin,Capsule,MediCare Ltd,17,9.44,88,2027-04-01,160.48,Sufficient Stock,376,Valid,March,3
+10920,2026-03-22,Antacid,Tablet,MediCare Ltd,36,134.56,87,2027-12-26,4844.16,Sufficient Stock,644,Valid,March,3
+10074,2026-03-22,Antacid,Tablet,MediCare Ltd,37,40.52,214,2028-03-27,1499.24,Sufficient Stock,736,Valid,March,3
+10994,2026-03-22,Amlodipine,Tablet,MediCare Ltd,45,52.52,139,2028-08-11,2363.4,Sufficient Stock,873,Valid,March,3
+10596,2026-03-22,Metformin,Tablet,ABC Pharma,41,36.69,221,2027-10-06,1504.29,Sufficient Stock,563,Valid,March,3
+10230,2026-03-22,Levocetirizine,Tablet,HealthPlus Distributors,19,78.67,229,2027-12-20,1494.73,Sufficient Stock,638,Valid,March,3
+10120,2026-03-22,Calcium Tablets,Tablet,ABC Pharma,19,2.29,201,2028-07-04,43.51,Sufficient Stock,835,Valid,March,3
+10908,2026-03-23,Amoxicillin,Capsule,Wellness Drugs,7,41.69,220,2026-10-21,291.83,Sufficient Stock,212,Valid,March,3
+10333,2026-03-23,Ibuprofen,Tablet,ABC Pharma,5,87.98,155,2028-11-15,439.90000000000003,Sufficient Stock,968,Valid,March,3
+10814,2026-03-23,Amoxicillin,Capsule,MediCare Ltd,39,42.26,111,2027-09-27,1648.1399999999999,Sufficient Stock,553,Valid,March,3
+10100,2026-03-23,Antacid,Tablet,MediCare Ltd,41,131.7,189,2027-03-23,5399.7,Sufficient Stock,365,Valid,March,3
+10283,2026-03-23,Cetirizine,Syrup,Wellness Drugs,33,56.52,155,2027-06-24,1865.16,Sufficient Stock,458,Valid,March,3
+10659,2026-03-24,Calcium Tablets,Tablet,HealthPlus Distributors,10,29.33,141,2028-03-07,293.29999999999995,Sufficient Stock,714,Valid,March,3
+10860,2026-03-24,Paracetamol,Tablet,MediCare Ltd,14,64.1,22,2028-04-07,897.3999999999999,Medium Stock,745,Valid,March,3
+11186,2026-03-24,Ibuprofen,Tablet,Wellness Drugs,19,10.67,49,2026-11-28,202.73,Medium Stock,249,Valid,March,3
+10704,2026-03-24,Vitamin C,Tablet,Wellness Drugs,31,140.87,103,2028-07-14,4366.97,Sufficient Stock,843,Valid,March,3
+11052,2026-03-24,Vitamin C,Tablet,ABC Pharma,18,117.41,134,2026-11-25,2113.38,Sufficient Stock,246,Valid,March,3
+10064,2026-03-25,Amlodipine,Tablet,Wellness Drugs,2,5.24,6,2028-11-18,10.48,Low Stock,969,Valid,March,3
+10641,2026-03-25,Calcium Tablets,Tablet,ABC Pharma,40,113.57,82,2028-07-27,4542.799999999999,Sufficient Stock,855,Valid,March,3
+10929,2026-03-25,Cough Syrup,Syrup,HealthPlus Distributors,48,60.75,225,2026-10-25,2916.0,Sufficient Stock,214,Valid,March,3
+11143,2026-03-25,Antacid,Tablet,MediCare Ltd,2,102.0,121,2027-04-17,204.0,Sufficient Stock,388,Valid,March,3
+10187,2026-03-25,Azithromycin,Tablet,Wellness Drugs,34,71.01,117,2028-05-25,2414.34,Sufficient Stock,792,Valid,March,3
+10325,2026-03-25,Calcium Tablets,Tablet,Sunrise Pharma,25,114.82,89,2027-02-23,2870.5,Sufficient Stock,335,Valid,March,3
+10569,2026-03-25,Amlodipine,Tablet,Sunrise Pharma,35,126.2,218,2028-09-22,4417.0,Sufficient Stock,912,Valid,March,3
+10545,2026-03-26,Metformin,Tablet,Wellness Drugs,28,71.27,24,2027-09-01,1995.56,Medium Stock,524,Valid,March,3
+10862,2026-03-26,Pantoprazole,Tablet,MediCare Ltd,23,7.83,209,2026-12-16,180.09,Sufficient Stock,265,Valid,March,3
+10897,2026-03-26,Paracetamol,Tablet,Sunrise Pharma,49,74.9,82,2028-07-18,3670.1000000000004,Sufficient Stock,845,Valid,March,3
+10832,2026-03-26,Antacid,Tablet,Wellness Drugs,10,19.82,220,2027-03-12,198.2,Sufficient Stock,351,Valid,March,3
+10453,2026-03-27,Cetirizine,Syrup,Sunrise Pharma,44,120.96,25,2027-08-30,5322.24,Medium Stock,521,Valid,March,3
+10643,2026-03-27,Calcium Tablets,Tablet,HealthPlus Distributors,5,135.85,94,2027-12-22,679.25,Sufficient Stock,635,Valid,March,3
+10708,2026-03-27,Levocetirizine,Tablet,Sunrise Pharma,6,145.52,116,2027-09-02,873.1200000000001,Sufficient Stock,524,Valid,March,3
+10175,2026-03-27,Amoxicillin,Capsule,MediCare Ltd,47,109.07,26,2028-02-07,5126.29,Medium Stock,682,Valid,March,3
+10835,2026-03-27,Cetirizine,Syrup,HealthPlus Distributors,41,94.17,129,2027-01-27,3860.9700000000003,Sufficient Stock,306,Valid,March,3
+11032,2026-03-27,Amoxicillin,Capsule,HealthPlus Distributors,19,2.16,101,2028-10-28,41.040000000000006,Sufficient Stock,946,Valid,March,3
+10415,2026-03-27,Levocetirizine,Tablet,MediCare Ltd,8,146.35,241,2028-12-30,1170.8,Sufficient Stock,1009,Valid,March,3
+10533,2026-03-27,Pantoprazole,Tablet,HealthPlus Distributors,9,113.04,235,2027-01-09,1017.36,Sufficient Stock,288,Valid,March,3
+10463,2026-03-27,Cough Syrup,Syrup,Sunrise Pharma,12,47.36,14,2026-11-09,568.3199999999999,Low Stock,227,Valid,March,3
+10236,2026-03-28,Cetirizine,Syrup,ABC Pharma,12,30.86,158,2028-09-22,370.32,Sufficient Stock,909,Valid,March,3
+10115,2026-03-29,Azithromycin,Tablet,ABC Pharma,37,28.53,177,2028-01-24,1055.6100000000001,Sufficient Stock,666,Valid,March,3
+10014,2026-03-29,Amoxicillin,Capsule,Sunrise Pharma,45,37.82,34,2028-07-16,1701.9,Medium Stock,840,Valid,March,3
+10023,2026-03-29,Pantoprazole,Tablet,HealthPlus Distributors,4,42.08,22,2028-10-25,168.32,Medium Stock,941,Valid,March,3
+10034,2026-03-30,Azithromycin,Tablet,HealthPlus Distributors,49,123.8,138,2028-08-11,6066.2,Sufficient Stock,865,Valid,March,3
+10112,2026-03-30,Antacid,Tablet,HealthPlus Distributors,37,92.36,181,2027-05-25,3417.32,Sufficient Stock,421,Valid,March,3
+10057,2026-03-30,Pantoprazole,Tablet,Wellness Drugs,2,67.5,80,2029-01-06,135.0,Medium Stock,1013,Valid,March,3
+11194,2026-03-30,Metformin,Tablet,HealthPlus Distributors,32,13.73,136,2028-04-30,439.36,Sufficient Stock,762,Valid,March,3
+10518,2026-03-30,Cough Syrup,Syrup,ABC Pharma,31,14.88,124,2029-01-10,461.28000000000003,Sufficient Stock,1017,Valid,March,3
+11192,2026-03-30,Azithromycin,Tablet,ABC Pharma,46,120.85,161,2027-11-29,5559.099999999999,Sufficient Stock,609,Valid,March,3
+10597,2026-03-31,Diclofenac,Tablet,MediCare Ltd,34,53.07,148,2027-03-24,1804.38,Sufficient Stock,358,Valid,March,3
+10793,2026-03-31,Azithromycin,Tablet,Sunrise Pharma,44,113.35,230,2028-12-04,4987.4,Sufficient Stock,979,Valid,March,3
+10156,2026-03-31,Ibuprofen,Tablet,HealthPlus Distributors,27,19.35,199,2028-02-16,522.45,Sufficient Stock,687,Valid,March,3
+10723,2026-03-31,Amoxicillin,Capsule,HealthPlus Distributors,44,53.92,74,2028-03-06,2372.48,Medium Stock,706,Valid,March,3
+10977,2026-03-31,Metformin,Tablet,MediCare Ltd,23,103.01,240,2027-08-18,2369.23,Sufficient Stock,505,Valid,March,3
+10061,2026-03-31,Calcium Tablets,Tablet,ABC Pharma,16,124.06,194,2026-11-09,1984.96,Sufficient Stock,223,Valid,March,3
+10295,2026-03-31,ORS,Sachet,ABC Pharma,32,133.44,32,2026-10-26,4270.08,Medium Stock,209,Valid,March,3
+10602,2026-03-31,Metformin,Tablet,MediCare Ltd,32,41.29,214,2028-11-27,1321.28,Sufficient Stock,972,Valid,March,3
+11121,2026-03-31,Antacid,Tablet,Sunrise Pharma,16,104.02,246,2026-12-31,1664.32,Sufficient Stock,275,Valid,March,3
+10502,2026-03-31,Calcium Tablets,Tablet,MediCare Ltd,41,99.93,99,2029-01-07,4097.13,Sufficient Stock,1013,Valid,March,3
+10272,2026-03-31,Cetirizine,Syrup,ABC Pharma,4,104.81,18,2026-10-26,419.24,Low Stock,209,Valid,March,3
+10911,2026-04-01,Azithromycin,Tablet,Sunrise Pharma,21,102.6,76,2027-07-21,2154.6,Medium Stock,476,Valid,April,4
+10721,2026-04-01,Levocetirizine,Tablet,Wellness Drugs,31,123.46,83,2026-12-26,3827.2599999999998,Sufficient Stock,269,Valid,April,4
+10499,2026-04-02,Cough Syrup,Syrup,Wellness Drugs,48,36.01,113,2027-04-13,1728.48,Sufficient Stock,376,Valid,April,4
+10741,2026-04-02,Ibuprofen,Tablet,Sunrise Pharma,6,140.19,226,2028-10-01,841.14,Sufficient Stock,913,Valid,April,4
+10448,2026-04-02,Paracetamol,Tablet,HealthPlus Distributors,43,24.93,38,2027-12-25,1071.99,Medium Stock,632,Valid,April,4
+10065,2026-04-02,Azithromycin,Tablet,HealthPlus Distributors,17,46.55,184,2028-06-26,791.3499999999999,Sufficient Stock,816,Valid,April,4
+10876,2026-04-02,Cetirizine,Syrup,HealthPlus Distributors,46,107.0,102,2027-12-29,4922.0,Sufficient Stock,636,Valid,April,4
+10192,2026-04-02,Paracetamol,Tablet,HealthPlus Distributors,42,32.11,213,2028-01-28,1348.62,Sufficient Stock,666,Valid,April,4
+10968,2026-04-02,Antacid,Tablet,Wellness Drugs,24,17.22,202,2028-03-03,413.28,Sufficient Stock,701,Valid,April,4
+10791,2026-04-02,Ibuprofen,Tablet,Sunrise Pharma,29,95.21,89,2026-10-16,2761.0899999999997,Sufficient Stock,197,Valid,April,4
+10266,2026-04-03,Metformin,Tablet,ABC Pharma,14,41.08,151,2027-05-23,575.12,Sufficient Stock,415,Valid,April,4
+10527,2026-04-03,Vitamin C,Tablet,MediCare Ltd,36,38.95,60,2028-09-26,1402.2,Medium Stock,907,Valid,April,4
+10599,2026-04-03,Amoxicillin,Capsule,ABC Pharma,6,144.3,236,2027-10-24,865.8000000000001,Sufficient Stock,569,Valid,April,4
+11176,2026-04-03,Cetirizine,Syrup,ABC Pharma,45,72.66,161,2029-01-09,3269.7,Sufficient Stock,1012,Valid,April,4
+10958,2026-04-03,ORS,Sachet,ABC Pharma,25,4.4,61,2027-11-12,110.00000000000001,Medium Stock,588,Valid,April,4
+10003,2026-04-03,Pantoprazole,Tablet,Wellness Drugs,45,15.71,8,2027-03-23,706.95,Low Stock,354,Valid,April,4
+10392,2026-04-03,Metformin,Tablet,MediCare Ltd,19,64.65,246,2027-08-31,1228.3500000000001,Sufficient Stock,515,Valid,April,4
+10329,2026-04-03,Metformin,Tablet,Wellness Drugs,37,85.38,157,2027-04-05,3159.06,Sufficient Stock,367,Valid,April,4
+10482,2026-04-04,Ibuprofen,Tablet,ABC Pharma,44,74.9,213,2027-09-30,3295.6000000000004,Sufficient Stock,544,Valid,April,4
+11097,2026-04-04,Vitamin C,Tablet,Wellness Drugs,26,93.64,130,2028-05-28,2434.64,Sufficient Stock,785,Valid,April,4
+11155,2026-04-04,Antacid,Tablet,Wellness Drugs,48,52.22,61,2028-07-19,2506.56,Medium Stock,837,Valid,April,4
+11078,2026-04-04,Levocetirizine,Tablet,Wellness Drugs,39,149.34,35,2027-01-05,5824.26,Medium Stock,276,Valid,April,4
+11074,2026-04-04,Amlodipine,Tablet,ABC Pharma,5,148.13,75,2029-01-05,740.65,Medium Stock,1007,Valid,April,4
+10539,2026-04-04,Metformin,Tablet,Wellness Drugs,3,138.27,183,2028-03-13,414.81000000000006,Sufficient Stock,709,Valid,April,4
+10989,2026-04-04,Pantoprazole,Tablet,MediCare Ltd,17,21.38,175,2026-12-25,363.46,Sufficient Stock,265,Valid,April,4
+11079,2026-04-05,Azithromycin,Tablet,HealthPlus Distributors,4,88.24,86,2028-01-31,352.96,Sufficient Stock,666,Valid,April,4
+10850,2026-04-05,Pantoprazole,Tablet,Wellness Drugs,26,91.16,212,2027-01-17,2370.16,Sufficient Stock,287,Valid,April,4
+10592,2026-04-05,Vitamin C,Tablet,Sunrise Pharma,27,4.84,11,2027-07-29,130.68,Low Stock,480,Valid,April,4
+10395,2026-04-05,Pantoprazole,Tablet,HealthPlus Distributors,31,132.38,79,2027-08-27,4103.78,Medium Stock,509,Valid,April,4
+11156,2026-04-05,Levocetirizine,Tablet,ABC Pharma,6,76.88,134,2027-09-21,461.28,Sufficient Stock,534,Valid,April,4
+10877,2026-04-05,Azithromycin,Tablet,HealthPlus Distributors,27,42.18,62,2026-10-14,1138.86,Medium Stock,192,Valid,April,4
+10944,2026-04-05,Antacid,Tablet,ABC Pharma,42,44.84,126,2027-08-20,1883.2800000000002,Sufficient Stock,502,Valid,April,4
+10092,2026-04-05,Pantoprazole,Tablet,Wellness Drugs,44,118.82,220,2027-06-08,5228.08,Sufficient Stock,429,Valid,April,4
+10625,2026-04-06,Levocetirizine,Tablet,Sunrise Pharma,4,140.45,157,2027-01-05,561.8,Sufficient Stock,274,Valid,April,4
+10162,2026-04-06,Vitamin C,Tablet,MediCare Ltd,37,134.56,199,2026-12-01,4978.72,Sufficient Stock,239,Valid,April,4
+10559,2026-04-06,Calcium Tablets,Tablet,Sunrise Pharma,13,52.38,199,2028-02-20,680.94,Sufficient Stock,685,Valid,April,4
+10164,2026-04-06,Cetirizine,Syrup,HealthPlus Distributors,42,77.16,13,2027-01-31,3240.72,Low Stock,300,Valid,April,4
+10514,2026-04-06,Pantoprazole,Tablet,Wellness Drugs,18,23.16,233,2029-01-12,416.88,Sufficient Stock,1012,Valid,April,4
+10955,2026-04-06,Ibuprofen,Tablet,Wellness Drugs,4,123.84,60,2028-02-15,495.36,Medium Stock,680,Valid,April,4
+10216,2026-04-06,Paracetamol,Tablet,Sunrise Pharma,18,3.24,192,2028-12-18,58.32000000000001,Sufficient Stock,987,Valid,April,4
+10276,2026-04-06,Calcium Tablets,Tablet,ABC Pharma,48,99.97,220,2027-11-16,4798.5599999999995,Sufficient Stock,589,Valid,April,4
+10260,2026-04-07,Antacid,Tablet,ABC Pharma,24,58.65,243,2027-09-24,1407.6,Sufficient Stock,535,Valid,April,4
+10370,2026-04-07,Vitamin C,Tablet,Sunrise Pharma,2,100.83,249,2028-04-10,201.66,Sufficient Stock,734,Valid,April,4
+10841,2026-04-08,Cough Syrup,Syrup,ABC Pharma,45,27.3,165,2027-07-07,1228.5,Sufficient Stock,455,Valid,April,4
+10449,2026-04-08,Vitamin C,Tablet,Wellness Drugs,19,14.25,93,2027-04-13,270.75,Sufficient Stock,370,Valid,April,4
+10256,2026-04-08,Vitamin C,Tablet,MediCare Ltd,36,77.04,118,2028-12-19,2773.44,Sufficient Stock,986,Valid,April,4
+10907,2026-04-08,Azithromycin,Tablet,HealthPlus Distributors,40,24.09,24,2028-02-10,963.6,Medium Stock,673,Valid,April,4
+10484,2026-04-09,Antacid,Tablet,Wellness Drugs,17,126.06,147,2029-01-09,2143.02,Sufficient Stock,1006,Valid,April,4
+10396,2026-04-09,Ibuprofen,Tablet,MediCare Ltd,17,132.67,42,2028-09-28,2255.39,Medium Stock,903,Valid,April,4
+10430,2026-04-09,ORS,Sachet,Wellness Drugs,29,114.38,151,2028-07-01,3317.02,Sufficient Stock,814,Valid,April,4
+10307,2026-04-09,Metformin,Tablet,Sunrise Pharma,41,112.73,84,2028-02-11,4621.93,Sufficient Stock,673,Valid,April,4
+10843,2026-04-09,Calcium Tablets,Tablet,MediCare Ltd,29,114.08,110,2027-12-06,3308.32,Sufficient Stock,606,Valid,April,4
+10292,2026-04-09,Levocetirizine,Tablet,Wellness Drugs,46,100.69,191,2028-12-20,4631.74,Sufficient Stock,986,Valid,April,4
+10327,2026-04-09,Cetirizine,Syrup,Sunrise Pharma,1,125.89,236,2027-03-12,125.89,Sufficient Stock,337,Valid,April,4
+10388,2026-04-09,Cough Syrup,Syrup,Sunrise Pharma,30,89.74,173,2028-11-27,2692.2,Sufficient Stock,963,Valid,April,4
+10622,2026-04-09,Azithromycin,Tablet,HealthPlus Distributors,8,40.64,138,2028-02-03,325.12,Sufficient Stock,665,Valid,April,4
+10664,2026-04-09,Diclofenac,Tablet,HealthPlus Distributors,8,110.77,204,2026-12-03,886.16,Sufficient Stock,238,Valid,April,4
+11000,2026-04-09,Amoxicillin,Capsule,ABC Pharma,36,14.08,166,2026-11-08,506.88,Sufficient Stock,213,Valid,April,4
+10139,2026-04-09,Ibuprofen,Tablet,HealthPlus Distributors,38,34.49,39,2026-09-18,1310.6200000000001,Medium Stock,162,Valid,April,4
+10635,2026-04-09,Levocetirizine,Tablet,HealthPlus Distributors,15,68.11,230,2028-08-24,1021.65,Sufficient Stock,868,Valid,April,4
+10648,2026-04-10,Antacid,Tablet,MediCare Ltd,32,33.44,107,2027-02-17,1070.08,Sufficient Stock,313,Valid,April,4
+10547,2026-04-10,Amoxicillin,Capsule,HealthPlus Distributors,1,114.57,187,2028-03-12,114.57,Sufficient Stock,702,Valid,April,4
+10553,2026-04-10,Amoxicillin,Capsule,Wellness Drugs,49,115.88,126,2027-09-14,5678.12,Sufficient Stock,522,Valid,April,4
+11128,2026-04-10,Amlodipine,Tablet,HealthPlus Distributors,43,110.07,17,2028-05-06,4733.009999999999,Low Stock,757,Valid,April,4
+10016,2026-04-10,Ibuprofen,Tablet,HealthPlus Distributors,23,15.53,26,2027-11-06,357.19,Medium Stock,575,Valid,April,4
+10549,2026-04-11,Levocetirizine,Tablet,Wellness Drugs,21,74.12,241,2028-11-18,1556.52,Sufficient Stock,952,Valid,April,4
+10471,2026-04-11,Paracetamol,Tablet,Sunrise Pharma,25,117.0,77,2028-07-13,2925.0,Medium Stock,824,Valid,April,4
+11146,2026-04-11,Ibuprofen,Tablet,Sunrise Pharma,22,69.22,177,2026-09-09,1522.84,Sufficient Stock,151,Valid,April,4
+10227,2026-04-11,Paracetamol,Tablet,Sunrise Pharma,17,117.73,228,2026-12-20,2001.41,Sufficient Stock,253,Valid,April,4
+10799,2026-04-11,Ibuprofen,Tablet,MediCare Ltd,27,23.67,73,2028-08-31,639.09,Medium Stock,873,Valid,April,4
+10144,2026-04-11,Metformin,Tablet,Wellness Drugs,45,65.48,81,2028-05-10,2946.6000000000004,Sufficient Stock,760,Valid,April,4
+10617,2026-04-11,Vitamin C,Tablet,MediCare Ltd,11,148.54,157,2026-10-11,1633.9399999999998,Sufficient Stock,183,Valid,April,4
+11055,2026-04-11,Amoxicillin,Capsule,HealthPlus Distributors,33,107.4,101,2028-11-29,3544.2000000000003,Sufficient Stock,963,Valid,April,4
+10580,2026-04-11,Pantoprazole,Tablet,ABC Pharma,36,58.2,72,2027-10-19,2095.2000000000003,Medium Stock,556,Valid,April,4
+10852,2026-04-12,Azithromycin,Tablet,MediCare Ltd,45,36.6,91,2027-01-10,1647.0,Sufficient Stock,273,Valid,April,4
+10784,2026-04-12,ORS,Sachet,ABC Pharma,2,110.26,117,2028-06-20,220.52,Sufficient Stock,800,Valid,April,4
+10902,2026-04-13,Calcium Tablets,Tablet,Sunrise Pharma,31,25.88,183,2028-12-11,802.28,Sufficient Stock,973,Valid,April,4
+10001,2026-04-13,Cetirizine,Syrup,Wellness Drugs,48,3.23,191,2028-05-11,155.04,Sufficient Stock,759,Valid,April,4
+10477,2026-04-13,Cough Syrup,Syrup,Wellness Drugs,43,133.65,13,2027-04-08,5746.95,Low Stock,360,Valid,April,4
+10151,2026-04-13,Amlodipine,Tablet,Wellness Drugs,4,130.84,88,2027-01-20,523.36,Sufficient Stock,282,Valid,April,4
+10009,2026-04-13,Cough Syrup,Syrup,MediCare Ltd,25,109.07,222,2029-01-04,2726.75,Sufficient Stock,997,Valid,April,4
+10202,2026-04-13,Metformin,Tablet,HealthPlus Distributors,11,120.96,175,2026-09-18,1330.56,Sufficient Stock,158,Valid,April,4
+11199,2026-04-14,Amoxicillin,Capsule,Sunrise Pharma,17,23.23,51,2028-02-14,394.91,Medium Stock,671,Valid,April,4
+10077,2026-04-14,ORS,Sachet,MediCare Ltd,31,12.43,169,2028-10-03,385.33,Sufficient Stock,903,Valid,April,4
+10141,2026-04-14,Levocetirizine,Tablet,HealthPlus Distributors,31,93.21,144,2026-11-22,2889.5099999999998,Sufficient Stock,222,Valid,April,4
+10284,2026-04-14,Cetirizine,Syrup,ABC Pharma,32,65.99,188,2027-06-09,2111.68,Sufficient Stock,421,Valid,April,4
+10409,2026-04-14,Vitamin C,Tablet,HealthPlus Distributors,15,146.06,150,2026-09-10,2190.9,Sufficient Stock,149,Valid,April,4
+10324,2026-04-14,Vitamin C,Tablet,Sunrise Pharma,36,94.31,218,2027-11-09,3395.16,Sufficient Stock,574,Valid,April,4
+10422,2026-04-14,Paracetamol,Tablet,Sunrise Pharma,34,33.2,181,2028-06-23,1128.8000000000002,Sufficient Stock,801,Valid,April,4
+10017,2026-04-14,Amlodipine,Tablet,Wellness Drugs,49,31.49,207,2027-08-03,1543.01,Sufficient Stock,476,Valid,April,4
+10950,2026-04-14,Antacid,Tablet,Sunrise Pharma,11,85.51,211,2026-11-04,940.61,Sufficient Stock,204,Valid,April,4
+11179,2026-04-15,Pantoprazole,Tablet,ABC Pharma,49,61.42,113,2027-07-07,3009.58,Sufficient Stock,448,Valid,April,4
+10736,2026-04-15,Vitamin C,Tablet,Sunrise Pharma,19,58.92,220,2028-12-14,1119.48,Sufficient Stock,974,Valid,April,4
+10842,2026-04-15,Amoxicillin,Capsule,ABC Pharma,41,63.89,32,2026-11-06,2619.4900000000002,Medium Stock,205,Valid,April,4
+10636,2026-04-15,Ibuprofen,Tablet,Sunrise Pharma,23,76.22,32,2026-10-18,1753.06,Medium Stock,186,Valid,April,4
+10605,2026-04-15,Diclofenac,Tablet,Sunrise Pharma,7,49.0,248,2027-06-26,343.0,Sufficient Stock,437,Valid,April,4
+10082,2026-04-16,Azithromycin,Tablet,HealthPlus Distributors,28,103.4,99,2027-06-12,2895.2000000000003,Sufficient Stock,422,Valid,April,4
+10492,2026-04-16,Antacid,Tablet,Wellness Drugs,19,31.07,150,2028-02-02,590.33,Sufficient Stock,657,Valid,April,4
+10918,2026-04-16,Antacid,Tablet,Wellness Drugs,12,40.45,179,2028-01-28,485.40000000000003,Sufficient Stock,652,Valid,April,4
+10990,2026-04-17,Ibuprofen,Tablet,ABC Pharma,49,91.69,21,2027-03-02,4492.8099999999995,Medium Stock,319,Valid,April,4
+10005,2026-04-17,Metformin,Tablet,Sunrise Pharma,39,137.35,21,2027-02-01,5356.65,Medium Stock,290,Valid,April,4
+11020,2026-04-17,Paracetamol,Tablet,MediCare Ltd,49,62.18,109,2027-04-01,3046.82,Sufficient Stock,349,Valid,April,4
+10718,2026-04-18,Cough Syrup,Syrup,Wellness Drugs,11,87.49,54,2027-06-01,962.39,Medium Stock,409,Valid,April,4
+10475,2026-04-18,Amlodipine,Tablet,MediCare Ltd,21,126.34,195,2027-10-03,2653.14,Sufficient Stock,533,Valid,April,4
+10185,2026-04-18,Cough Syrup,Syrup,Wellness Drugs,49,128.54,204,2027-02-15,6298.46,Sufficient Stock,303,Valid,April,4
+10046,2026-04-18,Metformin,Tablet,ABC Pharma,13,81.67,174,2027-01-06,1061.71,Sufficient Stock,263,Valid,April,4
+11043,2026-04-19,Azithromycin,Tablet,Sunrise Pharma,2,52.72,211,2027-12-22,105.44,Sufficient Stock,612,Valid,April,4
+11010,2026-04-19,Paracetamol,Tablet,MediCare Ltd,14,9.46,6,2028-03-03,132.44,Low Stock,684,Valid,April,4
+10706,2026-04-19,Amoxicillin,Capsule,Wellness Drugs,3,147.57,18,2029-01-12,442.71,Low Stock,999,Valid,April,4
+10480,2026-04-19,Cetirizine,Syrup,MediCare Ltd,33,74.43,158,2027-07-03,2456.19,Sufficient Stock,440,Valid,April,4
+10823,2026-04-19,Diclofenac,Tablet,Sunrise Pharma,27,142.12,170,2027-10-02,3837.2400000000002,Sufficient Stock,531,Valid,April,4
+10674,2026-04-19,Calcium Tablets,Tablet,Sunrise Pharma,47,135.56,5,2027-04-25,6371.32,Low Stock,371,Valid,April,4
+11063,2026-04-19,Cetirizine,Syrup,HealthPlus Distributors,6,78.14,158,2027-12-07,468.84000000000003,Sufficient Stock,597,Valid,April,4
+10362,2026-04-19,Cough Syrup,Syrup,Wellness Drugs,2,98.0,139,2028-05-07,196.0,Sufficient Stock,749,Valid,April,4
+10865,2026-04-20,Vitamin C,Tablet,MediCare Ltd,15,6.24,175,2027-03-14,93.60000000000001,Sufficient Stock,328,Valid,April,4
+10332,2026-04-20,Ibuprofen,Tablet,MediCare Ltd,8,88.87,138,2028-02-06,710.96,Sufficient Stock,657,Valid,April,4
+11045,2026-04-21,Pantoprazole,Tablet,HealthPlus Distributors,37,15.97,113,2028-06-10,590.89,Sufficient Stock,781,Valid,April,4
+11048,2026-04-21,Pantoprazole,Tablet,Sunrise Pharma,14,98.17,223,2028-05-26,1374.38,Sufficient Stock,766,Valid,April,4
+10660,2026-04-21,Levocetirizine,Tablet,ABC Pharma,45,52.63,113,2028-11-11,2368.35,Sufficient Stock,935,Valid,April,4
+11046,2026-04-21,Metformin,Tablet,HealthPlus Distributors,8,125.06,59,2028-04-12,1000.48,Medium Stock,722,Valid,April,4
+11018,2026-04-21,Amlodipine,Tablet,HealthPlus Distributors,6,52.46,154,2027-02-12,314.76,Sufficient Stock,297,Valid,April,4
+10101,2026-04-21,Vitamin C,Tablet,MediCare Ltd,23,17.18,89,2028-10-29,395.14,Sufficient Stock,922,Valid,April,4
+10066,2026-04-21,Amlodipine,Tablet,Wellness Drugs,41,76.39,235,2026-11-28,3131.9900000000002,Sufficient Stock,221,Valid,April,4
+10372,2026-04-21,Diclofenac,Tablet,Sunrise Pharma,13,27.12,61,2027-05-15,352.56,Medium Stock,389,Valid,April,4
+10940,2026-04-21,Cetirizine,Syrup,HealthPlus Distributors,8,119.49,35,2028-10-23,955.92,Medium Stock,916,Valid,April,4
+10642,2026-04-22,Cough Syrup,Syrup,HealthPlus Distributors,9,87.53,183,2028-03-26,787.77,Sufficient Stock,704,Valid,April,4
+10296,2026-04-22,Azithromycin,Tablet,Sunrise Pharma,22,50.14,127,2027-02-26,1103.08,Sufficient Stock,310,Valid,April,4
+11072,2026-04-22,Amoxicillin,Capsule,ABC Pharma,19,16.3,173,2028-10-30,309.7,Sufficient Stock,922,Valid,April,4
+10893,2026-04-22,Levocetirizine,Tablet,ABC Pharma,42,14.36,111,2028-03-31,603.12,Sufficient Stock,709,Valid,April,4
+10326,2026-04-22,Amoxicillin,Capsule,MediCare Ltd,37,7.76,30,2027-01-16,287.12,Medium Stock,269,Valid,April,4
+10873,2026-04-23,Antacid,Tablet,Sunrise Pharma,39,146.12,186,2028-07-04,5698.68,Sufficient Stock,803,Valid,April,4
+10999,2026-04-23,Ibuprofen,Tablet,HealthPlus Distributors,15,4.02,83,2026-11-04,60.3,Sufficient Stock,195,Valid,April,4
+11051,2026-04-23,Levocetirizine,Tablet,MediCare Ltd,19,109.88,65,2026-11-20,2087.72,Medium Stock,211,Valid,April,4
+10744,2026-04-23,Amoxicillin,Capsule,HealthPlus Distributors,29,6.83,17,2028-02-29,198.07,Low Stock,677,Valid,April,4
+10218,2026-04-23,Levocetirizine,Tablet,Wellness Drugs,22,99.93,189,2028-02-01,2198.46,Sufficient Stock,649,Valid,April,4
+10631,2026-04-23,Levocetirizine,Tablet,Wellness Drugs,34,26.09,30,2028-09-11,887.06,Medium Stock,872,Valid,April,4
+10320,2026-04-23,Calcium Tablets,Tablet,MediCare Ltd,30,98.84,50,2028-02-23,2965.2000000000003,Medium Stock,671,Valid,April,4
+11096,2026-04-23,Antacid,Tablet,MediCare Ltd,8,110.08,153,2027-02-28,880.64,Sufficient Stock,311,Valid,April,4
+10226,2026-04-23,Diclofenac,Tablet,ABC Pharma,5,88.39,236,2027-03-30,441.95,Sufficient Stock,341,Valid,April,4
+10639,2026-04-23,Ibuprofen,Tablet,Wellness Drugs,4,99.96,170,2026-11-07,399.84,Sufficient Stock,198,Valid,April,4
+10298,2026-04-23,Ibuprofen,Tablet,ABC Pharma,22,149.43,130,2027-08-08,3287.46,Sufficient Stock,472,Valid,April,4
+10232,2026-04-23,Cetirizine,Syrup,Wellness Drugs,34,101.33,50,2027-05-10,3445.22,Medium Stock,382,Valid,April,4
+11117,2026-04-23,Metformin,Tablet,Sunrise Pharma,10,96.39,213,2028-04-24,963.9,Sufficient Stock,732,Valid,April,4
+10228,2026-04-23,Diclofenac,Tablet,Wellness Drugs,37,113.26,216,2026-09-07,4190.62,Sufficient Stock,137,Valid,April,4
+10490,2026-04-24,Cetirizine,Syrup,MediCare Ltd,21,114.84,24,2027-10-24,2411.64,Medium Stock,548,Valid,April,4
+10412,2026-04-24,Vitamin C,Tablet,ABC Pharma,4,11.23,120,2027-10-25,44.92,Sufficient Stock,549,Valid,April,4
+10609,2026-04-24,Levocetirizine,Tablet,HealthPlus Distributors,43,111.38,195,2026-12-25,4789.34,Sufficient Stock,245,Valid,April,4
+10357,2026-04-25,Levocetirizine,Tablet,ABC Pharma,34,141.37,119,2026-09-12,4806.58,Sufficient Stock,140,Valid,April,4
+10446,2026-04-25,Ibuprofen,Tablet,HealthPlus Distributors,11,52.71,187,2026-12-07,579.8100000000001,Sufficient Stock,226,Valid,April,4
+10815,2026-04-25,Azithromycin,Tablet,ABC Pharma,27,2.94,104,2028-08-12,79.38,Sufficient Stock,840,Valid,April,4
+11015,2026-04-25,ORS,Sachet,Sunrise Pharma,24,12.27,233,2026-11-29,294.48,Sufficient Stock,218,Valid,April,4
+10604,2026-04-25,Azithromycin,Tablet,MediCare Ltd,33,102.42,84,2027-08-30,3379.86,Sufficient Stock,492,Valid,April,4
+10939,2026-04-25,Diclofenac,Tablet,Sunrise Pharma,21,146.64,197,2027-05-19,3079.4399999999996,Sufficient Stock,389,Valid,April,4
+11023,2026-04-25,Levocetirizine,Tablet,HealthPlus Distributors,1,45.42,186,2027-07-31,45.42,Sufficient Stock,462,Valid,April,4
+10255,2026-04-26,Vitamin C,Tablet,Sunrise Pharma,6,136.36,49,2028-03-08,818.1600000000001,Medium Stock,682,Valid,April,4
+10199,2026-04-26,Amoxicillin,Capsule,Sunrise Pharma,44,97.95,168,2027-01-09,4309.8,Sufficient Stock,258,Valid,April,4
+10481,2026-04-26,Amoxicillin,Capsule,Wellness Drugs,24,111.76,136,2028-02-03,2682.2400000000002,Sufficient Stock,648,Valid,April,4
+10318,2026-04-26,Amoxicillin,Capsule,MediCare Ltd,40,85.79,192,2026-11-26,3431.6000000000004,Sufficient Stock,214,Valid,April,4
+10398,2026-04-26,Cough Syrup,Syrup,MediCare Ltd,32,33.26,177,2028-10-13,1064.32,Sufficient Stock,901,Valid,April,4
+10015,2026-04-27,Levocetirizine,Tablet,MediCare Ltd,47,107.68,162,2026-11-30,5060.96,Sufficient Stock,217,Valid,April,4
+10386,2026-04-27,Paracetamol,Tablet,MediCare Ltd,17,138.35,149,2027-12-02,2351.95,Sufficient Stock,584,Valid,April,4
+11163,2026-04-27,Cough Syrup,Syrup,Wellness Drugs,19,19.04,85,2027-04-23,361.76,Sufficient Stock,361,Valid,April,4
+10788,2026-04-27,ORS,Sachet,ABC Pharma,22,140.28,190,2026-12-17,3086.16,Sufficient Stock,234,Valid,April,4
+10773,2026-04-27,Amlodipine,Tablet,Wellness Drugs,10,60.5,88,2027-06-14,605.0,Sufficient Stock,413,Valid,April,4
+10662,2026-04-27,ORS,Sachet,Wellness Drugs,11,124.98,161,2028-05-11,1374.78,Sufficient Stock,745,Valid,April,4
+10749,2026-04-27,Amlodipine,Tablet,Sunrise Pharma,16,145.73,240,2028-06-30,2331.68,Sufficient Stock,795,Valid,April,4
+10519,2026-04-27,Antacid,Tablet,ABC Pharma,2,84.4,145,2028-08-29,168.8,Sufficient Stock,855,Valid,April,4
+10503,2026-04-27,Antacid,Tablet,Sunrise Pharma,35,22.9,109,2027-10-29,801.5,Sufficient Stock,550,Valid,April,4
+10946,2026-04-28,Calcium Tablets,Tablet,Wellness Drugs,32,93.67,42,2028-10-08,2997.44,Medium Stock,894,Valid,April,4
+10883,2026-04-28,Paracetamol,Tablet,Sunrise Pharma,3,125.19,11,2026-11-16,375.57,Low Stock,202,Valid,April,4
+10760,2026-04-28,Diclofenac,Tablet,Wellness Drugs,30,83.5,42,2026-10-26,2505.0,Medium Stock,181,Valid,April,4
+10214,2026-04-28,Paracetamol,Tablet,ABC Pharma,17,99.2,150,2027-11-14,1686.4,Sufficient Stock,565,Valid,April,4
+11112,2026-04-28,Levocetirizine,Tablet,ABC Pharma,27,10.44,36,2028-03-03,281.88,Medium Stock,675,Valid,April,4
+10775,2026-04-28,Diclofenac,Tablet,Wellness Drugs,37,25.21,193,2027-05-22,932.77,Sufficient Stock,389,Valid,April,4
+10516,2026-04-28,Cough Syrup,Syrup,Wellness Drugs,13,120.06,145,2028-01-25,1560.78,Sufficient Stock,637,Valid,April,4
+11095,2026-04-28,Cough Syrup,Syrup,HealthPlus Distributors,41,75.99,232,2027-08-14,3115.5899999999997,Sufficient Stock,473,Valid,April,4
+10827,2026-04-28,Cough Syrup,Syrup,Wellness Drugs,1,148.57,75,2027-02-13,148.57,Medium Stock,291,Valid,April,4
+10358,2026-04-29,Cough Syrup,Syrup,MediCare Ltd,45,26.77,51,2027-08-04,1204.65,Medium Stock,462,Valid,April,4
+11026,2026-04-29,Pantoprazole,Tablet,Wellness Drugs,16,135.24,62,2029-01-07,2163.84,Medium Stock,984,Valid,April,4
+10825,2026-04-29,ORS,Sachet,Wellness Drugs,4,117.93,101,2027-02-04,471.72,Sufficient Stock,281,Valid,April,4
+10496,2026-04-30,Diclofenac,Tablet,ABC Pharma,42,87.74,17,2028-01-22,3685.08,Low Stock,632,Valid,April,4
+10612,2026-04-30,Cough Syrup,Syrup,HealthPlus Distributors,7,144.58,11,2028-02-27,1012.0600000000001,Low Stock,668,Valid,April,4
+10315,2026-04-30,Diclofenac,Tablet,Wellness Drugs,8,5.32,32,2027-10-06,42.56,Medium Stock,524,Valid,April,4
+11164,2026-04-30,Azithromycin,Tablet,ABC Pharma,26,132.72,21,2026-09-25,3450.72,Medium Stock,148,Valid,April,4
+10195,2026-05-01,ORS,Sachet,Wellness Drugs,45,59.63,242,2026-12-14,2683.35,Sufficient Stock,227,Valid,May,5
+10198,2026-05-01,Antacid,Tablet,Wellness Drugs,46,11.85,173,2026-12-29,545.1,Sufficient Stock,242,Valid,May,5
+11065,2026-05-01,Pantoprazole,Tablet,ABC Pharma,5,83.23,83,2028-12-14,416.15000000000003,Sufficient Stock,958,Valid,May,5
+10987,2026-05-01,Calcium Tablets,Tablet,Wellness Drugs,20,34.37,78,2028-02-04,687.4,Medium Stock,644,Valid,May,5
+10010,2026-05-02,Paracetamol,Tablet,ABC Pharma,27,3.34,180,2028-02-19,90.17999999999999,Sufficient Stock,658,Valid,May,5
+10698,2026-05-02,Cetirizine,Syrup,Sunrise Pharma,22,99.49,52,2027-07-19,2188.7799999999997,Medium Stock,443,Valid,May,5
+10511,2026-05-02,Metformin,Tablet,Sunrise Pharma,7,139.21,121,2028-04-09,974.47,Sufficient Stock,708,Valid,May,5
+10962,2026-05-02,Metformin,Tablet,MediCare Ltd,49,148.81,118,2027-11-15,7291.6900000000005,Sufficient Stock,562,Valid,May,5
+10790,2026-05-02,Cough Syrup,Syrup,ABC Pharma,27,96.04,136,2028-02-03,2593.0800000000004,Sufficient Stock,642,Valid,May,5
+10680,2026-05-02,Vitamin C,Tablet,Sunrise Pharma,46,85.86,91,2028-01-29,3949.56,Sufficient Stock,637,Valid,May,5
+10125,2026-05-03,Vitamin C,Tablet,ABC Pharma,35,14.37,78,2027-03-10,502.95,Medium Stock,311,Valid,May,5
+10885,2026-05-03,Calcium Tablets,Tablet,Sunrise Pharma,24,35.2,74,2028-07-20,844.8000000000001,Medium Stock,809,Valid,May,5
+10250,2026-05-03,Amlodipine,Tablet,Sunrise Pharma,26,31.93,86,2027-06-20,830.18,Sufficient Stock,413,Valid,May,5
+10668,2026-05-03,Azithromycin,Tablet,ABC Pharma,31,46.39,127,2027-04-06,1438.09,Sufficient Stock,338,Valid,May,5
+11187,2026-05-03,Calcium Tablets,Tablet,HealthPlus Distributors,1,83.75,86,2028-07-28,83.75,Sufficient Stock,817,Valid,May,5
+10158,2026-05-04,Vitamin C,Tablet,MediCare Ltd,6,23.14,140,2027-06-19,138.84,Sufficient Stock,411,Valid,May,5
+10106,2026-05-04,Cough Syrup,Syrup,Sunrise Pharma,36,129.1,171,2027-01-07,4647.599999999999,Sufficient Stock,248,Valid,May,5
+10262,2026-05-04,Metformin,Tablet,Sunrise Pharma,15,99.61,118,2026-10-20,1494.15,Sufficient Stock,169,Valid,May,5
+10389,2026-05-04,Pantoprazole,Tablet,ABC Pharma,13,54.53,198,2028-12-22,708.89,Sufficient Stock,963,Valid,May,5
+10491,2026-05-04,Ibuprofen,Tablet,Wellness Drugs,20,20.65,83,2026-12-09,413.0,Sufficient Stock,219,Valid,May,5
+10574,2026-05-04,Metformin,Tablet,MediCare Ltd,17,9.34,115,2027-07-07,158.78,Sufficient Stock,429,Valid,May,5
+10459,2026-05-05,ORS,Sachet,Sunrise Pharma,19,42.5,239,2027-10-26,807.5,Sufficient Stock,539,Valid,May,5
+10515,2026-05-06,Amlodipine,Tablet,MediCare Ltd,37,57.43,46,2028-09-14,2124.91,Medium Stock,862,Valid,May,5
+10730,2026-05-06,Diclofenac,Tablet,ABC Pharma,26,73.36,135,2027-05-15,1907.36,Sufficient Stock,374,Valid,May,5
+11033,2026-05-06,Antacid,Tablet,Sunrise Pharma,12,42.25,27,2028-05-17,507.0,Medium Stock,742,Valid,May,5
+10239,2026-05-06,Amoxicillin,Capsule,ABC Pharma,39,136.42,212,2027-04-23,5320.379999999999,Sufficient Stock,352,Valid,May,5
+10936,2026-05-06,Pantoprazole,Tablet,Sunrise Pharma,16,148.9,173,2028-12-23,2382.4,Sufficient Stock,962,Valid,May,5
+11126,2026-05-06,Pantoprazole,Tablet,ABC Pharma,22,121.87,118,2028-07-01,2681.1400000000003,Sufficient Stock,787,Valid,May,5
+10726,2026-05-06,Amlodipine,Tablet,ABC Pharma,16,50.57,54,2028-10-26,809.12,Medium Stock,904,Valid,May,5
+10506,2026-05-07,Cetirizine,Syrup,Sunrise Pharma,18,43.24,244,2027-11-07,778.32,Sufficient Stock,549,Valid,May,5
+11004,2026-05-07,Calcium Tablets,Tablet,HealthPlus Distributors,18,65.11,210,2028-02-13,1171.98,Sufficient Stock,647,Valid,May,5
+10418,2026-05-07,Amoxicillin,Capsule,Sunrise Pharma,31,140.82,5,2027-04-24,4365.42,Low Stock,352,Valid,May,5
+10735,2026-05-07,Antacid,Tablet,ABC Pharma,18,123.9,102,2028-02-10,2230.2000000000003,Sufficient Stock,644,Valid,May,5
+10567,2026-05-08,Ibuprofen,Tablet,Wellness Drugs,14,83.57,73,2028-12-31,1169.98,Medium Stock,968,Valid,May,5
+10352,2026-05-08,Metformin,Tablet,Sunrise Pharma,3,9.9,95,2026-12-20,29.700000000000003,Sufficient Stock,226,Valid,May,5
+10657,2026-05-08,Metformin,Tablet,MediCare Ltd,26,42.2,63,2027-11-19,1097.2,Medium Stock,560,Valid,May,5
+10347,2026-05-08,Vitamin C,Tablet,Wellness Drugs,31,147.21,229,2028-10-30,4563.51,Sufficient Stock,906,Valid,May,5
+10281,2026-05-08,Calcium Tablets,Tablet,HealthPlus Distributors,17,15.08,123,2027-08-17,256.36,Sufficient Stock,466,Valid,May,5
+10191,2026-05-08,Paracetamol,Tablet,HealthPlus Distributors,3,135.46,93,2028-10-18,406.38,Sufficient Stock,894,Valid,May,5
+10403,2026-05-08,Amoxicillin,Capsule,Wellness Drugs,20,44.4,7,2027-01-20,888.0,Low Stock,257,Valid,May,5
+10331,2026-05-08,Azithromycin,Tablet,ABC Pharma,40,129.94,69,2027-02-07,5197.6,Medium Stock,275,Valid,May,5
+10300,2026-05-09,Ibuprofen,Tablet,HealthPlus Distributors,3,127.04,41,2028-11-06,381.12,Medium Stock,912,Valid,May,5
+10285,2026-05-09,Paracetamol,Tablet,ABC Pharma,8,6.61,23,2028-04-07,52.88,Medium Stock,699,Valid,May,5
+10509,2026-05-09,Ibuprofen,Tablet,ABC Pharma,44,124.21,13,2028-07-12,5465.24,Low Stock,795,Valid,May,5
+10237,2026-05-09,Calcium Tablets,Tablet,MediCare Ltd,21,133.78,140,2028-12-31,2809.38,Sufficient Stock,967,Valid,May,5
+10116,2026-05-09,Ibuprofen,Tablet,MediCare Ltd,1,104.7,154,2028-05-03,104.7,Sufficient Stock,725,Valid,May,5
+10520,2026-05-09,Calcium Tablets,Tablet,ABC Pharma,16,127.08,16,2028-10-23,2033.28,Low Stock,898,Valid,May,5
+10194,2026-05-09,Calcium Tablets,Tablet,Wellness Drugs,32,131.85,158,2029-01-12,4219.2,Sufficient Stock,979,Valid,May,5
+10844,2026-05-09,Antacid,Tablet,Wellness Drugs,4,134.9,109,2026-11-26,539.6,Sufficient Stock,201,Valid,May,5
+10063,2026-05-10,Diclofenac,Tablet,Wellness Drugs,40,67.7,19,2027-07-30,2708.0,Low Stock,446,Valid,May,5
+10594,2026-05-10,Levocetirizine,Tablet,HealthPlus Distributors,47,79.66,215,2027-10-18,3744.02,Sufficient Stock,526,Valid,May,5
+10224,2026-05-10,Levocetirizine,Tablet,Sunrise Pharma,8,11.84,115,2028-02-03,94.72,Sufficient Stock,634,Valid,May,5
+10420,2026-05-10,Pantoprazole,Tablet,Sunrise Pharma,34,59.07,157,2027-12-30,2008.38,Sufficient Stock,599,Valid,May,5
+10234,2026-05-10,Paracetamol,Tablet,ABC Pharma,45,111.85,244,2028-09-20,5033.25,Sufficient Stock,864,Valid,May,5
+11009,2026-05-10,Cough Syrup,Syrup,Wellness Drugs,40,144.86,151,2028-08-10,5794.400000000001,Sufficient Stock,823,Valid,May,5
+11142,2026-05-10,Metformin,Tablet,ABC Pharma,47,51.04,175,2027-03-06,2398.88,Sufficient Stock,300,Valid,May,5
+11139,2026-05-10,Calcium Tablets,Tablet,HealthPlus Distributors,19,10.42,29,2028-04-02,197.98,Medium Stock,693,Valid,May,5
+10026,2026-05-10,Cetirizine,Syrup,MediCare Ltd,36,69.92,203,2027-02-23,2517.12,Sufficient Stock,289,Valid,May,5
+10240,2026-05-10,Pantoprazole,Tablet,Wellness Drugs,28,114.29,28,2027-07-02,3200.1200000000003,Medium Stock,418,Valid,May,5
+10147,2026-05-11,Calcium Tablets,Tablet,MediCare Ltd,24,105.92,71,2028-06-07,2542.08,Medium Stock,758,Valid,May,5
+11083,2026-05-11,Calcium Tablets,Tablet,Sunrise Pharma,7,61.6,5,2027-03-05,431.2,Low Stock,298,Valid,May,5
+10225,2026-05-11,Levocetirizine,Tablet,Sunrise Pharma,28,115.44,141,2027-12-12,3232.3199999999997,Sufficient Stock,580,Valid,May,5
+10739,2026-05-11,Amlodipine,Tablet,ABC Pharma,18,140.02,193,2027-09-07,2520.36,Sufficient Stock,484,Valid,May,5
+10049,2026-05-11,Azithromycin,Tablet,Sunrise Pharma,18,134.51,233,2027-05-23,2421.18,Sufficient Stock,377,Valid,May,5
+10311,2026-05-11,Cetirizine,Syrup,Wellness Drugs,30,37.74,91,2028-04-17,1132.2,Sufficient Stock,707,Valid,May,5
+10019,2026-05-11,Cetirizine,Syrup,ABC Pharma,20,111.33,112,2028-07-23,2226.6,Sufficient Stock,804,Valid,May,5
+10056,2026-05-12,Paracetamol,Tablet,ABC Pharma,27,65.28,153,2027-12-30,1762.56,Sufficient Stock,597,Valid,May,5
+10712,2026-05-12,Cetirizine,Syrup,HealthPlus Distributors,45,9.81,21,2028-01-09,441.45000000000005,Medium Stock,607,Valid,May,5
+11191,2026-05-12,Amlodipine,Tablet,Wellness Drugs,45,53.13,181,2027-04-04,2390.85,Sufficient Stock,327,Valid,May,5
+10078,2026-05-12,Calcium Tablets,Tablet,ABC Pharma,25,29.48,190,2027-12-02,737.0,Sufficient Stock,569,Valid,May,5
+10949,2026-05-12,Amlodipine,Tablet,MediCare Ltd,17,50.88,221,2027-02-26,864.96,Sufficient Stock,290,Valid,May,5
+10165,2026-05-12,Calcium Tablets,Tablet,Wellness Drugs,37,64.05,64,2027-10-09,2369.85,Medium Stock,515,Valid,May,5
+10923,2026-05-12,Calcium Tablets,Tablet,Sunrise Pharma,5,62.87,189,2029-01-15,314.34999999999997,Sufficient Stock,979,Valid,May,5
+10951,2026-05-12,Levocetirizine,Tablet,Sunrise Pharma,32,127.89,114,2028-11-27,4092.48,Sufficient Stock,930,Valid,May,5
+10921,2026-05-13,Diclofenac,Tablet,MediCare Ltd,47,46.0,218,2027-05-16,2162.0,Sufficient Stock,368,Valid,May,5
+10851,2026-05-13,Azithromycin,Tablet,Wellness Drugs,19,26.13,38,2028-05-09,496.46999999999997,Medium Stock,727,Valid,May,5
+10975,2026-05-13,Levocetirizine,Tablet,ABC Pharma,1,89.95,185,2028-02-06,89.95,Sufficient Stock,634,Valid,May,5
+10890,2026-05-13,Metformin,Tablet,MediCare Ltd,29,68.61,53,2028-12-31,1989.69,Medium Stock,963,Valid,May,5
+11109,2026-05-13,Vitamin C,Tablet,ABC Pharma,20,88.66,60,2027-03-21,1773.1999999999998,Medium Stock,312,Valid,May,5
+10681,2026-05-13,ORS,Sachet,HealthPlus Distributors,26,99.24,45,2028-05-23,2580.24,Medium Stock,741,Valid,May,5
+10080,2026-05-14,Cetirizine,Syrup,Wellness Drugs,24,132.49,112,2027-10-02,3179.76,Sufficient Stock,506,Valid,May,5
+11132,2026-05-14,Antacid,Tablet,Sunrise Pharma,47,30.11,192,2028-04-17,1415.17,Sufficient Stock,704,Valid,May,5
+10750,2026-05-14,ORS,Sachet,Wellness Drugs,2,85.2,82,2027-03-22,170.4,Sufficient Stock,312,Valid,May,5
+11094,2026-05-14,Calcium Tablets,Tablet,HealthPlus Distributors,10,131.18,162,2028-03-28,1311.8000000000002,Sufficient Stock,684,Valid,May,5
+10182,2026-05-14,Cetirizine,Syrup,HealthPlus Distributors,5,119.15,239,2026-12-27,595.75,Sufficient Stock,227,Valid,May,5
+10813,2026-05-14,Calcium Tablets,Tablet,Sunrise Pharma,49,7.81,13,2028-01-23,382.69,Low Stock,619,Valid,May,5
+10349,2026-05-15,Amlodipine,Tablet,MediCare Ltd,11,121.05,61,2028-11-28,1331.55,Medium Stock,928,Valid,May,5
+10436,2026-05-15,Metformin,Tablet,Wellness Drugs,17,46.31,247,2027-05-13,787.27,Sufficient Stock,363,Valid,May,5
+10129,2026-05-15,Diclofenac,Tablet,HealthPlus Distributors,27,37.75,203,2028-02-05,1019.25,Sufficient Stock,631,Valid,May,5
+10051,2026-05-15,Amoxicillin,Capsule,HealthPlus Distributors,39,118.53,122,2027-12-07,4622.67,Sufficient Stock,571,Valid,May,5
+10606,2026-05-15,Levocetirizine,Tablet,Sunrise Pharma,12,127.52,87,2026-09-06,1530.24,Sufficient Stock,114,Valid,May,5
+11104,2026-05-16,Antacid,Tablet,ABC Pharma,28,31.04,243,2027-09-06,869.12,Sufficient Stock,478,Valid,May,5
+10117,2026-05-16,Amlodipine,Tablet,Sunrise Pharma,1,35.98,164,2026-11-16,35.98,Sufficient Stock,184,Valid,May,5
+10794,2026-05-16,Calcium Tablets,Tablet,MediCare Ltd,13,80.63,98,2026-12-04,1048.19,Sufficient Stock,202,Valid,May,5
+10348,2026-05-16,Levocetirizine,Tablet,Sunrise Pharma,38,98.13,153,2028-02-27,3728.9399999999996,Sufficient Stock,652,Valid,May,5
+10121,2026-05-16,Vitamin C,Tablet,ABC Pharma,29,108.37,46,2028-03-08,3142.73,Medium Stock,662,Valid,May,5
+10705,2026-05-16,Cetirizine,Syrup,HealthPlus Distributors,30,123.17,120,2026-12-17,3695.1,Sufficient Stock,215,Valid,May,5
+10153,2026-05-17,Ibuprofen,Tablet,ABC Pharma,27,80.81,136,2027-09-21,2181.87,Sufficient Stock,492,Valid,May,5
+10206,2026-05-17,Paracetamol,Tablet,MediCare Ltd,28,49.53,175,2027-07-26,1386.8400000000001,Sufficient Stock,435,Valid,May,5
+10695,2026-05-17,Metformin,Tablet,Wellness Drugs,5,90.04,231,2027-04-14,450.20000000000005,Sufficient Stock,332,Valid,May,5
+11082,2026-05-17,ORS,Sachet,ABC Pharma,20,47.25,109,2028-03-17,945.0,Sufficient Stock,670,Valid,May,5
+10424,2026-05-17,Ibuprofen,Tablet,Sunrise Pharma,41,71.43,239,2027-01-21,2928.63,Sufficient Stock,249,Valid,May,5
+10507,2026-05-17,Amlodipine,Tablet,MediCare Ltd,14,34.37,195,2027-03-25,481.17999999999995,Sufficient Stock,312,Valid,May,5
+11166,2026-05-17,Ibuprofen,Tablet,HealthPlus Distributors,10,59.32,54,2027-05-18,593.2,Medium Stock,366,Valid,May,5
+11137,2026-05-18,Diclofenac,Tablet,MediCare Ltd,20,5.1,207,2028-01-04,102.0,Sufficient Stock,596,Valid,May,5
+10924,2026-05-18,Ibuprofen,Tablet,Sunrise Pharma,13,37.6,187,2027-02-14,488.8,Sufficient Stock,272,Valid,May,5
+11041,2026-05-18,Paracetamol,Tablet,HealthPlus Distributors,44,100.43,30,2027-12-21,4418.92,Medium Stock,582,Valid,May,5
+10616,2026-05-18,Cough Syrup,Syrup,ABC Pharma,32,94.16,40,2028-10-16,3013.12,Medium Stock,882,Valid,May,5
+10556,2026-05-18,Metformin,Tablet,MediCare Ltd,47,27.26,110,2028-07-27,1281.22,Sufficient Stock,801,Valid,May,5
+11127,2026-05-19,Ibuprofen,Tablet,Wellness Drugs,26,88.3,203,2027-10-16,2295.7999999999997,Sufficient Stock,515,Valid,May,5
+10119,2026-05-19,Amlodipine,Tablet,MediCare Ltd,20,26.46,219,2027-08-04,529.2,Sufficient Stock,442,Valid,May,5
+10258,2026-05-19,Levocetirizine,Tablet,MediCare Ltd,11,13.39,67,2027-11-19,147.29000000000002,Medium Stock,549,Valid,May,5
+10302,2026-05-20,Calcium Tablets,Tablet,Sunrise Pharma,42,87.35,103,2027-11-28,3668.7,Sufficient Stock,557,Valid,May,5
+10571,2026-05-20,Metformin,Tablet,ABC Pharma,3,5.7,192,2028-05-27,17.1,Sufficient Stock,738,Valid,May,5
+10508,2026-05-20,Calcium Tablets,Tablet,HealthPlus Distributors,35,29.06,114,2026-09-27,1017.0999999999999,Sufficient Stock,130,Valid,May,5
+10665,2026-05-20,Amoxicillin,Capsule,MediCare Ltd,40,80.66,60,2027-05-19,3226.3999999999996,Medium Stock,364,Valid,May,5
+11118,2026-05-20,Ibuprofen,Tablet,ABC Pharma,34,123.37,68,2027-02-10,4194.58,Medium Stock,266,Valid,May,5
+10649,2026-05-20,ORS,Sachet,MediCare Ltd,28,100.2,226,2028-03-27,2805.6,Sufficient Stock,677,Valid,May,5
+10692,2026-05-21,Ibuprofen,Tablet,MediCare Ltd,32,147.12,191,2027-09-21,4707.84,Sufficient Stock,488,Valid,May,5
+10810,2026-05-21,Ibuprofen,Tablet,HealthPlus Distributors,30,47.65,174,2027-10-06,1429.5,Sufficient Stock,503,Valid,May,5
+10590,2026-05-21,Metformin,Tablet,Wellness Drugs,28,59.32,106,2027-01-22,1660.96,Sufficient Stock,246,Valid,May,5
+10644,2026-05-21,Paracetamol,Tablet,Wellness Drugs,32,122.98,180,2028-11-27,3935.36,Sufficient Stock,921,Valid,May,5
+10729,2026-05-21,Antacid,Tablet,Sunrise Pharma,48,71.07,83,2027-06-09,3411.3599999999997,Sufficient Stock,384,Valid,May,5
+10679,2026-05-22,Levocetirizine,Tablet,ABC Pharma,41,123.51,176,2027-02-02,5063.91,Sufficient Stock,256,Valid,May,5
+10343,2026-05-22,Pantoprazole,Tablet,Sunrise Pharma,46,52.6,239,2027-07-06,2419.6,Sufficient Stock,410,Valid,May,5
+11122,2026-05-22,Amoxicillin,Capsule,Wellness Drugs,2,39.34,190,2028-08-04,78.68,Sufficient Stock,805,Valid,May,5
+10898,2026-05-22,Cetirizine,Syrup,ABC Pharma,23,67.43,13,2028-06-17,1550.89,Low Stock,757,Valid,May,5
+10150,2026-05-22,Cetirizine,Syrup,Sunrise Pharma,45,62.97,126,2028-02-04,2833.65,Sufficient Stock,623,Valid,May,5
+10444,2026-05-22,Pantoprazole,Tablet,Wellness Drugs,29,121.74,240,2027-06-10,3530.46,Sufficient Stock,384,Valid,May,5
+11151,2026-05-23,Azithromycin,Tablet,MediCare Ltd,10,88.51,101,2026-11-23,885.1,Sufficient Stock,184,Valid,May,5
+10167,2026-05-23,Cough Syrup,Syrup,MediCare Ltd,23,119.33,81,2027-01-26,2744.59,Sufficient Stock,248,Valid,May,5
+10770,2026-05-23,Amlodipine,Tablet,Wellness Drugs,44,102.02,60,2027-03-27,4488.88,Medium Stock,308,Valid,May,5
+10447,2026-05-23,Amlodipine,Tablet,ABC Pharma,1,129.97,150,2027-03-15,129.97,Sufficient Stock,296,Valid,May,5
+10259,2026-05-24,Amoxicillin,Capsule,Wellness Drugs,33,105.03,80,2027-09-12,3465.9900000000002,Medium Stock,476,Valid,May,5
+10661,2026-05-24,Amlodipine,Tablet,MediCare Ltd,19,65.63,133,2027-09-12,1246.9699999999998,Sufficient Stock,476,Valid,May,5
+10947,2026-05-24,Antacid,Tablet,Wellness Drugs,34,62.86,146,2028-09-29,2137.24,Sufficient Stock,859,Valid,May,5
+10488,2026-05-24,Amoxicillin,Capsule,Wellness Drugs,30,50.58,73,2027-04-02,1517.3999999999999,Medium Stock,313,Valid,May,5
+10294,2026-05-24,Levocetirizine,Tablet,Wellness Drugs,16,134.89,151,2028-09-06,2158.24,Sufficient Stock,836,Valid,May,5
+10543,2026-05-24,Amoxicillin,Capsule,ABC Pharma,44,37.25,35,2027-09-16,1639.0,Medium Stock,480,Valid,May,5
+10777,2026-05-24,Paracetamol,Tablet,MediCare Ltd,28,8.2,26,2028-07-30,229.59999999999997,Medium Stock,798,Valid,May,5
+10531,2026-05-24,Vitamin C,Tablet,Wellness Drugs,45,119.3,44,2027-06-20,5368.5,Medium Stock,392,Valid,May,5
+10443,2026-05-24,Amlodipine,Tablet,MediCare Ltd,44,33.16,84,2028-07-24,1459.04,Sufficient Stock,792,Valid,May,5
+10671,2026-05-24,Amlodipine,Tablet,MediCare Ltd,43,26.33,108,2027-01-04,1132.1899999999998,Sufficient Stock,225,Valid,May,5
+10689,2026-05-25,Amlodipine,Tablet,Sunrise Pharma,27,87.37,232,2029-01-11,2358.9900000000002,Sufficient Stock,962,Valid,May,5
+10804,2026-05-25,Cetirizine,Syrup,Wellness Drugs,29,58.1,55,2028-04-05,1684.9,Medium Stock,681,Valid,May,5
+10709,2026-05-25,Paracetamol,Tablet,Sunrise Pharma,29,65.82,65,2027-03-16,1908.7799999999997,Medium Stock,295,Valid,May,5
+10251,2026-05-25,Diclofenac,Tablet,MediCare Ltd,48,48.45,115,2027-05-03,2325.6000000000004,Sufficient Stock,343,Valid,May,5
+11036,2026-05-25,Paracetamol,Tablet,HealthPlus Distributors,10,95.79,209,2028-10-24,957.9000000000001,Sufficient Stock,883,Valid,May,5
+10351,2026-05-25,Levocetirizine,Tablet,Wellness Drugs,8,89.79,155,2026-10-26,718.32,Sufficient Stock,154,Valid,May,5
+10495,2026-05-25,Paracetamol,Tablet,HealthPlus Distributors,37,86.02,97,2028-06-18,3182.74,Sufficient Stock,755,Valid,May,5
+10892,2026-05-25,Amoxicillin,Capsule,MediCare Ltd,24,130.86,118,2028-03-15,3140.6400000000003,Sufficient Stock,660,Valid,May,5
+10926,2026-05-25,Azithromycin,Tablet,HealthPlus Distributors,30,124.26,103,2027-07-06,3727.8,Sufficient Stock,407,Valid,May,5
+10861,2026-05-25,Vitamin C,Tablet,ABC Pharma,4,9.49,186,2027-12-06,37.96,Sufficient Stock,560,Valid,May,5
+10684,2026-05-26,Vitamin C,Tablet,Wellness Drugs,20,50.37,46,2028-08-09,1007.4,Medium Stock,806,Valid,May,5
+10829,2026-05-26,Amlodipine,Tablet,Wellness Drugs,45,91.32,131,2027-10-13,4109.4,Sufficient Stock,505,Valid,May,5
+10330,2026-05-26,Antacid,Tablet,Wellness Drugs,13,94.44,237,2027-02-10,1227.72,Sufficient Stock,260,Valid,May,5
+11044,2026-05-26,Vitamin C,Tablet,Wellness Drugs,22,21.92,40,2028-12-09,482.24,Medium Stock,928,Valid,May,5
+10766,2026-05-26,Diclofenac,Tablet,MediCare Ltd,24,39.79,213,2027-08-09,954.96,Sufficient Stock,440,Valid,May,5
+11195,2026-05-26,Vitamin C,Tablet,Sunrise Pharma,32,85.75,86,2028-05-20,2744.0,Sufficient Stock,725,Valid,May,5
+10086,2026-05-26,Ibuprofen,Tablet,Wellness Drugs,36,38.99,127,2028-03-08,1403.64,Sufficient Stock,652,Valid,May,5
+10651,2026-05-27,Ibuprofen,Tablet,Sunrise Pharma,41,61.56,76,2027-12-27,2523.96,Medium Stock,579,Valid,May,5
+10763,2026-05-27,Amlodipine,Tablet,HealthPlus Distributors,39,122.57,95,2027-03-28,4780.23,Sufficient Stock,305,Valid,May,5
+10557,2026-05-27,Paracetamol,Tablet,Sunrise Pharma,10,6.51,123,2027-09-01,65.1,Sufficient Stock,462,Valid,May,5
+10308,2026-05-27,Paracetamol,Tablet,Wellness Drugs,24,121.39,42,2028-07-17,2913.36,Medium Stock,782,Valid,May,5
+10494,2026-05-27,ORS,Sachet,ABC Pharma,12,27.97,6,2027-07-05,335.64,Low Stock,404,Valid,May,5
+10274,2026-05-27,Metformin,Tablet,Wellness Drugs,45,90.1,49,2026-10-08,4054.4999999999995,Medium Stock,134,Valid,May,5
+10271,2026-05-27,Metformin,Tablet,MediCare Ltd,47,30.26,242,2028-12-30,1422.22,Sufficient Stock,948,Valid,May,5
+10964,2026-05-27,Diclofenac,Tablet,Wellness Drugs,25,33.13,133,2028-08-27,828.2500000000001,Sufficient Stock,823,Valid,May,5
+10238,2026-05-27,Amoxicillin,Capsule,MediCare Ltd,11,113.0,10,2028-06-21,1243.0,Low Stock,756,Valid,May,5
+10377,2026-05-27,ORS,Sachet,Wellness Drugs,3,126.05,116,2026-09-15,378.15,Sufficient Stock,111,Valid,May,5
+10732,2026-05-28,Cetirizine,Syrup,Sunrise Pharma,11,34.74,51,2028-03-26,382.14000000000004,Medium Stock,668,Valid,May,5
+10275,2026-05-28,ORS,Sachet,ABC Pharma,35,41.17,176,2028-11-08,1440.95,Sufficient Stock,895,Valid,May,5
+10346,2026-05-28,Paracetamol,Tablet,ABC Pharma,30,149.35,211,2027-01-17,4480.5,Sufficient Stock,234,Valid,May,5
+10268,2026-05-28,Amlodipine,Tablet,HealthPlus Distributors,18,96.18,235,2028-08-11,1731.2400000000002,Sufficient Stock,806,Valid,May,5
+10312,2026-05-28,Diclofenac,Tablet,MediCare Ltd,47,7.97,58,2028-11-10,374.59,Medium Stock,897,Valid,May,5
+10758,2026-05-29,Antacid,Tablet,ABC Pharma,36,13.37,196,2028-12-14,481.32,Sufficient Stock,930,Valid,May,5
+10845,2026-05-29,Antacid,Tablet,Sunrise Pharma,5,14.45,187,2027-04-04,72.25,Sufficient Stock,310,Valid,May,5
+10972,2026-05-29,Levocetirizine,Tablet,HealthPlus Distributors,32,127.34,133,2028-07-23,4074.88,Sufficient Stock,786,Valid,May,5
+10020,2026-05-30,Metformin,Tablet,Sunrise Pharma,18,4.03,16,2027-01-08,72.54,Low Stock,223,Valid,May,5
+11173,2026-05-30,Pantoprazole,Tablet,ABC Pharma,34,98.02,153,2027-10-25,3332.68,Sufficient Stock,513,Valid,May,5
+10460,2026-05-30,Diclofenac,Tablet,Sunrise Pharma,49,74.2,43,2028-12-13,3635.8,Medium Stock,928,Valid,May,5
+11068,2026-05-30,Cough Syrup,Syrup,Sunrise Pharma,5,59.53,161,2027-02-27,297.65,Sufficient Stock,273,Valid,May,5
+10627,2026-05-31,Cetirizine,Syrup,Wellness Drugs,3,57.13,85,2027-10-09,171.39000000000001,Sufficient Stock,496,Valid,May,5
+10166,2026-05-31,Azithromycin,Tablet,MediCare Ltd,35,4.68,82,2028-12-17,163.79999999999998,Sufficient Stock,931,Valid,May,5
+10289,2026-05-31,Amoxicillin,Capsule,Sunrise Pharma,5,38.02,224,2028-09-14,190.10000000000002,Sufficient Stock,837,Valid,May,5
+10670,2026-05-31,ORS,Sachet,Sunrise Pharma,11,66.21,241,2026-11-30,728.31,Sufficient Stock,183,Valid,May,5
+11019,2026-05-31,Cough Syrup,Syrup,Sunrise Pharma,33,137.76,36,2028-06-02,4546.08,Medium Stock,733,Valid,May,5
+10136,2026-05-31,Paracetamol,Tablet,MediCare Ltd,34,10.54,96,2026-11-09,358.35999999999996,Sufficient Stock,162,Valid,May,5
+11136,2026-05-31,Diclofenac,Tablet,Sunrise Pharma,41,136.88,229,2027-01-03,5612.08,Sufficient Stock,217,Valid,May,5
+10895,2026-05-31,Diclofenac,Tablet,ABC Pharma,3,113.37,153,2027-07-28,340.11,Sufficient Stock,423,Valid,May,5
+10941,2026-05-31,Paracetamol,Tablet,ABC Pharma,49,99.59,162,2027-10-24,4879.91,Sufficient Stock,511,Valid,May,5
+10416,2026-05-31,Vitamin C,Tablet,Wellness Drugs,18,122.91,39,2028-01-08,2212.38,Medium Stock,587,Valid,May,5
+10626,2026-06-01,Paracetamol,Tablet,Wellness Drugs,40,29.49,187,2028-07-21,1179.6,Sufficient Stock,781,Valid,June,6
+10786,2026-06-01,Cough Syrup,Syrup,Sunrise Pharma,48,34.63,21,2028-08-24,1662.2400000000002,Medium Stock,815,Valid,June,6
+11152,2026-06-01,Ibuprofen,Tablet,ABC Pharma,9,145.46,149,2026-10-18,1309.14,Sufficient Stock,139,Valid,June,6
+10619,2026-06-01,Cough Syrup,Syrup,Wellness Drugs,33,52.32,156,2027-04-18,1726.56,Sufficient Stock,321,Valid,June,6
+10211,2026-06-01,Calcium Tablets,Tablet,Wellness Drugs,34,56.7,47,2027-07-03,1927.8000000000002,Medium Stock,397,Valid,June,6
+10433,2026-06-01,Azithromycin,Tablet,Sunrise Pharma,32,43.2,29,2027-06-26,1382.4,Medium Stock,390,Valid,June,6
+10317,2026-06-01,Amoxicillin,Capsule,HealthPlus Distributors,49,117.99,167,2028-10-04,5781.509999999999,Sufficient Stock,856,Valid,June,6
+11087,2026-06-01,Azithromycin,Tablet,MediCare Ltd,23,21.72,228,2028-09-06,499.55999999999995,Sufficient Stock,828,Valid,June,6
+10570,2026-06-01,Vitamin C,Tablet,ABC Pharma,25,25.78,63,2028-01-15,644.5,Medium Stock,593,Valid,June,6
+10313,2026-06-01,Cetirizine,Syrup,HealthPlus Distributors,35,62.86,154,2027-11-08,2200.1,Sufficient Stock,525,Valid,June,6
+11080,2026-06-01,Levocetirizine,Tablet,ABC Pharma,33,122.25,47,2027-10-30,4034.25,Medium Stock,516,Valid,June,6
+10018,2026-06-01,Amlodipine,Tablet,Wellness Drugs,47,131.87,70,2027-12-23,6197.89,Medium Stock,570,Valid,June,6
+10432,2026-06-02,ORS,Sachet,MediCare Ltd,18,67.08,215,2027-10-13,1207.44,Sufficient Stock,498,Valid,June,6
+10818,2026-06-02,Diclofenac,Tablet,HealthPlus Distributors,17,60.48,218,2027-05-12,1028.1599999999999,Sufficient Stock,344,Valid,June,6
+10745,2026-06-02,Amlodipine,Tablet,ABC Pharma,34,72.39,5,2027-10-28,2461.26,Low Stock,513,Valid,June,6
+10455,2026-06-02,Azithromycin,Tablet,Sunrise Pharma,36,87.94,74,2028-03-22,3165.84,Medium Stock,659,Valid,June,6
+10328,2026-06-02,Metformin,Tablet,Wellness Drugs,15,93.69,89,2027-03-04,1405.35,Sufficient Stock,275,Valid,June,6
+10530,2026-06-03,Metformin,Tablet,Sunrise Pharma,45,130.86,107,2027-11-19,5888.700000000001,Sufficient Stock,534,Valid,June,6
+10880,2026-06-03,Metformin,Tablet,Sunrise Pharma,35,83.38,75,2027-10-22,2918.2999999999997,Medium Stock,506,Valid,June,6
+10600,2026-06-03,Cetirizine,Syrup,HealthPlus Distributors,7,100.84,183,2029-01-14,705.88,Sufficient Stock,956,Valid,June,6
+11011,2026-06-03,Antacid,Tablet,MediCare Ltd,33,133.78,14,2028-06-17,4414.74,Low Stock,745,Valid,June,6
+11189,2026-06-03,Cetirizine,Syrup,HealthPlus Distributors,36,131.04,77,2027-08-23,4717.44,Medium Stock,446,Valid,June,6
+10104,2026-06-03,Levocetirizine,Tablet,MediCare Ltd,48,76.46,99,2027-06-30,3670.08,Sufficient Stock,392,Valid,June,6
+11111,2026-06-03,Metformin,Tablet,HealthPlus Distributors,49,14.73,45,2026-09-20,721.77,Medium Stock,109,Valid,June,6
+10983,2026-06-04,Cough Syrup,Syrup,HealthPlus Distributors,9,104.47,84,2028-02-28,940.23,Sufficient Stock,634,Valid,June,6
+10802,2026-06-04,Vitamin C,Tablet,Sunrise Pharma,32,127.01,196,2026-11-20,4064.32,Sufficient Stock,169,Valid,June,6
+10419,2026-06-04,Antacid,Tablet,ABC Pharma,14,14.6,232,2027-04-06,204.4,Sufficient Stock,306,Valid,June,6
+10205,2026-06-04,Cough Syrup,Syrup,HealthPlus Distributors,1,84.74,201,2026-11-19,84.74,Sufficient Stock,168,Valid,June,6
+10957,2026-06-04,Calcium Tablets,Tablet,HealthPlus Distributors,47,117.37,151,2026-12-15,5516.39,Sufficient Stock,194,Valid,June,6
+10787,2026-06-05,Diclofenac,Tablet,Sunrise Pharma,27,133.15,84,2027-11-06,3595.05,Sufficient Stock,519,Valid,June,6
+10108,2026-06-06,Calcium Tablets,Tablet,ABC Pharma,24,126.01,228,2027-06-02,3024.2400000000002,Sufficient Stock,361,Valid,June,6
+10809,2026-06-06,ORS,Sachet,MediCare Ltd,20,78.09,201,2028-12-16,1561.8000000000002,Sufficient Stock,924,Valid,June,6
+10611,2026-06-06,Antacid,Tablet,Wellness Drugs,13,43.68,209,2028-01-19,567.84,Sufficient Stock,592,Valid,June,6
+10493,2026-06-07,ORS,Sachet,Sunrise Pharma,19,142.81,115,2028-03-25,2713.39,Sufficient Stock,657,Valid,June,6
+10024,2026-06-07,Cetirizine,Syrup,MediCare Ltd,30,38.64,94,2027-05-30,1159.2,Sufficient Stock,357,Valid,June,6
+10384,2026-06-07,Pantoprazole,Tablet,Wellness Drugs,39,86.75,121,2027-10-01,3383.25,Sufficient Stock,481,Valid,June,6
+10360,2026-06-07,Amoxicillin,Capsule,MediCare Ltd,38,104.25,183,2027-05-16,3961.5,Sufficient Stock,343,Valid,June,6
+10715,2026-06-08,Amlodipine,Tablet,HealthPlus Distributors,33,35.53,120,2028-12-26,1172.49,Sufficient Stock,932,Valid,June,6
+10290,2026-06-08,Cetirizine,Syrup,MediCare Ltd,13,84.49,96,2028-11-01,1098.37,Sufficient Stock,877,Valid,June,6
+10771,2026-06-08,Amlodipine,Tablet,Sunrise Pharma,9,99.41,98,2028-06-01,894.6899999999999,Sufficient Stock,724,Valid,June,6
+10172,2026-06-09,Metformin,Tablet,ABC Pharma,49,103.92,106,2027-12-15,5092.08,Sufficient Stock,554,Valid,June,6
+10305,2026-06-09,Metformin,Tablet,Sunrise Pharma,12,149.84,231,2027-03-31,1798.08,Sufficient Stock,295,Valid,June,6
+10400,2026-06-09,Pantoprazole,Tablet,ABC Pharma,10,133.14,146,2027-10-20,1331.3999999999999,Sufficient Stock,498,Valid,June,6
+10215,2026-06-09,Metformin,Tablet,HealthPlus Distributors,35,106.9,63,2028-06-12,3741.5,Medium Stock,734,Valid,June,6
+10243,2026-06-09,Amoxicillin,Capsule,MediCare Ltd,20,133.59,98,2026-09-19,2671.8,Sufficient Stock,102,Valid,June,6
+10754,2026-06-09,Pantoprazole,Tablet,Wellness Drugs,42,19.22,86,2027-03-14,807.24,Sufficient Stock,278,Valid,June,6
+10959,2026-06-09,Levocetirizine,Tablet,Sunrise Pharma,21,123.12,176,2028-12-12,2585.52,Sufficient Stock,917,Valid,June,6
+10245,2026-06-09,Pantoprazole,Tablet,Wellness Drugs,46,95.59,17,2029-01-01,4397.14,Low Stock,937,Valid,June,6
+10568,2026-06-09,ORS,Sachet,MediCare Ltd,10,66.85,215,2026-12-22,668.5,Sufficient Stock,196,Valid,June,6
+10423,2026-06-10,Cetirizine,Syrup,Sunrise Pharma,11,35.95,130,2028-05-26,395.45000000000005,Sufficient Stock,716,Valid,June,6
+10576,2026-06-10,Amlodipine,Tablet,ABC Pharma,24,18.52,148,2028-12-01,444.48,Sufficient Stock,905,Valid,June,6
+10584,2026-06-10,Paracetamol,Tablet,MediCare Ltd,20,20.57,187,2026-11-22,411.4,Sufficient Stock,165,Valid,June,6
+11131,2026-06-10,Cetirizine,Syrup,Sunrise Pharma,29,70.99,219,2027-12-29,2058.71,Sufficient Stock,567,Valid,June,6
+10840,2026-06-10,Vitamin C,Tablet,Wellness Drugs,34,25.71,36,2028-07-08,874.14,Medium Stock,759,Valid,June,6
+10279,2026-06-10,Pantoprazole,Tablet,Wellness Drugs,45,114.61,55,2028-12-02,5157.45,Medium Stock,906,Valid,June,6
+10401,2026-06-10,ORS,Sachet,MediCare Ltd,36,31.1,70,2027-08-20,1119.6000000000001,Medium Stock,436,Valid,June,6
+10340,2026-06-10,Cetirizine,Syrup,Sunrise Pharma,23,90.33,100,2027-06-01,2077.59,Sufficient Stock,356,Valid,June,6
+10747,2026-06-10,Calcium Tablets,Tablet,Wellness Drugs,43,25.86,194,2027-09-22,1111.98,Sufficient Stock,469,Valid,June,6
+10316,2026-06-10,Antacid,Tablet,MediCare Ltd,26,55.34,244,2028-05-13,1438.8400000000001,Sufficient Stock,703,Valid,June,6
+10030,2026-06-10,Calcium Tablets,Tablet,ABC Pharma,47,14.01,94,2026-10-18,658.47,Sufficient Stock,130,Valid,June,6
+10806,2026-06-10,Metformin,Tablet,HealthPlus Distributors,49,39.17,169,2027-12-22,1919.3300000000002,Sufficient Stock,560,Valid,June,6
+10133,2026-06-11,Pantoprazole,Tablet,Sunrise Pharma,38,78.85,135,2028-09-02,2996.2999999999997,Sufficient Stock,814,Valid,June,6
+11167,2026-06-11,Amoxicillin,Capsule,Sunrise Pharma,15,99.63,116,2028-10-04,1494.4499999999998,Sufficient Stock,846,Valid,June,6
+10881,2026-06-11,Diclofenac,Tablet,MediCare Ltd,37,9.48,150,2028-03-08,350.76,Sufficient Stock,636,Valid,June,6
+10088,2026-06-11,ORS,Sachet,MediCare Ltd,45,81.26,200,2028-04-11,3656.7000000000003,Sufficient Stock,670,Valid,June,6
+10603,2026-06-11,Levocetirizine,Tablet,ABC Pharma,25,92.5,224,2026-09-18,2312.5,Sufficient Stock,99,Valid,June,6
+10573,2026-06-12,Antacid,Tablet,MediCare Ltd,38,37.15,130,2028-04-09,1411.7,Sufficient Stock,667,Valid,June,6
+10682,2026-06-12,Amoxicillin,Capsule,HealthPlus Distributors,49,134.96,127,2028-10-27,6613.04,Sufficient Stock,868,Valid,June,6
+10336,2026-06-12,Cough Syrup,Syrup,Sunrise Pharma,36,67.46,91,2026-10-11,2428.56,Sufficient Stock,121,Valid,June,6
+10122,2026-06-12,Paracetamol,Tablet,ABC Pharma,10,110.4,57,2028-01-21,1104.0,Medium Stock,588,Valid,June,6
+11154,2026-06-12,Antacid,Tablet,Wellness Drugs,32,11.18,233,2028-12-15,357.76,Sufficient Stock,917,Valid,June,6
+10123,2026-06-12,Antacid,Tablet,ABC Pharma,18,78.21,228,2027-04-25,1407.78,Sufficient Stock,317,Valid,June,6
+10613,2026-06-13,Amlodipine,Tablet,MediCare Ltd,36,3.52,159,2028-08-05,126.72,Sufficient Stock,784,Valid,June,6
+10075,2026-06-13,Diclofenac,Tablet,HealthPlus Distributors,21,25.6,240,2027-11-09,537.6,Sufficient Stock,514,Valid,June,6
+10615,2026-06-13,Calcium Tablets,Tablet,Sunrise Pharma,9,106.52,38,2026-10-24,958.68,Medium Stock,133,Valid,June,6
+10322,2026-06-13,Azithromycin,Tablet,HealthPlus Distributors,3,4.13,240,2027-07-05,12.39,Sufficient Stock,387,Valid,June,6
+10762,2026-06-13,Amoxicillin,Capsule,Wellness Drugs,43,125.38,140,2028-10-18,5391.34,Sufficient Stock,858,Valid,June,6
+10792,2026-06-13,Vitamin C,Tablet,Wellness Drugs,3,61.68,171,2027-09-13,185.04,Sufficient Stock,457,Valid,June,6
+10270,2026-06-13,Cough Syrup,Syrup,HealthPlus Distributors,47,41.89,30,2026-11-08,1968.83,Medium Stock,148,Valid,June,6
+10857,2026-06-14,Paracetamol,Tablet,ABC Pharma,40,36.26,117,2027-09-14,1450.3999999999999,Sufficient Stock,457,Valid,June,6
+10208,2026-06-14,Pantoprazole,Tablet,MediCare Ltd,35,53.88,22,2028-10-12,1885.8000000000002,Medium Stock,851,Valid,June,6
+11184,2026-06-14,Amoxicillin,Capsule,HealthPlus Distributors,9,110.69,216,2027-02-01,996.21,Sufficient Stock,232,Valid,June,6
+10702,2026-06-14,Diclofenac,Tablet,ABC Pharma,46,86.06,179,2026-10-24,3958.76,Sufficient Stock,132,Valid,June,6
+10903,2026-06-15,Metformin,Tablet,ABC Pharma,41,86.66,188,2026-09-03,3553.06,Sufficient Stock,80,Expiring Soon,June,6
+10703,2026-06-15,ORS,Sachet,Sunrise Pharma,13,45.86,194,2027-11-09,596.18,Sufficient Stock,512,Valid,June,6
+10915,2026-06-15,Cetirizine,Syrup,ABC Pharma,47,105.18,117,2027-06-03,4943.46,Sufficient Stock,353,Valid,June,6
+10748,2026-06-15,Pantoprazole,Tablet,ABC Pharma,43,99.15,83,2028-08-08,4263.45,Sufficient Stock,785,Valid,June,6
+10323,2026-06-15,ORS,Sachet,MediCare Ltd,1,115.12,187,2027-08-08,115.12,Sufficient Stock,419,Valid,June,6
+10720,2026-06-16,Azithromycin,Tablet,MediCare Ltd,11,123.89,246,2028-01-16,1362.79,Sufficient Stock,579,Valid,June,6
+10737,2026-06-16,Cough Syrup,Syrup,Wellness Drugs,23,69.95,236,2027-10-27,1608.8500000000001,Sufficient Stock,498,Valid,June,6
+10054,2026-06-16,ORS,Sachet,MediCare Ltd,20,38.76,171,2027-03-18,775.1999999999999,Sufficient Stock,275,Valid,June,6
+10678,2026-06-16,Diclofenac,Tablet,Wellness Drugs,31,139.87,203,2026-09-24,4335.97,Sufficient Stock,100,Valid,June,6
+11050,2026-06-17,Vitamin C,Tablet,ABC Pharma,16,61.5,73,2027-06-26,984.0,Medium Stock,374,Valid,June,6
+10280,2026-06-17,Cough Syrup,Syrup,MediCare Ltd,17,29.78,175,2028-09-24,506.26,Sufficient Stock,830,Valid,June,6
+10693,2026-06-17,Pantoprazole,Tablet,Wellness Drugs,21,33.77,131,2027-10-30,709.1700000000001,Sufficient Stock,500,Valid,June,6
+10585,2026-06-17,Diclofenac,Tablet,Wellness Drugs,28,116.37,39,2027-03-25,3258.36,Medium Stock,281,Valid,June,6
+10486,2026-06-17,Levocetirizine,Tablet,MediCare Ltd,47,129.25,125,2028-11-11,6074.75,Sufficient Stock,878,Valid,June,6
+11141,2026-06-17,Paracetamol,Tablet,ABC Pharma,35,105.91,180,2027-05-15,3706.85,Sufficient Stock,332,Valid,June,6
+10339,2026-06-18,Antacid,Tablet,Wellness Drugs,40,35.87,155,2029-01-08,1434.8,Sufficient Stock,935,Valid,June,6
+11054,2026-06-18,Calcium Tablets,Tablet,HealthPlus Distributors,8,2.0,126,2026-09-15,16.0,Sufficient Stock,89,Expiring Soon,June,6
+10428,2026-06-19,Diclofenac,Tablet,Wellness Drugs,31,23.8,230,2028-05-07,737.8000000000001,Sufficient Stock,688,Valid,June,6
+10178,2026-06-19,ORS,Sachet,Sunrise Pharma,32,123.57,233,2028-10-16,3954.24,Sufficient Stock,850,Valid,June,6
+10694,2026-06-19,Calcium Tablets,Tablet,Wellness Drugs,46,11.95,213,2027-06-03,549.6999999999999,Sufficient Stock,349,Valid,June,6
+10969,2026-06-19,Vitamin C,Tablet,ABC Pharma,2,20.64,169,2026-09-12,41.28,Sufficient Stock,85,Expiring Soon,June,6
+10037,2026-06-19,ORS,Sachet,ABC Pharma,15,31.64,204,2028-05-21,474.6,Sufficient Stock,702,Valid,June,6
+10466,2026-06-19,Ibuprofen,Tablet,Wellness Drugs,23,63.95,22,2027-03-18,1470.8500000000001,Medium Stock,272,Valid,June,6
+10168,2026-06-20,Vitamin C,Tablet,Sunrise Pharma,6,12.22,249,2027-05-24,73.32000000000001,Sufficient Stock,338,Valid,June,6
+10579,2026-06-20,Diclofenac,Tablet,ABC Pharma,25,27.68,109,2026-10-13,692.0,Sufficient Stock,115,Valid,June,6
+10242,2026-06-21,Paracetamol,Tablet,ABC Pharma,17,98.81,235,2028-07-09,1679.77,Sufficient Stock,749,Valid,June,6
+10140,2026-06-21,Vitamin C,Tablet,Wellness Drugs,1,144.06,10,2028-10-12,144.06,Low Stock,844,Valid,June,6
+10069,2026-06-21,Amlodipine,Tablet,HealthPlus Distributors,43,139.21,186,2027-02-07,5986.030000000001,Sufficient Stock,231,Valid,June,6
+10383,2026-06-21,Cough Syrup,Syrup,MediCare Ltd,39,24.75,105,2028-10-21,965.25,Sufficient Stock,853,Valid,June,6
+10210,2026-06-21,Antacid,Tablet,ABC Pharma,47,12.17,145,2028-05-28,571.99,Sufficient Stock,707,Valid,June,6
+11138,2026-06-21,Pantoprazole,Tablet,MediCare Ltd,44,48.73,78,2028-01-21,2144.12,Medium Stock,579,Valid,June,6
+11107,2026-06-22,Diclofenac,Tablet,ABC Pharma,18,17.99,196,2029-01-16,323.82,Sufficient Stock,939,Valid,June,6
+10439,2026-06-22,Pantoprazole,Tablet,MediCare Ltd,8,39.96,46,2028-02-02,319.68,Medium Stock,590,Valid,June,6
+10728,2026-06-22,ORS,Sachet,MediCare Ltd,35,14.53,12,2026-09-16,508.54999999999995,Low Stock,86,Expiring Soon,June,6
+10753,2026-06-22,Amoxicillin,Capsule,HealthPlus Distributors,13,63.81,102,2027-06-11,829.53,Sufficient Stock,354,Valid,June,6
+10868,2026-06-22,Amoxicillin,Capsule,MediCare Ltd,8,118.53,174,2028-11-16,948.24,Sufficient Stock,878,Valid,June,6
+10755,2026-06-22,Ibuprofen,Tablet,HealthPlus Distributors,8,92.69,203,2027-07-03,741.52,Sufficient Stock,376,Valid,June,6
+10691,2026-06-23,Ibuprofen,Tablet,HealthPlus Distributors,15,19.57,237,2027-04-24,293.55,Sufficient Stock,305,Valid,June,6
+10410,2026-06-23,Diclofenac,Tablet,HealthPlus Distributors,22,70.82,196,2028-05-11,1558.04,Sufficient Stock,688,Valid,June,6
+10071,2026-06-24,Diclofenac,Tablet,MediCare Ltd,45,115.14,7,2026-12-29,5181.3,Low Stock,188,Valid,June,6
+10043,2026-06-24,Diclofenac,Tablet,Wellness Drugs,10,56.92,99,2027-03-07,569.2,Sufficient Stock,256,Valid,June,6
+10414,2026-06-24,Antacid,Tablet,Wellness Drugs,23,11.92,92,2027-04-08,274.16,Sufficient Stock,288,Valid,June,6
+10145,2026-06-24,Cough Syrup,Syrup,ABC Pharma,5,82.05,97,2027-08-22,410.25,Sufficient Stock,424,Valid,June,6
+10426,2026-06-25,Cetirizine,Syrup,Sunrise Pharma,49,16.94,93,2027-05-12,830.0600000000001,Sufficient Stock,321,Valid,June,6
+10544,2026-06-25,ORS,Sachet,Wellness Drugs,21,136.45,182,2027-04-26,2865.45,Sufficient Stock,305,Valid,June,6
+10354,2026-06-25,Amoxicillin,Capsule,MediCare Ltd,13,101.87,176,2027-10-14,1324.31,Sufficient Stock,476,Valid,June,6
+10830,2026-06-26,Calcium Tablets,Tablet,HealthPlus Distributors,20,99.61,101,2027-10-16,1992.2,Sufficient Stock,477,Valid,June,6
+10980,2026-06-26,Antacid,Tablet,ABC Pharma,34,42.84,58,2027-08-01,1456.5600000000002,Medium Stock,401,Valid,June,6
+10647,2026-06-26,Azithromycin,Tablet,Wellness Drugs,15,3.02,188,2028-07-08,45.3,Sufficient Stock,743,Valid,June,6
+10838,2026-06-26,Levocetirizine,Tablet,Sunrise Pharma,17,82.88,175,2028-11-23,1408.96,Sufficient Stock,881,Valid,June,6
+10621,2026-06-26,Metformin,Tablet,Sunrise Pharma,25,67.53,219,2027-09-28,1688.25,Sufficient Stock,459,Valid,June,6
+11161,2026-06-27,Paracetamol,Tablet,ABC Pharma,4,54.5,141,2027-04-17,218.0,Sufficient Stock,294,Valid,June,6
+11133,2026-06-27,Vitamin C,Tablet,Sunrise Pharma,38,105.86,26,2028-08-02,4022.68,Medium Stock,767,Valid,June,6
+10288,2026-06-27,Amlodipine,Tablet,HealthPlus Distributors,3,132.12,187,2028-02-25,396.36,Sufficient Stock,608,Valid,June,6
+10696,2026-06-27,Paracetamol,Tablet,MediCare Ltd,6,111.35,180,2028-09-13,668.0999999999999,Sufficient Stock,809,Valid,June,6
+10572,2026-06-27,Metformin,Tablet,ABC Pharma,47,68.46,215,2028-11-24,3217.62,Sufficient Stock,881,Valid,June,6
+10797,2026-06-27,Antacid,Tablet,Sunrise Pharma,36,110.26,235,2027-01-23,3969.36,Sufficient Stock,210,Valid,June,6
+10960,2026-06-27,Amoxicillin,Capsule,ABC Pharma,37,7.94,230,2027-04-14,293.78000000000003,Sufficient Stock,291,Valid,June,6
+10912,2026-06-28,Pantoprazole,Tablet,MediCare Ltd,20,10.39,69,2028-08-30,207.8,Medium Stock,794,Valid,June,6
+11106,2026-06-28,Cough Syrup,Syrup,Wellness Drugs,5,144.6,55,2026-12-05,723.0,Medium Stock,160,Valid,June,6
+11098,2026-06-28,Levocetirizine,Tablet,Wellness Drugs,29,29.62,192,2027-02-25,858.98,Sufficient Stock,242,Valid,June,6
+10901,2026-06-28,Metformin,Tablet,HealthPlus Distributors,5,80.43,46,2027-09-10,402.15000000000003,Medium Stock,439,Valid,June,6
+10578,2026-06-28,Azithromycin,Tablet,Sunrise Pharma,43,43.6,220,2029-01-09,1874.8,Sufficient Stock,926,Valid,June,6
+10160,2026-06-28,Cough Syrup,Syrup,HealthPlus Distributors,30,32.53,20,2027-05-28,975.9000000000001,Low Stock,334,Valid,June,6
+10532,2026-06-28,Ibuprofen,Tablet,Sunrise Pharma,34,94.84,68,2027-01-27,3224.56,Medium Stock,213,Valid,June,6
+10465,2026-06-29,Amoxicillin,Capsule,MediCare Ltd,17,10.43,248,2026-12-13,177.31,Sufficient Stock,167,Valid,June,6
+10217,2026-06-29,Diclofenac,Tablet,MediCare Ltd,40,34.21,67,2026-09-01,1368.4,Medium Stock,64,Expiring Soon,June,6
+10555,2026-06-29,Vitamin C,Tablet,Wellness Drugs,44,124.48,224,2026-11-18,5477.12,Sufficient Stock,142,Valid,June,6
+10002,2026-06-29,Diclofenac,Tablet,Wellness Drugs,33,66.17,35,2027-05-22,2183.61,Medium Stock,327,Valid,June,6
+11001,2026-06-29,Levocetirizine,Tablet,ABC Pharma,32,40.27,50,2028-11-16,1288.64,Medium Stock,871,Valid,June,6
+11057,2026-06-29,Metformin,Tablet,HealthPlus Distributors,12,39.66,91,2027-02-09,475.91999999999996,Sufficient Stock,225,Valid,June,6
+10667,2026-06-29,Metformin,Tablet,Wellness Drugs,47,74.94,39,2026-11-09,3522.18,Medium Stock,133,Valid,June,6
+10394,2026-06-30,Vitamin C,Tablet,MediCare Ltd,22,91.81,138,2028-06-15,2019.8200000000002,Sufficient Stock,716,Valid,June,6
+11067,2026-06-30,Pantoprazole,Tablet,HealthPlus Distributors,14,91.86,91,2026-11-30,1286.04,Sufficient Stock,153,Valid,June,6
+10675,2026-06-30,Pantoprazole,Tablet,ABC Pharma,38,52.91,223,2027-09-06,2010.58,Sufficient Stock,433,Valid,June,6
+10854,2026-06-30,Amoxicillin,Capsule,MediCare Ltd,47,125.57,110,2027-02-24,5901.79,Sufficient Stock,239,Valid,June,6
+10882,2026-07-01,ORS,Sachet,Sunrise Pharma,1,65.07,110,2028-10-21,65.07,Sufficient Stock,843,Valid,July,7
+10719,2026-07-01,Cough Syrup,Syrup,Sunrise Pharma,13,55.16,210,2027-03-29,717.0799999999999,Sufficient Stock,271,Valid,July,7
+10364,2026-07-01,Cough Syrup,Syrup,HealthPlus Distributors,17,25.12,180,2027-05-07,427.04,Sufficient Stock,310,Valid,July,7
+10942,2026-07-02,Cough Syrup,Syrup,Sunrise Pharma,16,87.52,116,2028-09-12,1400.32,Sufficient Stock,803,Valid,July,7
+10632,2026-07-02,Amoxicillin,Capsule,Sunrise Pharma,34,90.09,131,2026-11-16,3063.06,Sufficient Stock,137,Valid,July,7
+10501,2026-07-02,Paracetamol,Tablet,Wellness Drugs,28,57.08,193,2028-10-10,1598.24,Sufficient Stock,831,Valid,July,7
+10247,2026-07-02,Calcium Tablets,Tablet,MediCare Ltd,6,72.14,29,2027-01-06,432.84000000000003,Medium Stock,188,Valid,July,7
+10925,2026-07-03,ORS,Sachet,MediCare Ltd,23,101.51,64,2028-07-18,2334.73,Medium Stock,746,Valid,July,7
+10229,2026-07-03,Diclofenac,Tablet,MediCare Ltd,36,120.84,224,2028-11-11,4350.24,Sufficient Stock,862,Valid,July,7
+11061,2026-07-03,ORS,Sachet,Wellness Drugs,12,143.73,82,2027-08-15,1724.7599999999998,Sufficient Stock,408,Valid,July,7
+10952,2026-07-03,Cough Syrup,Syrup,MediCare Ltd,10,31.83,188,2027-08-13,318.29999999999995,Sufficient Stock,406,Valid,July,7
+10249,2026-07-03,Paracetamol,Tablet,Sunrise Pharma,19,42.1,122,2027-10-26,799.9,Sufficient Stock,480,Valid,July,7
+10181,2026-07-04,ORS,Sachet,Sunrise Pharma,4,51.38,14,2027-08-29,205.52,Low Stock,421,Valid,July,7
+11030,2026-07-04,Vitamin C,Tablet,ABC Pharma,48,142.0,138,2026-10-21,6816.0,Sufficient Stock,109,Valid,July,7
+10778,2026-07-04,Pantoprazole,Tablet,Sunrise Pharma,42,64.04,39,2027-10-23,2689.6800000000003,Medium Stock,476,Valid,July,7
+10765,2026-07-04,Levocetirizine,Tablet,HealthPlus Distributors,20,57.27,134,2028-11-05,1145.4,Sufficient Stock,855,Valid,July,7
+10534,2026-07-04,Vitamin C,Tablet,MediCare Ltd,24,24.5,89,2027-11-06,588.0,Sufficient Stock,490,Valid,July,7
+10287,2026-07-04,Calcium Tablets,Tablet,Sunrise Pharma,38,6.98,80,2027-02-26,265.24,Medium Stock,237,Valid,July,7
+11100,2026-07-04,Amoxicillin,Capsule,Sunrise Pharma,17,44.11,101,2028-10-10,749.87,Sufficient Stock,829,Valid,July,7
+10456,2026-07-05,ORS,Sachet,Sunrise Pharma,18,76.82,100,2028-04-11,1382.7599999999998,Sufficient Stock,646,Valid,July,7
+10677,2026-07-05,Cetirizine,Syrup,MediCare Ltd,47,99.48,234,2028-07-24,4675.56,Sufficient Stock,750,Valid,July,7
+10795,2026-07-05,ORS,Sachet,Sunrise Pharma,45,102.26,138,2026-12-11,4601.7,Sufficient Stock,159,Valid,July,7
+10220,2026-07-05,Cetirizine,Syrup,MediCare Ltd,19,2.79,183,2028-06-11,53.01,Sufficient Stock,707,Valid,July,7
+10558,2026-07-05,Levocetirizine,Tablet,HealthPlus Distributors,46,32.26,74,2027-12-04,1483.9599999999998,Medium Stock,517,Valid,July,7
+10688,2026-07-05,Cetirizine,Syrup,Sunrise Pharma,38,17.46,67,2027-09-18,663.48,Medium Stock,440,Valid,July,7
+10269,2026-07-06,Paracetamol,Tablet,Sunrise Pharma,28,50.03,57,2027-05-05,1400.8400000000001,Medium Stock,303,Valid,July,7
+11060,2026-07-06,Amlodipine,Tablet,Sunrise Pharma,27,127.97,212,2028-01-26,3455.19,Sufficient Stock,569,Valid,July,7
+10356,2026-07-06,Paracetamol,Tablet,Sunrise Pharma,32,57.22,92,2027-02-28,1831.04,Sufficient Stock,237,Valid,July,7
+10174,2026-07-06,ORS,Sachet,Wellness Drugs,13,3.48,173,2028-05-22,45.24,Sufficient Stock,686,Valid,July,7
+10263,2026-07-06,Metformin,Tablet,MediCare Ltd,27,119.84,115,2027-04-29,3235.6800000000003,Sufficient Stock,297,Valid,July,7
+11013,2026-07-06,Cough Syrup,Syrup,Sunrise Pharma,34,85.46,129,2027-09-29,2905.64,Sufficient Stock,450,Valid,July,7
+10231,2026-07-06,Amlodipine,Tablet,Wellness Drugs,27,22.77,72,2027-12-03,614.79,Medium Stock,515,Valid,July,7
+10645,2026-07-06,Cough Syrup,Syrup,Sunrise Pharma,20,114.04,25,2027-11-18,2280.8,Medium Stock,500,Valid,July,7
+10397,2026-07-07,ORS,Sachet,Sunrise Pharma,23,99.54,138,2028-05-30,2289.42,Sufficient Stock,693,Valid,July,7
+10028,2026-07-07,Vitamin C,Tablet,MediCare Ltd,37,91.8,131,2028-12-08,3396.6,Sufficient Stock,885,Valid,July,7
+10067,2026-07-07,Calcium Tablets,Tablet,ABC Pharma,12,10.31,121,2027-07-30,123.72,Sufficient Stock,388,Valid,July,7
+10105,2026-07-07,Amoxicillin,Capsule,ABC Pharma,32,30.69,146,2027-09-14,982.08,Sufficient Stock,434,Valid,July,7
+10470,2026-07-07,Paracetamol,Tablet,HealthPlus Distributors,27,100.75,129,2028-04-07,2720.25,Sufficient Stock,640,Valid,July,7
+11160,2026-07-07,Amoxicillin,Capsule,Sunrise Pharma,29,68.86,220,2027-08-11,1996.94,Sufficient Stock,400,Valid,July,7
+10038,2026-07-07,Azithromycin,Tablet,Sunrise Pharma,41,93.28,156,2028-10-13,3824.48,Sufficient Stock,829,Valid,July,7
+10717,2026-07-08,Calcium Tablets,Tablet,HealthPlus Distributors,48,39.42,86,2027-07-18,1892.16,Sufficient Stock,375,Valid,July,7
+10577,2026-07-08,Paracetamol,Tablet,Sunrise Pharma,29,92.03,132,2028-08-07,2668.87,Sufficient Stock,761,Valid,July,7
+10007,2026-07-08,Calcium Tablets,Tablet,ABC Pharma,5,40.29,52,2027-05-04,201.45,Medium Stock,300,Valid,July,7
+10522,2026-07-08,Vitamin C,Tablet,ABC Pharma,9,27.92,78,2027-05-08,251.28000000000003,Medium Stock,304,Valid,July,7
+10650,2026-07-08,Vitamin C,Tablet,ABC Pharma,22,62.86,63,2027-01-24,1382.92,Medium Stock,200,Valid,July,7
+10338,2026-07-08,Ibuprofen,Tablet,HealthPlus Distributors,2,59.61,111,2028-09-09,119.22,Sufficient Stock,794,Valid,July,7
+10193,2026-07-09,Diclofenac,Tablet,Sunrise Pharma,34,11.91,192,2027-10-01,404.94,Sufficient Stock,449,Valid,July,7
+10189,2026-07-09,Ibuprofen,Tablet,ABC Pharma,22,59.4,54,2028-09-03,1306.8,Medium Stock,787,Valid,July,7
+11076,2026-07-09,Amoxicillin,Capsule,ABC Pharma,30,80.72,62,2027-07-10,2421.6,Medium Stock,366,Valid,July,7
+10197,2026-07-09,Vitamin C,Tablet,MediCare Ltd,21,145.27,82,2027-04-01,3050.67,Sufficient Stock,266,Valid,July,7
+10742,2026-07-09,ORS,Sachet,HealthPlus Distributors,4,103.21,120,2026-11-19,412.84,Sufficient Stock,133,Valid,July,7
+10458,2026-07-09,Levocetirizine,Tablet,Wellness Drugs,13,94.35,52,2026-10-11,1226.55,Medium Stock,94,Valid,July,7
+10871,2026-07-09,Calcium Tablets,Tablet,Wellness Drugs,19,89.08,150,2028-01-15,1692.52,Sufficient Stock,555,Valid,July,7
+10042,2026-07-09,Paracetamol,Tablet,Wellness Drugs,41,12.13,150,2027-10-12,497.33000000000004,Sufficient Stock,460,Valid,July,7
+10090,2026-07-09,Vitamin C,Tablet,Sunrise Pharma,38,54.36,102,2028-05-01,2065.68,Sufficient Stock,662,Valid,July,7
+10041,2026-07-09,Cough Syrup,Syrup,HealthPlus Distributors,29,79.17,105,2029-01-14,2295.93,Sufficient Stock,920,Valid,July,7
+10628,2026-07-09,Diclofenac,Tablet,MediCare Ltd,29,139.44,178,2027-09-26,4043.7599999999998,Sufficient Stock,444,Valid,July,7
+10044,2026-07-09,Ibuprofen,Tablet,Sunrise Pharma,2,138.27,105,2028-11-29,276.54,Sufficient Stock,874,Valid,July,7
+10097,2026-07-09,Vitamin C,Tablet,ABC Pharma,28,54.45,138,2027-11-30,1524.6000000000001,Sufficient Stock,509,Valid,July,7
+10540,2026-07-09,Cough Syrup,Syrup,HealthPlus Distributors,28,7.93,201,2027-12-15,222.04,Sufficient Stock,524,Valid,July,7
+10913,2026-07-10,ORS,Sachet,Sunrise Pharma,3,7.13,186,2028-08-16,21.39,Sufficient Stock,768,Valid,July,7
+10524,2026-07-10,Diclofenac,Tablet,Sunrise Pharma,11,34.63,56,2029-01-02,380.93,Medium Stock,907,Valid,July,7
+10452,2026-07-10,Azithromycin,Tablet,HealthPlus Distributors,34,85.38,138,2028-05-09,2902.92,Sufficient Stock,669,Valid,July,7
+10085,2026-07-10,ORS,Sachet,Sunrise Pharma,18,47.85,72,2028-08-29,861.3000000000001,Medium Stock,781,Valid,July,7
+10743,2026-07-10,ORS,Sachet,Sunrise Pharma,44,80.67,245,2028-03-03,3549.48,Sufficient Stock,602,Valid,July,7
+10803,2026-07-10,Cough Syrup,Syrup,ABC Pharma,25,65.83,20,2027-11-01,1645.75,Low Stock,479,Valid,July,7
+10399,2026-07-10,Calcium Tablets,Tablet,MediCare Ltd,10,129.72,79,2026-10-09,1297.2,Medium Stock,91,Valid,July,7
+10380,2026-07-11,Ibuprofen,Tablet,Sunrise Pharma,14,81.32,181,2027-03-06,1138.48,Sufficient Stock,238,Valid,July,7
+10801,2026-07-11,Diclofenac,Tablet,Wellness Drugs,1,81.96,152,2028-07-09,81.96,Sufficient Stock,729,Valid,July,7
+10904,2026-07-11,Diclofenac,Tablet,HealthPlus Distributors,6,121.2,183,2027-01-15,727.2,Sufficient Stock,188,Valid,July,7
+10027,2026-07-11,Amlodipine,Tablet,Wellness Drugs,18,110.44,5,2028-07-26,1987.92,Low Stock,746,Valid,July,7
+11025,2026-07-11,Pantoprazole,Tablet,Wellness Drugs,27,105.28,249,2027-09-03,2842.56,Sufficient Stock,419,Valid,July,7
+10620,2026-07-11,Calcium Tablets,Tablet,Wellness Drugs,23,13.68,150,2027-11-26,314.64,Sufficient Stock,503,Valid,July,7
+10523,2026-07-11,Cough Syrup,Syrup,MediCare Ltd,38,101.57,77,2029-01-05,3859.66,Medium Stock,909,Valid,July,7
+10373,2026-07-11,Diclofenac,Tablet,MediCare Ltd,47,4.83,35,2028-05-30,227.01,Medium Stock,689,Valid,July,7
+10143,2026-07-12,Pantoprazole,Tablet,ABC Pharma,49,63.53,42,2028-03-17,3112.9700000000003,Medium Stock,614,Valid,July,7
+10888,2026-07-12,ORS,Sachet,Wellness Drugs,36,139.7,72,2028-01-27,5029.2,Medium Stock,564,Valid,July,7
+10872,2026-07-12,Diclofenac,Tablet,Sunrise Pharma,48,60.86,155,2026-12-27,2921.2799999999997,Sufficient Stock,168,Valid,July,7
+10334,2026-07-13,Pantoprazole,Tablet,Sunrise Pharma,9,148.62,119,2028-04-22,1337.58,Sufficient Stock,649,Valid,July,7
+10417,2026-07-13,Levocetirizine,Tablet,MediCare Ltd,12,128.18,194,2027-04-24,1538.16,Sufficient Stock,285,Valid,July,7
+10934,2026-07-13,Vitamin C,Tablet,ABC Pharma,36,42.06,161,2027-07-20,1514.16,Sufficient Stock,372,Valid,July,7
+11101,2026-07-13,Pantoprazole,Tablet,Wellness Drugs,2,67.57,78,2026-09-02,135.14,Medium Stock,51,Expiring Soon,July,7
+10699,2026-07-13,Azithromycin,Tablet,ABC Pharma,18,80.78,228,2027-01-30,1454.04,Sufficient Stock,201,Valid,July,7
+10819,2026-07-13,Diclofenac,Tablet,Sunrise Pharma,18,109.8,26,2027-02-25,1976.3999999999999,Medium Stock,227,Valid,July,7
+10954,2026-07-14,Diclofenac,Tablet,HealthPlus Distributors,17,103.98,199,2027-12-17,1767.66,Sufficient Stock,521,Valid,July,7
+10727,2026-07-14,Cetirizine,Syrup,ABC Pharma,4,32.94,40,2027-07-25,131.76,Medium Stock,376,Valid,July,7
+10956,2026-07-14,Amlodipine,Tablet,ABC Pharma,48,84.32,123,2027-09-01,4047.3599999999997,Sufficient Stock,414,Valid,July,7
+10273,2026-07-14,Amlodipine,Tablet,Wellness Drugs,7,34.37,122,2027-09-16,240.58999999999997,Sufficient Stock,429,Valid,July,7
+10528,2026-07-14,Metformin,Tablet,MediCare Ltd,45,40.96,64,2026-11-28,1843.2,Medium Stock,137,Valid,July,7
+10350,2026-07-14,ORS,Sachet,ABC Pharma,35,107.83,107,2028-02-11,3774.0499999999997,Sufficient Stock,577,Valid,July,7
+10478,2026-07-15,Metformin,Tablet,Wellness Drugs,13,56.98,113,2028-04-16,740.74,Sufficient Stock,641,Valid,July,7
+10607,2026-07-15,Paracetamol,Tablet,Wellness Drugs,16,142.18,46,2028-09-29,2274.88,Medium Stock,807,Valid,July,7
+10303,2026-07-16,Metformin,Tablet,Wellness Drugs,21,11.95,102,2027-04-19,250.95,Sufficient Stock,277,Valid,July,7
+10374,2026-07-16,Amoxicillin,Capsule,HealthPlus Distributors,31,117.31,25,2027-06-08,3636.61,Medium Stock,327,Valid,July,7
+10849,2026-07-16,Diclofenac,Tablet,ABC Pharma,12,99.93,66,2027-08-16,1199.16,Medium Stock,396,Valid,July,7
+10541,2026-07-16,Cetirizine,Syrup,Wellness Drugs,6,45.14,227,2028-09-12,270.84000000000003,Sufficient Stock,789,Valid,July,7
+10816,2026-07-16,Amoxicillin,Capsule,HealthPlus Distributors,26,146.8,90,2028-01-06,3816.8,Sufficient Stock,539,Valid,July,7
+10257,2026-07-17,Cetirizine,Syrup,ABC Pharma,38,29.81,179,2027-09-09,1132.78,Sufficient Stock,419,Valid,July,7
+10244,2026-07-17,Levocetirizine,Tablet,HealthPlus Distributors,41,87.66,177,2027-04-03,3594.06,Sufficient Stock,260,Valid,July,7
+11064,2026-07-17,ORS,Sachet,Sunrise Pharma,33,14.59,39,2028-12-04,481.46999999999997,Medium Stock,871,Valid,July,7
+11070,2026-07-17,Calcium Tablets,Tablet,Wellness Drugs,48,16.05,101,2027-06-27,770.4000000000001,Sufficient Stock,345,Valid,July,7
+10203,2026-07-17,Paracetamol,Tablet,Wellness Drugs,39,66.15,138,2028-06-02,2579.8500000000004,Sufficient Stock,686,Valid,July,7
+10068,2026-07-18,Diclofenac,Tablet,ABC Pharma,35,74.68,176,2027-03-17,2613.8,Sufficient Stock,242,Valid,July,7
+10654,2026-07-18,ORS,Sachet,ABC Pharma,44,136.56,116,2028-06-13,6008.64,Sufficient Stock,696,Valid,July,7
+10277,2026-07-18,Diclofenac,Tablet,MediCare Ltd,9,122.61,237,2026-09-17,1103.49,Sufficient Stock,61,Expiring Soon,July,7
+10733,2026-07-19,Cough Syrup,Syrup,HealthPlus Distributors,37,58.39,209,2028-05-03,2160.43,Sufficient Stock,654,Valid,July,7
+10095,2026-07-19,Metformin,Tablet,Wellness Drugs,3,143.02,176,2028-03-30,429.06000000000006,Sufficient Stock,620,Valid,July,7
+10321,2026-07-19,Ibuprofen,Tablet,ABC Pharma,7,36.34,76,2028-07-14,254.38000000000002,Medium Stock,726,Valid,July,7
+10783,2026-07-19,Paracetamol,Tablet,Sunrise Pharma,40,76.36,132,2026-11-14,3054.4,Sufficient Stock,118,Valid,July,7
+10204,2026-07-19,Azithromycin,Tablet,Sunrise Pharma,4,149.58,243,2026-09-11,598.32,Sufficient Stock,54,Expiring Soon,July,7
+10261,2026-07-20,Paracetamol,Tablet,HealthPlus Distributors,23,123.63,209,2028-06-17,2843.49,Sufficient Stock,698,Valid,July,7
+10805,2026-07-20,Calcium Tablets,Tablet,Sunrise Pharma,7,137.43,109,2028-11-29,962.01,Sufficient Stock,863,Valid,July,7
+10130,2026-07-20,Levocetirizine,Tablet,Sunrise Pharma,11,54.43,161,2027-02-26,598.73,Sufficient Stock,221,Valid,July,7
+10618,2026-07-20,Levocetirizine,Tablet,Wellness Drugs,8,48.16,10,2027-06-23,385.28,Low Stock,338,Valid,July,7
+10864,2026-07-20,Pantoprazole,Tablet,Wellness Drugs,20,60.15,233,2026-09-16,1203.0,Sufficient Stock,58,Expiring Soon,July,7
+10601,2026-07-21,ORS,Sachet,Sunrise Pharma,32,140.11,76,2027-12-11,4483.52,Medium Stock,508,Valid,July,7
+11028,2026-07-21,Azithromycin,Tablet,Sunrise Pharma,40,102.1,215,2028-07-07,4084.0,Sufficient Stock,717,Valid,July,7
+10859,2026-07-21,Pantoprazole,Tablet,MediCare Ltd,21,139.12,188,2027-11-23,2921.52,Sufficient Stock,490,Valid,July,7
+10722,2026-07-21,Ibuprofen,Tablet,Sunrise Pharma,28,72.65,83,2028-08-02,2034.2000000000003,Sufficient Stock,743,Valid,July,7
+10089,2026-07-21,Levocetirizine,Tablet,MediCare Ltd,9,54.82,117,2028-08-27,493.38,Sufficient Stock,768,Valid,July,7
+10858,2026-07-21,Antacid,Tablet,ABC Pharma,5,130.52,17,2028-06-18,652.6,Low Stock,698,Valid,July,7
+10945,2026-07-22,Amoxicillin,Capsule,Wellness Drugs,10,71.22,21,2028-12-26,712.2,Medium Stock,888,Valid,July,7
+10013,2026-07-22,Metformin,Tablet,ABC Pharma,30,96.38,136,2027-01-31,2891.3999999999996,Sufficient Stock,193,Valid,July,7
+10938,2026-07-22,Amoxicillin,Capsule,Wellness Drugs,21,148.29,102,2028-06-27,3114.0899999999997,Sufficient Stock,706,Valid,July,7
+10248,2026-07-22,Azithromycin,Tablet,HealthPlus Distributors,17,108.03,152,2027-10-14,1836.51,Sufficient Stock,449,Valid,July,7
+11103,2026-07-22,Metformin,Tablet,Sunrise Pharma,5,127.79,195,2026-09-28,638.95,Sufficient Stock,68,Expiring Soon,July,7
+10779,2026-07-22,Amlodipine,Tablet,MediCare Ltd,43,26.89,233,2028-08-25,1156.27,Sufficient Stock,765,Valid,July,7
+10761,2026-07-22,Paracetamol,Tablet,HealthPlus Distributors,1,61.67,18,2028-08-22,61.67,Low Stock,762,Valid,July,7
+11150,2026-07-22,Amlodipine,Tablet,Sunrise Pharma,27,19.83,124,2028-01-14,535.41,Sufficient Stock,541,Valid,July,7
+11165,2026-07-22,Vitamin C,Tablet,ABC Pharma,25,63.39,121,2028-04-05,1584.75,Sufficient Stock,623,Valid,July,7
+10031,2026-07-23,Calcium Tablets,Tablet,ABC Pharma,28,142.82,91,2028-03-19,3998.96,Sufficient Stock,605,Valid,July,7
+10542,2026-07-23,Amlodipine,Tablet,Sunrise Pharma,44,32.72,93,2027-05-04,1439.6799999999998,Sufficient Stock,285,Valid,July,7
+10355,2026-07-23,Cetirizine,Syrup,Wellness Drugs,45,102.27,214,2027-10-18,4602.15,Sufficient Stock,452,Valid,July,7
+10785,2026-07-23,ORS,Sachet,Sunrise Pharma,8,143.8,175,2027-07-17,1150.4,Sufficient Stock,359,Valid,July,7
+10445,2026-07-23,Pantoprazole,Tablet,ABC Pharma,28,23.74,108,2027-07-08,664.7199999999999,Sufficient Stock,350,Valid,July,7
+10839,2026-07-24,Metformin,Tablet,ABC Pharma,22,63.74,63,2027-10-08,1402.28,Medium Stock,441,Valid,July,7
+10159,2026-07-24,Azithromycin,Tablet,HealthPlus Distributors,15,104.43,91,2026-09-08,1566.45,Sufficient Stock,46,Expiring Soon,July,7
+10808,2026-07-24,Vitamin C,Tablet,MediCare Ltd,20,73.64,205,2027-02-08,1472.8,Sufficient Stock,199,Valid,July,7
+10740,2026-07-24,Cough Syrup,Syrup,Sunrise Pharma,26,19.56,164,2028-09-26,508.55999999999995,Sufficient Stock,795,Valid,July,7
+10869,2026-07-24,Amoxicillin,Capsule,MediCare Ltd,41,47.35,213,2027-12-22,1941.3500000000001,Sufficient Stock,516,Valid,July,7
+10200,2026-07-24,Ibuprofen,Tablet,Wellness Drugs,21,12.97,125,2028-12-27,272.37,Sufficient Stock,887,Valid,July,7
+10935,2026-07-24,Antacid,Tablet,Wellness Drugs,39,14.02,247,2028-11-21,546.78,Sufficient Stock,851,Valid,July,7
+10536,2026-07-25,Levocetirizine,Tablet,ABC Pharma,7,53.98,161,2028-12-13,377.85999999999996,Sufficient Stock,872,Valid,July,7
+10656,2026-07-25,Pantoprazole,Tablet,HealthPlus Distributors,42,104.28,218,2028-04-30,4379.76,Sufficient Stock,645,Valid,July,7
+10096,2026-07-25,Calcium Tablets,Tablet,MediCare Ltd,3,50.36,131,2028-09-14,151.07999999999998,Sufficient Stock,782,Valid,July,7
+10146,2026-07-25,Paracetamol,Tablet,Sunrise Pharma,30,105.07,151,2028-11-23,3152.1,Sufficient Stock,852,Valid,July,7
+10073,2026-07-25,Azithromycin,Tablet,Wellness Drugs,26,98.97,175,2028-08-23,2573.22,Sufficient Stock,760,Valid,July,7
+11002,2026-07-26,Amoxicillin,Capsule,Wellness Drugs,32,6.12,241,2027-11-20,195.84,Sufficient Stock,482,Valid,July,7
+10212,2026-07-26,Diclofenac,Tablet,Sunrise Pharma,11,70.71,82,2027-05-24,777.81,Sufficient Stock,302,Valid,July,7
+10154,2026-07-26,Calcium Tablets,Tablet,ABC Pharma,46,19.08,183,2027-09-12,877.68,Sufficient Stock,413,Valid,July,7
+10896,2026-07-26,Azithromycin,Tablet,HealthPlus Distributors,34,9.59,222,2026-12-01,326.06,Sufficient Stock,128,Valid,July,7
+10310,2026-07-27,Ibuprofen,Tablet,HealthPlus Distributors,30,149.65,130,2027-04-13,4489.5,Sufficient Stock,260,Valid,July,7
+10337,2026-07-27,Amoxicillin,Capsule,Sunrise Pharma,35,106.69,175,2027-03-28,3734.15,Sufficient Stock,244,Valid,July,7
+10265,2026-07-27,Amoxicillin,Capsule,Wellness Drugs,17,104.47,207,2028-03-15,1775.99,Sufficient Stock,597,Valid,July,7
+10039,2026-07-27,Diclofenac,Tablet,Sunrise Pharma,39,111.95,90,2026-10-15,4366.05,Sufficient Stock,80,Expiring Soon,July,7
+10099,2026-07-27,ORS,Sachet,HealthPlus Distributors,15,141.29,29,2026-11-17,2119.35,Medium Stock,113,Valid,July,7
+10848,2026-07-28,Ibuprofen,Tablet,ABC Pharma,35,4.46,74,2028-07-27,156.1,Medium Stock,730,Valid,July,7
+10967,2026-07-29,Amlodipine,Tablet,Sunrise Pharma,41,130.1,225,2028-05-06,5334.099999999999,Sufficient Stock,647,Valid,July,7
+10624,2026-07-29,Paracetamol,Tablet,ABC Pharma,22,125.52,130,2027-11-17,2761.44,Sufficient Stock,476,Valid,July,7
+10011,2026-07-30,Paracetamol,Tablet,HealthPlus Distributors,46,89.24,43,2028-08-28,4105.04,Medium Stock,760,Valid,July,7
+10807,2026-07-31,Vitamin C,Tablet,Sunrise Pharma,3,126.94,236,2028-10-04,380.82,Sufficient Stock,796,Valid,July,7
+11090,2026-07-31,Pantoprazole,Tablet,ABC Pharma,20,87.62,14,2027-01-31,1752.4,Low Stock,184,Valid,July,7
+11115,2026-07-31,Amlodipine,Tablet,Wellness Drugs,7,82.56,159,2026-10-15,577.9200000000001,Sufficient Stock,76,Expiring Soon,July,7
+11038,2026-07-31,Cough Syrup,Syrup,HealthPlus Distributors,20,4.4,83,2027-09-08,88.0,Sufficient Stock,404,Valid,July,7
